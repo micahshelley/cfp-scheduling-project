@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Micah Shelley — Data Science Portfolio</title>
+  <title>Micah Shelley - Data Science Portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
   <style>
@@ -70,7 +70,7 @@
 
   <header>
     <img class="logo" src="cfp-logo.png" alt="College Football Playoff logo">
-    <h1>Micah Shelley — Data Science Portfolio</h1>
+    <h1>Micah Shelley: Data Science Portfolio</h1>
     <div class="meta">DTSC 2301 · Portfolio Project 1</div>
   </header>
 
@@ -117,14 +117,14 @@
     <p>
       <strong>Context:</strong> From 2014 through 2023, the College Football Playoff
       selected only four teams, so a single marquee non-conference loss could end a
-      team's championship hopes — an incentive to schedule cautiously. Starting in
+      team's championship hopes: an incentive to schedule cautiously. Starting in
       2024, the field expanded to twelve teams with guaranteed spots for the highest
       ranked conference champions, which could reduce the incentive to avoid tough
       non-conference opponents (Salaga & Fort, 2017; Eckard, 2019).
     </p>
     <p>
       <strong>Relevance:</strong> This matters to athletic directors, coaches, and
-      fans alike — schedule difficulty affects ticket sales, revenue-sharing "buy
+      fans alike: schedule difficulty affects ticket sales, revenue-sharing "buy
       games" against smaller schools, and how meaningfully regular-season games
       contribute to the sport's competitive integrity (Winfree, 2020).
     </p>
@@ -146,14 +146,14 @@
       <strong>Key variables (conceptualized and operationalized):</strong>
     </p>
     <ul>
-      <li><strong>Power Conference team</strong> — conceptually, a team from one of
+      <li><strong>Power Conference team</strong>: conceptually, a team from one of
         the sport's four wealthiest, most competitive conferences; operationalized
         as any team whose recorded conference for that season is ACC, Big Ten,
         Big 12, or SEC.</li>
-      <li><strong>Non-conference game</strong> — conceptually, a game that doesn't
+      <li><strong>Non-conference game</strong>: conceptually, a game that doesn't
         count toward conference standings; operationalized using the API's
         <code>conferenceGame</code> flag.</li>
-      <li><strong>Opponent strength</strong> — conceptually, how good an opponent
+      <li><strong>Opponent strength</strong>: conceptually, how good an opponent
         was; operationalized as the opponent's full-season win percentage
         (wins ÷ games played) for that season, a simple and transparent (if
         imperfect) proxy for team quality.</li>
@@ -164,7 +164,7 @@
     </p>
     <p>
       <strong>Missing values:</strong> Zero missing opponent win percentages in the
-      final dataset — every non-conference opponent had a matching season record.
+      final dataset, every non-conference opponent had a matching season record.
     </p>
     <p>
       <strong>Assumptions:</strong> "Power Conference" is defined using each team's
@@ -187,15 +187,15 @@
         conference was ACC, Big Ten, Big 12, or SEC.</li>
       <li>Joined each remaining game to the opponent's win percentage from the
         lookup table built in step 1.</li>
-      <li>Checked the merged dataset for missing values (<code>.isna().sum()</code>)
-        — found none, so no rows needed to be dropped for incompleteness.</li>
+      <li>Checked the merged dataset for missing values (<code>.isna().sum()</code>).
+         Found none, so no rows needed to be dropped for incompleteness.</li>
     </ul>
     <p>
       <strong>Trade-off worth noting:</strong> opponent win percentage reflects each
       opponent's <em>final</em> season record, which includes games played after the
-      matchup in question. This introduces a mild hindsight bias — a team's
+      matchup in question. This introduces a mild hindsight bias, a team's
       September opponent might have finished 8-4 partly due to games played in
-      November — but full-season win percentage was used because most non-conference
+      November, but full-season win percentage was used because most non-conference
       games are scheduled years in advance, long before either team's season-to-date
       form is knowable anyway.
     </p>
@@ -206,7 +206,7 @@
       <strong>Figure 1.</strong> Average non-conference opponent win percentage by
       season, with a dashed line marking the Playoff's expansion to 12 teams. The
       value fluctuates between roughly 47% and 52% across the whole period, with no
-      visible drop after 2023 — if anything, the two most recent seasons sit near
+      visible drop after 2023, if anything, the two most recent seasons sit near
       the higher end of the range.
     </p>
 
@@ -215,7 +215,7 @@
       <strong>Figure 2.</strong> Direct comparison of the two eras. The twelve-team
       era's average (50.8%) is actually slightly <em>higher</em> than the four-team
       era's (50.1%), the opposite direction from the hypothesis. Note the sample
-      size imbalance labeled on each bar — the four-team era spans 10 seasons versus
+      size imbalance labeled on each bar, the four-team era spans 10 seasons versus
       only 2 for the twelve-team era, which matters for interpreting the result (see
       Limitations).
     </p>
@@ -225,14 +225,14 @@
       Taken together, these charts tell a consistent story: there is no visible
       pattern of Power Conference teams "softening" their non-conference schedules
       since the Playoff expanded. A two-sample t-test comparing individual games
-      between eras returned <strong>t = -0.60, p = 0.55</strong> — far above the
+      between eras returned <strong>t = -0.60, p = 0.55</strong>, far above the
       conventional 0.05 threshold for statistical significance, meaning the small
       uptick observed is entirely consistent with ordinary season-to-season noise.
     </p>
     <p>
       <strong>What would be incorrect to conclude:</strong> it would be a mistake to
       read this as proof that the 12-team Playoff has <em>no</em> effect on
-      scheduling incentives at all — two seasons of post-expansion data is a small
+      scheduling incentives at all, two seasons of post-expansion data is a small
       sample, and other scheduling behaviors (e.g., number of Power-vs-Power
       matchups, willingness to play true road games, FCS "guarantee game" frequency)
       might respond differently than raw opponent win percentage does.
