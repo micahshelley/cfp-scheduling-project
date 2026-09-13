@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Has the 12-Team Playoff Changed Non-Conference Scheduling?</title>
+  <title>Micah Shelley — Data Science Portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
   <style>
     * { box-sizing: border-box; }
     body {
       font-family: 'Source Sans 3', sans-serif;
-      max-width: 760px;
+      max-width: 780px;
       margin: 0 auto;
       padding: 0 20px 60px;
       line-height: 1.65;
@@ -19,144 +19,271 @@
     header {
       background: #0a1f44;
       color: white;
-      margin: 0 -20px 40px;
-      padding: 40px 20px 36px;
+      margin: 0 -20px 30px;
+      padding: 40px 20px 30px;
       text-align: center;
     }
-    header img {
-      height: 70px;
-      margin-bottom: 18px;
+    header img.logo { height: 60px; margin-bottom: 16px; }
+    h1 { font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 1.9em; margin: 0 0 8px; }
+    header .meta { color: #c9a44c; font-size: 0.95em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
+    nav {
+      display: flex; justify-content: center; gap: 24px;
+      background: white; border-bottom: 1px solid #e5e5e5;
+      margin: 0 -20px 30px; padding: 14px 20px; font-weight: 600; font-size: 0.95em;
     }
-    h1 {
-      font-family: 'Oswald', sans-serif;
-      font-weight: 600;
-      font-size: 2em;
-      margin: 0 0 10px;
-      letter-spacing: -0.01em;
-    }
-    header .meta {
-      color: #c9a44c;
-      font-size: 0.95em;
-      font-weight: 600;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
-    }
+    nav a { color: #0a1f44; text-decoration: none; }
+    nav a:hover { color: #c9a44c; }
     h2 {
-      font-family: 'Oswald', sans-serif;
-      font-weight: 600;
-      font-size: 1.3em;
-      color: #0a1f44;
-      border-bottom: 3px solid #c9a44c;
-      display: inline-block;
-      padding-bottom: 4px;
-      margin-top: 40px;
+      font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 1.35em;
+      color: #0a1f44; border-bottom: 3px solid #c9a44c; display: inline-block;
+      padding-bottom: 4px; margin-top: 44px;
     }
+    h3 { font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 1.1em; color: #0a1f44; margin-top: 26px; }
     a { color: #0a1f44; }
     a:hover { color: #c9a44c; }
-    img.chart { max-width: 100%; border: 1px solid #ddd; border-radius: 8px; display: block; margin: 20px 0; }
-    .stat-box {
-      display: flex;
-      gap: 16px;
-      margin: 20px 0;
-      flex-wrap: wrap;
+    .btn {
+      display: inline-block; background: #0a1f44; color: white; text-decoration: none;
+      padding: 10px 20px; border-radius: 6px; font-weight: 600; margin: 6px 8px 6px 0;
     }
+    .btn:hover { background: #c9a44c; color: #0a1f44; }
+    img.chart, embed.resume { max-width: 100%; border: 1px solid #ddd; border-radius: 8px; display: block; margin: 20px 0; }
+    .stat-box { display: flex; gap: 16px; margin: 20px 0; flex-wrap: wrap; }
     .stat {
-      background: white;
-      border: 1px solid #e5e5e5;
-      border-top: 4px solid #0a1f44;
-      border-radius: 8px;
-      padding: 18px 20px;
-      text-align: center;
-      flex: 1;
-      min-width: 140px;
+      background: white; border: 1px solid #e5e5e5; border-top: 4px solid #0a1f44;
+      border-radius: 8px; padding: 18px 20px; text-align: center; flex: 1; min-width: 140px;
     }
-    .stat .number {
-      font-family: 'Oswald', sans-serif;
-      font-size: 1.8em;
-      font-weight: 700;
-      color: #0a1f44;
-    }
+    .stat .number { font-family: 'Oswald', sans-serif; font-size: 1.8em; font-weight: 700; color: #0a1f44; }
     .stat div:last-child { font-size: 0.9em; color: #555; margin-top: 4px; }
-    .conclusion {
-      background: #eef2fb;
-      border-left: 4px solid #0a1f44;
-      padding: 18px 22px;
-      margin: 25px 0;
-      border-radius: 0 8px 8px 0;
+    .callout {
+      background: #eef2fb; border-left: 4px solid #0a1f44; padding: 16px 20px;
+      margin: 20px 0; border-radius: 0 8px 8px 0;
     }
-    footer {
-      margin-top: 50px;
-      padding-top: 20px;
-      border-top: 1px solid #ddd;
-      font-size: 0.85em;
-      color: #777;
-      text-align: center;
-    }
+    .callout.warn { background: #fdf3e7; border-left-color: #c9a44c; }
+    ul, ol { padding-left: 22px; }
+    li { margin-bottom: 8px; }
+    .refs li { font-size: 0.95em; }
+    footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 0.85em; color: #777; text-align: center; }
+    section { scroll-margin-top: 20px; }
   </style>
 </head>
 <body>
 
   <header>
-    <img src="cfp-logo.png" alt="College Football Playoff logo">
-    <h1>Has the 12-Team Playoff Changed Non-Conference Scheduling?</h1>
-    <div class="meta">DTSC 2301 · Portfolio Project 1 · Micah Shelley</div>
+    <img class="logo" src="cfp-logo.png" alt="College Football Playoff logo">
+    <h1>Micah Shelley — Data Science Portfolio</h1>
+    <div class="meta">DTSC 2301 · Portfolio Project 1</div>
   </header>
 
-  <h2>Research Question</h2>
-  <p>
-    Has the expansion of the College Football Playoff from 4 to 12 teams changed
-    how Power Conference teams schedule non-conference opponents? Specifically,
-    did the average non-conference opponent win percentage drop in the 2024–2025
-    season compared to the four-team era (2014–2023)?
-  </p>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#resume">Resume</a>
+    <a href="#linkedin">LinkedIn</a>
+    <a href="#project">Project 1</a>
+  </nav>
 
-  <h2>Method</h2>
-  <p>
-    Using game and season-record data from the
-    <a href="https://collegefootballdata.com">College Football Data API</a>,
-    I collected every non-conference game played by a Power 4 team (ACC, Big Ten,
-    Big 12, SEC) from 2014 through 2025, and looked up each opponent's overall
-    win percentage for that season. I then compared the average opponent win
-    percentage between the four-team playoff era (2014–2023) and the twelve-team
-    era (2024–2025), and tested the difference with a two-sample t-test.
-  </p>
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+    My name is Micah Shelley, and I am a data science student at the University of North Carolina at Charlotte. I have a strong interest in sports analytics, particularly in football, hockey, soccer, and volleyball. In my free time I enjoy watching sports, playing intramural sports, and playing in my band. I want to use my degree to pursue a career working with a sports team, providing analytical reports and insight to give advantage in competition. I would also be interested in working with a broadcasting team or working with individual athletes to measure wear on bodies through exercise and optimilizing recovery.  
+    </p>
+  </section>
 
-  <h2>Results</h2>
-  <div class="stat-box">
-    <div class="stat">
-      <div class="number">50.1%</div>
-      <div>Avg. opponent win % (2014–2023)</div>
+  <section id="resume">
+    <h2>Resume</h2>
+    <p>
+      <a class="btn" href="resume.pdf" download>Download Resume (PDF)</a>
+    </p>
+    <embed class="resume" src="resume.pdf" type="application/pdf" width="100%" height="500px">
+  </section>
+
+  <section id="linkedin">
+    <h2>LinkedIn</h2>
+    <p><a class="btn" href="https://www.linkedin.com/in/MicahShelley/" target="_blank">View my LinkedIn Profile</a></p>
+  </section>
+
+  <hr style="margin: 50px 0; border: none; border-top: 1px solid #ddd;">
+
+  <section id="project">
+    <h1 style="font-size: 1.5em; color:#0a1f44;">Project 1: Has the 12-Team Playoff Changed Non-Conference Scheduling?</h1>
+
+    <h2>1. Problem Definition</h2>
+    <p>
+      <strong>Research question:</strong> Has the expansion of the College Football
+      Playoff from 4 to 12 teams changed how Power Conference teams schedule
+      non-conference opponents? Specifically, did the average non-conference
+      opponent win percentage drop in the 2024–2025 season compared to the
+      four-team era (2014–2023)?
+    </p>
+    <p>
+      <strong>Context:</strong> From 2014 through 2023, the College Football Playoff
+      selected only four teams, so a single marquee non-conference loss could end a
+      team's championship hopes — an incentive to schedule cautiously. Starting in
+      2024, the field expanded to twelve teams with guaranteed spots for the highest
+      ranked conference champions, which could reduce the incentive to avoid tough
+      non-conference opponents (Salaga & Fort, 2017; Eckard, 2019).
+    </p>
+    <p>
+      <strong>Relevance:</strong> This matters to athletic directors, coaches, and
+      fans alike — schedule difficulty affects ticket sales, revenue-sharing "buy
+      games" against smaller schools, and how meaningfully regular-season games
+      contribute to the sport's competitive integrity (Winfree, 2020).
+    </p>
+
+    <h2>2. Data Description</h2>
+    <p>
+      <strong>Source:</strong> All data was collected via the
+      <a href="https://collegefootballdata.com">College Football Data API</a>
+      (College Football Data, n.d.), a free public API aggregating official NCAA
+      game and season-record data, using two endpoints: <code>/games</code> and
+      <code>/records</code>.
+    </p>
+    <p>
+      <strong>Unit of analysis:</strong> Each row represents one non-conference
+      football game played by a Power Conference team (ACC, Big Ten, Big 12, or
+      SEC) in a given season, from that team's perspective.
+    </p>
+    <p>
+      <strong>Key variables (conceptualized and operationalized):</strong>
+    </p>
+    <ul>
+      <li><strong>Power Conference team</strong> — conceptually, a team from one of
+        the sport's four wealthiest, most competitive conferences; operationalized
+        as any team whose recorded conference for that season is ACC, Big Ten,
+        Big 12, or SEC.</li>
+      <li><strong>Non-conference game</strong> — conceptually, a game that doesn't
+        count toward conference standings; operationalized using the API's
+        <code>conferenceGame</code> flag.</li>
+      <li><strong>Opponent strength</strong> — conceptually, how good an opponent
+        was; operationalized as the opponent's full-season win percentage
+        (wins ÷ games played) for that season, a simple and transparent (if
+        imperfect) proxy for team quality.</li>
+    </ul>
+    <p>
+      <strong>Size:</strong> 2,179 team-game rows spanning the 2014–2025 seasons,
+      matched against a lookup table of 8,120 team-season win/loss records.
+    </p>
+    <p>
+      <strong>Missing values:</strong> Zero missing opponent win percentages in the
+      final dataset — every non-conference opponent had a matching season record.
+    </p>
+    <p>
+      <strong>Assumptions:</strong> "Power Conference" is defined using each team's
+      current-era conference (e.g., Oregon counts as Big Ten across the whole
+      dataset, not Pac-12), since the Pac-12 largely dissolved in 2024 and no
+      longer functions as a peer group of similar programs.
+    </p>
+
+    <h2>3. Data Cleaning and Preparation</h2>
+    <p>Using pandas, the raw API responses were processed as follows:</p>
+    <ul>
+      <li>Pulled season win/loss records for every team from 2014–2025 and computed
+        <code>win_pct = wins / games_played</code> for each team-season, stored in a
+        lookup dictionary keyed by (year, team).</li>
+      <li>Pulled every regular-season game for 2014–2025 and dropped any game
+        flagged <code>conferenceGame = True</code>, since the question is
+        specifically about non-conference scheduling.</li>
+      <li>Kept a row for either side of a game (or both, if two Power Conference
+        teams played a non-conference game against each other) whenever that side's
+        conference was ACC, Big Ten, Big 12, or SEC.</li>
+      <li>Joined each remaining game to the opponent's win percentage from the
+        lookup table built in step 1.</li>
+      <li>Checked the merged dataset for missing values (<code>.isna().sum()</code>)
+        — found none, so no rows needed to be dropped for incompleteness.</li>
+    </ul>
+    <p>
+      <strong>Trade-off worth noting:</strong> opponent win percentage reflects each
+      opponent's <em>final</em> season record, which includes games played after the
+      matchup in question. This introduces a mild hindsight bias — a team's
+      September opponent might have finished 8-4 partly due to games played in
+      November — but full-season win percentage was used because most non-conference
+      games are scheduled years in advance, long before either team's season-to-date
+      form is knowable anyway.
+    </p>
+
+    <h2>4. Visualizations and Insights</h2>
+    <img class="chart" src="opponent_win_pct_chart.png" alt="Line chart of average non-conference opponent win percentage by season, 2014-2025">
+    <p>
+      <strong>Figure 1.</strong> Average non-conference opponent win percentage by
+      season, with a dashed line marking the Playoff's expansion to 12 teams. The
+      value fluctuates between roughly 47% and 52% across the whole period, with no
+      visible drop after 2023 — if anything, the two most recent seasons sit near
+      the higher end of the range.
+    </p>
+
+    <img class="chart" src="era_comparison_chart.png" alt="Bar chart comparing average non-conference opponent win percentage between the four-team and twelve-team playoff eras">
+    <p>
+      <strong>Figure 2.</strong> Direct comparison of the two eras. The twelve-team
+      era's average (50.8%) is actually slightly <em>higher</em> than the four-team
+      era's (50.1%), the opposite direction from the hypothesis. Note the sample
+      size imbalance labeled on each bar — the four-team era spans 10 seasons versus
+      only 2 for the twelve-team era, which matters for interpreting the result (see
+      Limitations).
+    </p>
+
+    <h2>5. Storytelling and Narrative</h2>
+    <p>
+      Taken together, these charts tell a consistent story: there is no visible
+      pattern of Power Conference teams "softening" their non-conference schedules
+      since the Playoff expanded. A two-sample t-test comparing individual games
+      between eras returned <strong>t = -0.60, p = 0.55</strong> — far above the
+      conventional 0.05 threshold for statistical significance, meaning the small
+      uptick observed is entirely consistent with ordinary season-to-season noise.
+    </p>
+    <p>
+      <strong>What would be incorrect to conclude:</strong> it would be a mistake to
+      read this as proof that the 12-team Playoff has <em>no</em> effect on
+      scheduling incentives at all — two seasons of post-expansion data is a small
+      sample, and other scheduling behaviors (e.g., number of Power-vs-Power
+      matchups, willingness to play true road games, FCS "guarantee game" frequency)
+      might respond differently than raw opponent win percentage does.
+    </p>
+
+    <h2>6. Limitations, Ethics, and Reflection</h2>
+    <ul>
+      <li><strong>Small post-expansion sample:</strong> only 2 seasons (2024–2025)
+        exist under the new format, versus 10 for the old one, limiting statistical
+        power.</li>
+      <li><strong>Conference realignment:</strong> defining "Power Conference" by
+        current membership excludes the historical Pac-12, a genuinely elite
+        conference for most of 2014–2023, which may understate how competitive
+        non-conference scheduling actually was in the earlier era.</li>
+      <li><strong>Hindsight bias in opponent strength:</strong> using final-season
+        win percentage doesn't capture what was known about an opponent at the time
+        a game was actually scheduled (often years in advance) or played.</li>
+      <li><strong>Missing context:</strong> the dataset doesn't capture game location
+        (home/away/neutral), rivalry status, broadcast/revenue motivations for "buy
+        games," or the Playoff committee's own strength-of-schedule metric, which
+        differs from simple win percentage.</li>
+      <li><strong>Roster quality vs. record:</strong> win percentage doesn't
+        distinguish a genuinely weak team from a talented team that had bad luck
+        (close losses, injuries), so it's an imperfect proxy for "how good" an
+        opponent really was.</li>
+    </ul>
+
+    <h2>7. Code and Transparency</h2>
+    <p>
+      Full analysis notebook, dataset, and code available in the
+      <a href="https://github.com/micahshelley/cfp-scheduling-project">GitHub repository</a>.
+    </p>
+    <p>
+      <strong>Data source:</strong> College Football Data. (n.d.). <em>College
+      Football Data API</em> [Data set]. https://collegefootballdata.com
+    </p>
+    <div class="callout warn">
+      <strong>AI usage disclosure:</strong> I used Claude (Anthropic) to help troubleshoot difficulties with my code when recieved error messages I didn't understand. I also used Claude to help with step by step instructions on how to upload my findings to my GitHub website. I did not use AI to generate any of the analysis, visualizations, or written content in this portfolio.
     </div>
-    <div class="stat">
-      <div class="number">50.8%</div>
-      <div>Avg. opponent win % (2024–2025)</div>
-    </div>
-    <div class="stat">
-      <div class="number">p = 0.55</div>
-      <div>Statistical significance</div>
-    </div>
-  </div>
 
-  <img class="chart" src="opponent_win_pct_chart.png" alt="Chart of average non-conference opponent win percentage by season">
-
-  <div class="conclusion">
-    <strong>Conclusion:</strong> No, the data does not support the idea that
-    non-conference opponents got easier after the Playoff expanded to 12 teams.
-    If anything, the average opponent win percentage went up very slightly
-    (50.1% → 50.8%) in the new era, not down — but that tiny difference isn't
-    statistically significant (p = 0.55), so the honest conclusion is that
-    scheduling behavior hasn't meaningfully changed, at least not yet, with only
-    two seasons of data in the new format.
-  </div>
-
-  <h2>Code &amp; Data</h2>
-  <p>
-    Full analysis notebook and dataset available in the
-    <a href="https://github.com/micahshelley/cfp-scheduling-project">GitHub repository</a>.
-  </p>
+    <h2>References</h2>
+    <ul class="refs">
+      <li>College Football Data. (n.d.). <em>College Football Data API</em> [Data set]. https://collegefootballdata.com</li>
+      <li>Eckard, E. W. (2019). Does the NCAA's collegiate model promote competitive balance? Power-5 conference football versus the NFL. <em>Journal of Sports Economics, 20</em>(5), 654–670. https://doi.org/10.1177/1527002518798687</li>
+      <li>Salaga, S., &amp; Fort, R. (2017). Structural change in competitive balance in big-time college football. <em>Review of Industrial Organization, 50</em>(1), 27–41. https://doi.org/10.1007/s11151-016-9526-z</li>
+      <li>Winfree, J. A. (2020). Rivalries, bowl eligibility, and scheduling effects in college football. <em>Journal of Sports Economics, 21</em>(5), 477–492. https://doi.org/10.1177/1527002520916915</li>
+    </ul>
+  </section>
 
   <footer>
-    Built by Micah Shelley for DTSC 2301 · Data via collegefootballdata.com
+    Built by Micah Shelley for DTSC 2301
   </footer>
 
 </body>
