@@ -1,39 +1,39 @@
 season,team,team_conference,opponent,opponent_conference,opponent_win_pct
-2014,Wake Forest,ACC,UL Monroe,Sun Belt,0.3333333333333333
 2014,Minnesota,Big Ten,Eastern Illinois,OVC,0.4166666666666667
+2014,Wake Forest,ACC,UL Monroe,Sun Belt,0.3333333333333333
 2014,Ole Miss,SEC,Boise State,Mountain West,0.8571428571428571
 2014,Rutgers,Big Ten,Washington State,Pac-12,0.25
 2014,Vanderbilt,SEC,Temple,American Athletic,0.5
 2014,Michigan State,Big Ten,Jacksonville State,OVC,0.8333333333333334
 2014,Syracuse,ACC,Villanova,CAA,0.7857142857142857
 2014,Penn State,Big Ten,UCF,American Athletic,0.6923076923076923
-2014,Purdue,Big Ten,Western Michigan,Mid-American,0.6153846153846154
-2014,Michigan,Big Ten,App State,Sun Belt,0.5833333333333334
-2014,Ohio State,Big Ten,Navy,FBS Independents,0.6153846153846154
-2014,Virginia,ACC,UCLA,Pac-12,0.7692307692307693
-2014,Illinois,Big Ten,Youngstown State,MVFC,0.5833333333333334
-2014,Iowa State,Big 12,North Dakota State,MVFC,0.9375
 2014,Pittsburgh,ACC,Delaware,CAA,0.5
-2014,Indiana,Big Ten,Indiana State,MVFC,0.5714285714285714
 2014,Kentucky,SEC,UT Martin,OVC,0.5
 2014,Iowa,Big Ten,Northern Iowa,MVFC,0.6428571428571429
+2014,Indiana,Big Ten,Indiana State,MVFC,0.5714285714285714
+2014,Iowa State,Big 12,North Dakota State,MVFC,0.9375
+2014,Virginia,ACC,UCLA,Pac-12,0.7692307692307693
+2014,Michigan,Big Ten,App State,Sun Belt,0.5833333333333334
+2014,Ohio State,Big Ten,Navy,FBS Independents,0.6153846153846154
+2014,Illinois,Big Ten,Youngstown State,MVFC,0.5833333333333334
+2014,Purdue,Big Ten,Western Michigan,Mid-American,0.6153846153846154
 2014,Georgia Tech,ACC,Wofford,Southern,0.5454545454545454
 2014,NC State,ACC,Georgia Southern,Sun Belt,0.75
 2014,Boston College,ACC,Massachusetts,Mid-American,0.25
 2014,Maryland,Big Ten,James Madison,CAA,0.6923076923076923
-2014,Nebraska,Big Ten,Florida Atlantic,Conference USA,0.25
 2014,Northwestern,Big Ten,California,Pac-12,0.4166666666666667
+2014,Nebraska,Big Ten,Florida Atlantic,Conference USA,0.25
+2014,Missouri,SEC,South Dakota State,MVFC,0.6428571428571429
 2014,Alabama,SEC,West Virginia,Big 12,0.5384615384615384
 2014,West Virginia,Big 12,Alabama,SEC,0.8571428571428571
-2014,Missouri,SEC,South Dakota State,MVFC,0.6428571428571429
 2014,Virginia Tech,ACC,William & Mary,CAA,0.5833333333333334
 2014,Georgia,SEC,Clemson,ACC,0.7692307692307693
 2014,Clemson,ACC,Georgia,SEC,0.7692307692307693
 2014,Duke,ACC,Elon,CAA,0.08333333333333333
 2014,North Carolina,ACC,Liberty,Big South,0.6428571428571429
 2014,Oklahoma,Big 12,Louisiana Tech,Conference USA,0.6428571428571429
-2014,TCU,Big 12,Samford,Southern,0.6
 2014,Texas Tech,Big 12,Central Arkansas,Southland,0.5
+2014,TCU,Big 12,Samford,Southern,0.6
 2014,Kansas State,Big 12,Stephen F. Austin,Southland,0.5833333333333334
 2014,Mississippi State,SEC,Southern Miss,Conference USA,0.25
 2014,Texas,Big 12,North Texas,Conference USA,0.3333333333333333
@@ -43,77 +43,77 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2014,Wisconsin,Big Ten,LSU,SEC,0.6153846153846154
 2014,Tennessee,SEC,Utah State,Mountain West,0.7142857142857143
 2014,Baylor,Big 12,SMU,American Athletic,0.08333333333333333
-2014,Tennessee,SEC,Arkansas State,Sun Belt,0.5384615384615384
+2014,Penn State,Big Ten,Akron,Mid-American,0.4166666666666667
 2014,Missouri,SEC,Toledo,Mid-American,0.6923076923076923
+2014,Tennessee,SEC,Arkansas State,Sun Belt,0.5384615384615384
+2014,Purdue,Big Ten,Central Michigan,Mid-American,0.5384615384615384
+2014,Illinois,Big Ten,Western Kentucky,Conference USA,0.6153846153846154
 2014,Alabama,SEC,Florida Atlantic,Conference USA,0.25
 2014,Nebraska,Big Ten,McNeese,Southland,0.5454545454545454
-2014,Oklahoma,Big 12,Tulsa,American Athletic,0.16666666666666666
-2014,Rutgers,Big Ten,Howard,MEAC,0.4166666666666667
 2014,Wisconsin,Big Ten,Western Illinois,MVFC,0.4166666666666667
-2014,Illinois,Big Ten,Western Kentucky,Conference USA,0.6153846153846154
-2014,Penn State,Big Ten,Akron,Mid-American,0.4166666666666667
-2014,Purdue,Big Ten,Central Michigan,Mid-American,0.5384615384615384
+2014,Rutgers,Big Ten,Howard,MEAC,0.4166666666666667
+2014,Oklahoma,Big 12,Tulsa,American Athletic,0.16666666666666666
 2014,Clemson,ACC,South Carolina State,MEAC,0.6666666666666666
 2014,Mississippi State,SEC,UAB,Conference USA,0.5
 2014,Iowa,Big Ten,Ball State,Mid-American,0.4166666666666667
-2014,Northwestern,Big Ten,Northern Illinois,Mid-American,0.7857142857142857
-2014,Kentucky,SEC,Ohio,Mid-American,0.5
-2014,Minnesota,Big Ten,Middle Tennessee,Conference USA,0.5
 2014,Virginia,ACC,Richmond,CAA,0.6428571428571429
-2014,Oklahoma State,Big 12,Missouri State,MVFC,0.3333333333333333
 2014,Maryland,Big Ten,South Florida,American Athletic,0.3333333333333333
-2014,Arkansas,SEC,Nicholls,Southland,0.0
-2014,Georgia Tech,ACC,Tulane,American Athletic,0.25
+2014,Northwestern,Big Ten,Northern Illinois,Mid-American,0.7857142857142857
+2014,Minnesota,Big Ten,Middle Tennessee,Conference USA,0.5
+2014,Kentucky,SEC,Ohio,Mid-American,0.5
+2014,Oklahoma State,Big 12,Missouri State,MVFC,0.3333333333333333
 2014,Florida,SEC,Eastern Michigan,Mid-American,0.16666666666666666
+2014,Georgia Tech,ACC,Tulane,American Athletic,0.25
+2014,Arkansas,SEC,Nicholls,Southland,0.0
 2014,NC State,ACC,Old Dominion,Conference USA,0.5
-2014,Wake Forest,ACC,Gardner-Webb,Big South,0.3333333333333333
 2014,Michigan State,Big Ten,Oregon,Pac-12,0.8666666666666667
+2014,Wake Forest,ACC,Gardner-Webb,Big South,0.3333333333333333
 2014,Auburn,SEC,San José State,Mountain West,0.25
 2014,Miami,ACC,Florida A&M,MEAC,0.25
-2014,Kansas,Big 12,Southeast Missouri State,OVC,0.4166666666666667
-2014,South Carolina,SEC,East Carolina,American Athletic,0.6153846153846154
 2014,Louisville,ACC,Murray State,OVC,0.25
 2014,Duke,ACC,Troy,Sun Belt,0.25
+2014,South Carolina,SEC,East Carolina,American Athletic,0.6153846153846154
+2014,Kansas,Big 12,Southeast Missouri State,OVC,0.4166666666666667
 2014,Texas,Big 12,BYU,FBS Independents,0.6153846153846154
+2014,LSU,SEC,Sam Houston,Southland,0.7333333333333333
+2014,Michigan,Big Ten,Notre Dame,FBS Independents,0.6153846153846154
 2014,West Virginia,Big 12,Towson,CAA,0.3333333333333333
 2014,Texas A&M,SEC,Lamar,Southland,0.6
-2014,LSU,SEC,Sam Houston,Southland,0.7333333333333333
-2014,Baylor,Big 12,Northwestern State,Southland,0.5
 2014,Florida State,ACC,The Citadel,Southern,0.36363636363636365
-2014,Michigan,Big Ten,Notre Dame,FBS Independents,0.6153846153846154
-2014,North Carolina,ACC,San Diego State,Mountain West,0.5384615384615384
+2014,Baylor,Big 12,Northwestern State,Southland,0.5
 2014,Ohio State,Big Ten,Virginia Tech,ACC,0.5384615384615384
 2014,Virginia Tech,ACC,Ohio State,Big Ten,0.9333333333333333
+2014,North Carolina,ACC,San Diego State,Mountain West,0.5384615384615384
 2014,Texas Tech,Big 12,UTEP,Conference USA,0.5384615384615384
 2014,Baylor,Big 12,Buffalo,Mid-American,0.45454545454545453
-2014,Pittsburgh,ACC,Florida International,Conference USA,0.3333333333333333
-2014,Maryland,Big Ten,West Virginia,Big 12,0.5384615384615384
-2014,West Virginia,Big 12,Maryland,Big Ten,0.5384615384615384
-2014,Virginia Tech,ACC,East Carolina,American Athletic,0.6153846153846154
-2014,Vanderbilt,SEC,Massachusetts,Mid-American,0.25
+2014,Ohio State,Big Ten,Kent State,Mid-American,0.18181818181818182
 2014,Missouri,SEC,UCF,American Athletic,0.6923076923076923
 2014,Syracuse,ACC,Central Michigan,Mid-American,0.5384615384615384
+2014,Maryland,Big Ten,West Virginia,Big 12,0.5384615384615384
+2014,West Virginia,Big 12,Maryland,Big Ten,0.5384615384615384
 2014,Indiana,Big Ten,Bowling Green,Mid-American,0.5714285714285714
-2014,Ohio State,Big Ten,Kent State,Mid-American,0.18181818181818182
 2014,Georgia Tech,ACC,Georgia Southern,Sun Belt,0.75
+2014,Virginia Tech,ACC,East Carolina,American Athletic,0.6153846153846154
+2014,Vanderbilt,SEC,Massachusetts,Mid-American,0.25
+2014,Pittsburgh,ACC,Florida International,Conference USA,0.3333333333333333
 2014,Miami,ACC,Arkansas State,Sun Belt,0.5384615384615384
 2014,NC State,ACC,South Florida,American Athletic,0.3333333333333333
+2014,Michigan,Big Ten,Miami (OH),Mid-American,0.16666666666666666
 2014,Iowa,Big Ten,Iowa State,Big 12,0.16666666666666666
 2014,Iowa State,Big 12,Iowa,Big Ten,0.5384615384615384
-2014,Michigan,Big Ten,Miami (OH),Mid-American,0.16666666666666666
-2014,Duke,ACC,Kansas,Big 12,0.25
-2014,Kansas,Big 12,Duke,ACC,0.6923076923076923
 2014,Texas Tech,Big 12,Arkansas,SEC,0.5384615384615384
 2014,Arkansas,SEC,Texas Tech,Big 12,0.3333333333333333
+2014,Duke,ACC,Kansas,Big 12,0.25
+2014,Kansas,Big 12,Duke,ACC,0.6923076923076923
 2014,Illinois,Big Ten,Washington,Pac-12,0.5714285714285714
 2014,TCU,Big 12,Minnesota,Big Ten,0.6153846153846154
 2014,Minnesota,Big Ten,TCU,Big 12,0.9230769230769231
-2014,Ole Miss,SEC,Louisiana,Sun Belt,0.6923076923076923
 2014,Mississippi State,SEC,South Alabama,Sun Belt,0.46153846153846156
+2014,Ole Miss,SEC,Louisiana,Sun Belt,0.6923076923076923
 2014,Alabama,SEC,Southern Miss,Conference USA,0.25
-2014,Oklahoma State,Big 12,UTSA,Conference USA,0.3333333333333333
-2014,Wake Forest,ACC,Utah State,Mountain West,0.7142857142857143
 2014,LSU,SEC,UL Monroe,Sun Belt,0.3333333333333333
+2014,Wake Forest,ACC,Utah State,Mountain West,0.7142857142857143
+2014,Oklahoma State,Big 12,UTSA,Conference USA,0.3333333333333333
 2014,Purdue,Big Ten,Notre Dame,FBS Independents,0.6153846153846154
 2014,Oklahoma,Big 12,Tennessee,SEC,0.5384615384615384
 2014,Tennessee,SEC,Oklahoma,Big 12,0.6153846153846154
@@ -123,47 +123,47 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2014,Nebraska,Big Ten,Fresno State,Mountain West,0.42857142857142855
 2014,Kansas State,Big 12,Auburn,SEC,0.6153846153846154
 2014,Auburn,SEC,Kansas State,Big 12,0.6923076923076923
-2014,Pittsburgh,ACC,Iowa,Big Ten,0.5384615384615384
-2014,Iowa,Big Ten,Pittsburgh,ACC,0.46153846153846156
-2014,Wisconsin,Big Ten,Bowling Green,Mid-American,0.5714285714285714
 2014,Georgia,SEC,Troy,Sun Belt,0.25
 2014,Michigan State,Big Ten,Eastern Michigan,Mid-American,0.16666666666666666
-2014,Purdue,Big Ten,Southern Illinois,MVFC,0.5
+2014,Wisconsin,Big Ten,Bowling Green,Mid-American,0.5714285714285714
+2014,Pittsburgh,ACC,Iowa,Big Ten,0.5384615384615384
+2014,Iowa,Big Ten,Pittsburgh,ACC,0.46153846153846156
 2014,Northwestern,Big Ten,Western Illinois,MVFC,0.4166666666666667
+2014,Purdue,Big Ten,Southern Illinois,MVFC,0.5
 2014,Syracuse,ACC,Maryland,Big Ten,0.5384615384615384
 2014,Maryland,Big Ten,Syracuse,ACC,0.25
 2014,Duke,ACC,Tulane,American Athletic,0.25
 2014,Boston College,ACC,Maine,CAA,0.45454545454545453
-2014,North Carolina,ACC,East Carolina,American Athletic,0.6153846153846154
-2014,Kansas,Big 12,Central Michigan,Mid-American,0.5384615384615384
 2014,Michigan,Big Ten,Utah,Pac-12,0.6923076923076923
-2014,Texas A&M,SEC,SMU,American Athletic,0.08333333333333333
 2014,Louisville,ACC,Florida International,Conference USA,0.3333333333333333
-2014,Wake Forest,ACC,Army,FBS Independents,0.3333333333333333
-2014,Virginia,ACC,BYU,FBS Independents,0.6153846153846154
 2014,Rutgers,Big Ten,Navy,FBS Independents,0.6153846153846154
-2014,Missouri,SEC,Indiana,Big Ten,0.3333333333333333
-2014,Indiana,Big Ten,Missouri,SEC,0.7857142857142857
-2014,Minnesota,Big Ten,San José State,Mountain West,0.25
+2014,North Carolina,ACC,East Carolina,American Athletic,0.6153846153846154
+2014,Texas A&M,SEC,SMU,American Athletic,0.08333333333333333
+2014,Kansas,Big 12,Central Michigan,Mid-American,0.5384615384615384
+2014,Virginia,ACC,BYU,FBS Independents,0.6153846153846154
+2014,Wake Forest,ACC,Army,FBS Independents,0.3333333333333333
 2014,Penn State,Big Ten,Massachusetts,Mid-American,0.25
 2014,Illinois,Big Ten,Texas State,Sun Belt,0.5833333333333334
+2014,Minnesota,Big Ten,San José State,Mountain West,0.25
+2014,Missouri,SEC,Indiana,Big Ten,0.3333333333333333
+2014,Indiana,Big Ten,Missouri,SEC,0.7857142857142857
 2014,NC State,ACC,Presbyterian,Big South,0.5454545454545454
 2014,Arkansas,SEC,Northern Illinois,Mid-American,0.7857142857142857
 2014,Nebraska,Big Ten,Miami,ACC,0.46153846153846156
 2014,Miami,ACC,Nebraska,Big Ten,0.6923076923076923
-2014,Michigan State,Big Ten,Wyoming,Mountain West,0.3333333333333333
-2014,Rutgers,Big Ten,Tulane,American Athletic,0.25
 2014,TCU,Big 12,SMU,American Athletic,0.08333333333333333
 2014,Wisconsin,Big Ten,South Florida,American Athletic,0.3333333333333333
+2014,Rutgers,Big Ten,Tulane,American Athletic,0.25
+2014,Michigan State,Big Ten,Wyoming,Mountain West,0.3333333333333333
 2014,Kansas State,Big 12,UTEP,Conference USA,0.5384615384615384
-2014,Virginia Tech,ACC,Western Michigan,Mid-American,0.6153846153846154
 2014,Boston College,ACC,Colorado State,Mountain West,0.7692307692307693
+2014,Virginia Tech,ACC,Western Michigan,Mid-American,0.6153846153846154
 2014,Pittsburgh,ACC,Akron,Mid-American,0.4166666666666667
 2014,Virginia,ACC,Kent State,Mid-American,0.18181818181818182
 2014,Auburn,SEC,Louisiana Tech,Conference USA,0.6428571428571429
 2014,Ohio State,Big Ten,Cincinnati,American Athletic,0.6923076923076923
-2014,LSU,SEC,New Mexico State,Sun Belt,0.16666666666666666
 2014,Ole Miss,SEC,Memphis,American Athletic,0.7692307692307693
+2014,LSU,SEC,New Mexico State,Sun Belt,0.16666666666666666
 2014,Syracuse,ACC,Notre Dame,FBS Independents,0.6153846153846154
 2014,Indiana,Big Ten,North Texas,Conference USA,0.3333333333333333
 2014,Kentucky,SEC,UL Monroe,Sun Belt,0.3333333333333333
@@ -184,22 +184,22 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2014,South Carolina,SEC,South Alabama,Sun Belt,0.46153846153846156
 2014,Georgia,SEC,Charleston Southern,Big South,0.6666666666666666
 2014,Florida,SEC,Eastern Kentucky,OVC,0.6923076923076923
-2014,Louisville,ACC,Notre Dame,FBS Independents,0.6153846153846154
 2014,Clemson,ACC,Georgia State,Sun Belt,0.08333333333333333
+2014,Louisville,ACC,Notre Dame,FBS Independents,0.6153846153846154
 2014,Alabama,SEC,Western Carolina,Southern,0.5833333333333334
 2014,Auburn,SEC,Samford,Southern,0.6
+2014,Louisville,ACC,Kentucky,SEC,0.4166666666666667
+2014,Kentucky,SEC,Louisville,ACC,0.6923076923076923
 2014,Georgia,SEC,Georgia Tech,ACC,0.7857142857142857
 2014,Georgia Tech,ACC,Georgia,SEC,0.7692307692307693
 2014,Clemson,ACC,South Carolina,SEC,0.5384615384615384
 2014,South Carolina,SEC,Clemson,ACC,0.7692307692307693
-2014,Louisville,ACC,Kentucky,SEC,0.4166666666666667
-2014,Kentucky,SEC,Louisville,ACC,0.6923076923076923
 2014,Florida State,ACC,Florida,SEC,0.5833333333333334
 2014,Florida,SEC,Florida State,ACC,0.9285714285714286
 2015,South Carolina,SEC,North Carolina,ACC,0.7857142857142857
 2015,North Carolina,ACC,South Carolina,SEC,0.25
-2015,Oklahoma State,Big 12,Central Michigan,Mid-American,0.5384615384615384
 2015,Wake Forest,ACC,Elon,CAA,0.36363636363636365
+2015,Oklahoma State,Big 12,Central Michigan,Mid-American,0.5384615384615384
 2015,Georgia Tech,ACC,Alcorn State,SWAC,0.7272727272727273
 2015,Vanderbilt,SEC,Western Kentucky,Conference USA,0.8571428571428571
 2015,Michigan,Big Ten,Utah,Pac-12,0.7692307692307693
@@ -207,41 +207,41 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2015,TCU,Big 12,Minnesota,Big Ten,0.46153846153846156
 2015,Duke,ACC,Tulane,American Athletic,0.25
 2015,Baylor,Big 12,SMU,American Athletic,0.16666666666666666
-2015,Michigan State,Big Ten,Western Michigan,Mid-American,0.6153846153846154
 2015,Syracuse,ACC,Rhode Island,CAA,0.09090909090909091
-2015,Georgia,SEC,UL Monroe,Sun Belt,0.15384615384615385
-2015,Kansas,Big 12,South Dakota State,MVFC,0.6666666666666666
-2015,Ole Miss,SEC,UT Martin,OVC,0.6363636363636364
+2015,Michigan State,Big Ten,Western Michigan,Mid-American,0.6153846153846154
 2015,Maryland,Big Ten,Richmond,CAA,0.7142857142857143
-2015,Iowa,Big Ten,Illinois State,MVFC,0.7692307692307693
-2015,Northwestern,Big Ten,Stanford,Pac-12,0.8571428571428571
 2015,Rutgers,Big Ten,Norfolk State,MEAC,0.36363636363636365
+2015,Iowa,Big Ten,Illinois State,MVFC,0.7692307692307693
+2015,Georgia,SEC,UL Monroe,Sun Belt,0.15384615384615385
+2015,Ole Miss,SEC,UT Martin,OVC,0.6363636363636364
+2015,Kansas,Big 12,South Dakota State,MVFC,0.6666666666666666
+2015,Northwestern,Big Ten,Stanford,Pac-12,0.8571428571428571
 2015,Clemson,ACC,Wofford,Southern,0.45454545454545453
 2015,Pittsburgh,ACC,Youngstown State,MVFC,0.45454545454545453
 2015,Boston College,ACC,Maine,CAA,0.2727272727272727
 2015,Illinois,Big Ten,Kent State,Mid-American,0.25
+2015,Arkansas,SEC,UTEP,Conference USA,0.4166666666666667
 2015,Auburn,SEC,Louisville,ACC,0.6153846153846154
 2015,Louisville,ACC,Auburn,SEC,0.5384615384615384
-2015,Arkansas,SEC,UTEP,Conference USA,0.4166666666666667
+2015,Texas Tech,Big 12,Sam Houston,Southland,0.7142857142857143
 2015,Virginia,ACC,UCLA,Pac-12,0.6153846153846154
 2015,Nebraska,Big Ten,BYU,FBS Independents,0.6923076923076923
-2015,Texas Tech,Big 12,Sam Houston,Southland,0.7142857142857143
 2015,Penn State,Big Ten,Temple,American Athletic,0.7142857142857143
-2015,Indiana,Big Ten,Southern Illinois,MVFC,0.2727272727272727
 2015,Missouri,SEC,Southeast Missouri State,OVC,0.36363636363636365
 2015,Tennessee,SEC,Bowling Green,Mid-American,0.7142857142857143
+2015,Indiana,Big Ten,Southern Illinois,MVFC,0.2727272727272727
 2015,Miami,ACC,Bethune-Cookman,MEAC,0.8181818181818182
 2015,NC State,ACC,Troy,Sun Belt,0.3333333333333333
+2015,Kentucky,SEC,Louisiana,Sun Belt,0.3333333333333333
 2015,Texas A&M,SEC,Arizona State,Pac-12,0.46153846153846156
 2015,Oklahoma,Big 12,Akron,Mid-American,0.6153846153846154
-2015,Kentucky,SEC,Louisiana,Sun Belt,0.3333333333333333
 2015,Kansas State,Big 12,South Dakota,MVFC,0.45454545454545453
-2015,West Virginia,Big 12,Georgia Southern,Sun Belt,0.6923076923076923
-2015,Florida,SEC,New Mexico State,Sun Belt,0.25
 2015,Texas,Big 12,Notre Dame,FBS Independents,0.7692307692307693
+2015,Florida,SEC,New Mexico State,Sun Belt,0.25
+2015,West Virginia,Big 12,Georgia Southern,Sun Belt,0.6923076923076923
+2015,Iowa State,Big 12,Northern Iowa,MVFC,0.6428571428571429
 2015,Alabama,SEC,Wisconsin,Big Ten,0.7692307692307693
 2015,Wisconsin,Big Ten,Alabama,SEC,0.9333333333333333
-2015,Iowa State,Big 12,Northern Iowa,MVFC,0.6428571428571429
 2015,Florida State,ACC,Texas State,Sun Belt,0.25
 2015,Mississippi State,SEC,Southern Miss,Conference USA,0.6428571428571429
 2015,Purdue,Big Ten,Marshall,Conference USA,0.7692307692307693
@@ -249,94 +249,94 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2015,Ohio State,Big Ten,Virginia Tech,ACC,0.5384615384615384
 2015,Miami,ACC,Florida Atlantic,Conference USA,0.25
 2015,Florida State,ACC,South Florida,American Athletic,0.6153846153846154
-2015,Purdue,Big Ten,Indiana State,MVFC,0.45454545454545453
-2015,Illinois,Big Ten,Western Illinois,MVFC,0.5384615384615384
-2015,Penn State,Big Ten,Buffalo,Mid-American,0.4166666666666667
-2015,Michigan,Big Ten,Oregon State,Pac-12,0.16666666666666666
 2015,Wisconsin,Big Ten,Miami (OH),Mid-American,0.25
-2015,Auburn,SEC,Jacksonville State,OVC,0.8666666666666667
+2015,Louisville,ACC,Houston,American Athletic,0.9285714285714286
 2015,Kansas State,Big 12,UTSA,Conference USA,0.25
 2015,Maryland,Big Ten,Bowling Green,Mid-American,0.7142857142857143
-2015,Louisville,ACC,Houston,American Athletic,0.9285714285714286
+2015,Penn State,Big Ten,Buffalo,Mid-American,0.4166666666666667
+2015,Michigan,Big Ten,Oregon State,Pac-12,0.16666666666666666
+2015,Illinois,Big Ten,Western Illinois,MVFC,0.5384615384615384
+2015,Auburn,SEC,Jacksonville State,OVC,0.8666666666666667
+2015,Purdue,Big Ten,Indiana State,MVFC,0.45454545454545453
 2015,Clemson,ACC,App State,Sun Belt,0.8461538461538461
 2015,Boston College,ACC,Howard,MEAC,0.09090909090909091
 2015,West Virginia,Big 12,Liberty,Big South,0.5454545454545454
 2015,Texas Tech,Big 12,UTEP,Conference USA,0.4166666666666667
 2015,Ole Miss,SEC,Fresno State,Mountain West,0.25
-2015,TCU,Big 12,Stephen F. Austin,Southland,0.4
 2015,Minnesota,Big Ten,Colorado State,Mountain West,0.5384615384615384
-2015,Virginia Tech,ACC,Furman,Southern,0.36363636363636365
-2015,Ohio State,Big Ten,Hawai'i,Mountain West,0.23076923076923078
 2015,Rutgers,Big Ten,Washington State,Pac-12,0.6923076923076923
-2015,Virginia,ACC,Notre Dame,FBS Independents,0.7692307692307693
+2015,Ohio State,Big Ten,Hawai'i,Mountain West,0.23076923076923078
+2015,Virginia Tech,ACC,Furman,Southern,0.36363636363636365
 2015,Georgia Tech,ACC,Tulane,American Athletic,0.25
-2015,Alabama,SEC,Middle Tennessee,Conference USA,0.5384615384615384
+2015,Virginia,ACC,Notre Dame,FBS Independents,0.7692307692307693
+2015,TCU,Big 12,Stephen F. Austin,Southland,0.4
 2015,Northwestern,Big Ten,Eastern Illinois,OVC,0.5833333333333334
+2015,Alabama,SEC,Middle Tennessee,Conference USA,0.5384615384615384
 2015,Arkansas,SEC,Toledo,Mid-American,0.8333333333333334
 2015,Iowa State,Big 12,Iowa,Big Ten,0.8571428571428571
 2015,Iowa,Big Ten,Iowa State,Big 12,0.25
-2015,NC State,ACC,Eastern Kentucky,OVC,0.5454545454545454
-2015,Duke,ACC,North Carolina Central,MEAC,0.7272727272727273
 2015,Pittsburgh,ACC,Akron,Mid-American,0.6153846153846154
-2015,North Carolina,ACC,North Carolina A&T,MEAC,0.8333333333333334
 2015,Tennessee,SEC,Oklahoma,Big 12,0.8461538461538461
 2015,Oklahoma,Big 12,Tennessee,SEC,0.6923076923076923
-2015,Kansas,Big 12,Memphis,American Athletic,0.6923076923076923
-2015,Florida,SEC,East Carolina,American Athletic,0.4166666666666667
-2015,Missouri,SEC,Arkansas State,Sun Belt,0.6923076923076923
+2015,Duke,ACC,North Carolina Central,MEAC,0.7272727272727273
+2015,NC State,ACC,Eastern Kentucky,OVC,0.5454545454545454
+2015,North Carolina,ACC,North Carolina A&T,MEAC,0.8333333333333334
 2015,Texas A&M,SEC,Ball State,Mid-American,0.25
+2015,Florida,SEC,East Carolina,American Athletic,0.4166666666666667
+2015,Kansas,Big 12,Memphis,American Athletic,0.6923076923076923
+2015,Missouri,SEC,Arkansas State,Sun Belt,0.6923076923076923
 2015,Oklahoma State,Big 12,Central Arkansas,Southland,0.6
 2015,Baylor,Big 12,Lamar,Southland,0.45454545454545453
-2015,Indiana,Big Ten,Florida International,Conference USA,0.4166666666666667
 2015,Nebraska,Big Ten,South Alabama,Sun Belt,0.4166666666666667
 2015,Texas,Big 12,Rice,Conference USA,0.4166666666666667
+2015,Indiana,Big Ten,Florida International,Conference USA,0.4166666666666667
 2015,Michigan State,Big Ten,Oregon,Pac-12,0.6923076923076923
-2015,Minnesota,Big Ten,Kent State,Mid-American,0.25
-2015,Michigan,Big Ten,UNLV,Mountain West,0.25
-2015,Maryland,Big Ten,South Florida,American Athletic,0.6153846153846154
-2015,Missouri,SEC,UConn,American Athletic,0.46153846153846156
 2015,Michigan State,Big Ten,Air Force,Mountain West,0.5714285714285714
+2015,Missouri,SEC,UConn,American Athletic,0.46153846153846156
+2015,Michigan,Big Ten,UNLV,Mountain West,0.25
+2015,Texas A&M,SEC,Nevada,Mountain West,0.5384615384615384
+2015,Minnesota,Big Ten,Kent State,Mid-American,0.25
+2015,Oklahoma,Big 12,Tulsa,American Athletic,0.46153846153846156
+2015,Maryland,Big Ten,South Florida,American Athletic,0.6153846153846154
 2015,Wake Forest,ACC,Army,FBS Independents,0.16666666666666666
 2015,North Carolina,ACC,Illinois,Big Ten,0.4166666666666667
 2015,Illinois,Big Ten,North Carolina,ACC,0.7857142857142857
-2015,Oklahoma,Big 12,Tulsa,American Athletic,0.46153846153846156
-2015,Texas A&M,SEC,Nevada,Mountain West,0.5384615384615384
 2015,Syracuse,ACC,Central Michigan,Mid-American,0.5384615384615384
 2015,Duke,ACC,Northwestern,Big Ten,0.7692307692307693
 2015,Northwestern,Big Ten,Duke,ACC,0.6153846153846154
 2015,Kansas State,Big 12,Louisiana Tech,Conference USA,0.6923076923076923
-2015,Oklahoma State,Big 12,UTSA,Conference USA,0.25
-2015,Wisconsin,Big Ten,Troy,Sun Belt,0.3333333333333333
-2015,Georgia Tech,ACC,Notre Dame,FBS Independents,0.7692307692307693
-2015,Miami,ACC,Nebraska,Big Ten,0.46153846153846156
-2015,Nebraska,Big Ten,Miami,ACC,0.6153846153846154
-2015,Ohio State,Big Ten,Northern Illinois,Mid-American,0.5714285714285714
 2015,Virginia,ACC,William & Mary,CAA,0.6923076923076923
+2015,Georgia Tech,ACC,Notre Dame,FBS Independents,0.7692307692307693
+2015,Oklahoma State,Big 12,UTSA,Conference USA,0.25
 2015,Purdue,Big Ten,Virginia Tech,ACC,0.5384615384615384
 2015,Virginia Tech,ACC,Purdue,Big Ten,0.16666666666666666
+2015,Miami,ACC,Nebraska,Big Ten,0.46153846153846156
+2015,Nebraska,Big Ten,Miami,ACC,0.6153846153846154
+2015,Wisconsin,Big Ten,Troy,Sun Belt,0.3333333333333333
+2015,Ohio State,Big Ten,Northern Illinois,Mid-American,0.5714285714285714
 2015,Indiana,Big Ten,Western Kentucky,Conference USA,0.8571428571428571
-2015,Mississippi State,SEC,Northwestern State,Southland,0.4
 2015,Vanderbilt,SEC,Austin Peay,OVC,0.0
+2015,Mississippi State,SEC,Northwestern State,Southland,0.4
+2015,Tennessee,SEC,Western Carolina,Southern,0.6363636363636364
+2015,NC State,ACC,Old Dominion,Conference USA,0.4166666666666667
 2015,Arkansas,SEC,Texas Tech,Big 12,0.5384615384615384
 2015,Texas Tech,Big 12,Arkansas,SEC,0.6153846153846154
-2015,NC State,ACC,Old Dominion,Conference USA,0.4166666666666667
-2015,Tennessee,SEC,Western Carolina,Southern,0.6363636363636364
 2015,Texas,Big 12,California,Pac-12,0.6153846153846154
 2015,Iowa,Big Ten,Pittsburgh,ACC,0.6153846153846154
 2015,Pittsburgh,ACC,Iowa,Big Ten,0.8571428571428571
 2015,Iowa State,Big 12,Toledo,Mid-American,0.8333333333333334
 2015,TCU,Big 12,SMU,American Athletic,0.16666666666666666
 2015,Virginia,ACC,Boise State,Mountain West,0.6923076923076923
-2015,Nebraska,Big Ten,Southern Miss,Conference USA,0.6428571428571429
-2015,Michigan State,Big Ten,Central Michigan,Mid-American,0.5384615384615384
-2015,Georgia,SEC,Southern,SWAC,0.6
-2015,Michigan,Big Ten,BYU,FBS Independents,0.6923076923076923
 2015,South Carolina,SEC,UCF,American Athletic,0.0
+2015,Purdue,Big Ten,Bowling Green,Mid-American,0.7142857142857143
+2015,Nebraska,Big Ten,Southern Miss,Conference USA,0.6428571428571429
 2015,Rutgers,Big Ten,Kansas,Big 12,0.0
 2015,Kansas,Big 12,Rutgers,Big Ten,0.3333333333333333
-2015,Purdue,Big Ten,Bowling Green,Mid-American,0.7142857142857143
+2015,Michigan State,Big Ten,Central Michigan,Mid-American,0.5384615384615384
+2015,Michigan,Big Ten,BYU,FBS Independents,0.6923076923076923
 2015,Syracuse,ACC,LSU,SEC,0.75
 2015,LSU,SEC,Syracuse,ACC,0.3333333333333333
+2015,Georgia,SEC,Southern,SWAC,0.6
 2015,North Carolina,ACC,Delaware,CAA,0.36363636363636365
 2015,Wake Forest,ACC,Indiana,Big Ten,0.46153846153846156
 2015,Indiana,Big Ten,Wake Forest,ACC,0.25
@@ -344,30 +344,30 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2015,Baylor,Big 12,Rice,Conference USA,0.4166666666666667
 2015,West Virginia,Big 12,Maryland,Big Ten,0.25
 2015,Maryland,Big Ten,West Virginia,Big 12,0.6153846153846154
-2015,Ohio State,Big Ten,Western Michigan,Mid-American,0.6153846153846154
+2015,Minnesota,Big Ten,Ohio,Mid-American,0.6153846153846154
 2015,Penn State,Big Ten,San Diego State,Mountain West,0.7857142857142857
 2015,Virginia Tech,ACC,East Carolina,American Athletic,0.4166666666666667
-2015,Minnesota,Big Ten,Ohio,Mid-American,0.6153846153846154
+2015,Ohio State,Big Ten,Western Michigan,Mid-American,0.6153846153846154
 2015,Iowa,Big Ten,North Texas,Conference USA,0.08333333333333333
 2015,Alabama,SEC,UL Monroe,Sun Belt,0.15384615384615385
 2015,Illinois,Big Ten,Middle Tennessee,Conference USA,0.5384615384615384
 2015,Louisville,ACC,Samford,Southern,0.5454545454545454
-2015,NC State,ACC,South Alabama,Sun Belt,0.4166666666666667
 2015,Northwestern,Big Ten,Ball State,Mid-American,0.25
 2015,Wisconsin,Big Ten,Hawai'i,Mountain West,0.23076923076923078
+2015,NC State,ACC,South Alabama,Sun Belt,0.4166666666666667
 2015,Miami,ACC,Cincinnati,American Athletic,0.5384615384615384
 2015,Penn State,Big Ten,Army,FBS Independents,0.16666666666666666
 2015,Auburn,SEC,San José State,Mountain West,0.46153846153846156
-2015,Vanderbilt,SEC,Middle Tennessee,Conference USA,0.5384615384615384
 2015,LSU,SEC,Eastern Michigan,Mid-American,0.08333333333333333
+2015,Vanderbilt,SEC,Middle Tennessee,Conference USA,0.5384615384615384
 2015,Kentucky,SEC,Eastern Kentucky,OVC,0.5454545454545454
 2015,Clemson,ACC,Notre Dame,FBS Independents,0.7692307692307693
-2015,Duke,ACC,Army,FBS Independents,0.16666666666666666
 2015,Ole Miss,SEC,New Mexico State,Sun Belt,0.25
+2015,Duke,ACC,Army,FBS Independents,0.16666666666666666
 2015,Syracuse,ACC,South Florida,American Athletic,0.6153846153846154
 2015,Mississippi State,SEC,Troy,Sun Belt,0.3333333333333333
-2015,Mississippi State,SEC,Louisiana Tech,Conference USA,0.6923076923076923
 2015,Ole Miss,SEC,Memphis,American Athletic,0.6923076923076923
+2015,Mississippi State,SEC,Louisiana Tech,Conference USA,0.6923076923076923
 2015,LSU,SEC,Western Kentucky,Conference USA,0.8571428571428571
 2015,Arkansas,SEC,UT Martin,OVC,0.6363636363636364
 2015,Vanderbilt,SEC,Houston,American Athletic,0.9285714285714286
@@ -376,12 +376,12 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2015,Wake Forest,ACC,Notre Dame,FBS Independents,0.7692307692307693
 2015,Texas A&M,SEC,Western Carolina,Southern,0.6363636363636364
 2015,Missouri,SEC,BYU,FBS Independents,0.6923076923076923
-2015,South Carolina,SEC,The Citadel,Southern,0.6923076923076923
-2015,Florida,SEC,Florida Atlantic,Conference USA,0.25
 2015,Rutgers,Big Ten,Army,FBS Independents,0.16666666666666666
+2015,Florida,SEC,Florida Atlantic,Conference USA,0.25
+2015,South Carolina,SEC,The Citadel,Southern,0.6923076923076923
 2015,Florida State,ACC,Chattanooga,Southern,0.6923076923076923
-2015,Auburn,SEC,Idaho,Sun Belt,0.3333333333333333
 2015,Alabama,SEC,Charleston Southern,Big South,0.7692307692307693
+2015,Auburn,SEC,Idaho,Sun Belt,0.3333333333333333
 2015,Georgia,SEC,Georgia Southern,Sun Belt,0.6923076923076923
 2015,Kentucky,SEC,Charlotte,Conference USA,0.16666666666666666
 2015,Boston College,ACC,Notre Dame,FBS Independents,0.7692307692307693
@@ -393,136 +393,136 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2015,Georgia,SEC,Georgia Tech,ACC,0.25
 2015,Florida,SEC,Florida State,ACC,0.7692307692307693
 2015,Florida State,ACC,Florida,SEC,0.7142857142857143
-2016,Louisville,ACC,Charlotte,Conference USA,0.3333333333333333
 2016,Wake Forest,ACC,Tulane,American Athletic,0.3333333333333333
-2016,Indiana,Big Ten,Florida International,Conference USA,0.3333333333333333
-2016,NC State,ACC,William & Mary,CAA,0.45454545454545453
+2016,Louisville,ACC,Charlotte,Conference USA,0.3333333333333333
 2016,Tennessee,SEC,App State,Sun Belt,0.7692307692307693
+2016,NC State,ACC,William & Mary,CAA,0.45454545454545453
+2016,Indiana,Big Ten,Florida International,Conference USA,0.3333333333333333
 2016,Minnesota,Big Ten,Oregon State,Pac-12,0.3333333333333333
-2016,Syracuse,ACC,Colgate,Patriot,0.5
 2016,Michigan State,Big Ten,Furman,Southern,0.2727272727272727
+2016,Syracuse,ACC,Colgate,Patriot,0.5
 2016,Baylor,Big 12,Northwestern State,Southland,0.09090909090909091
 2016,Kansas State,Big 12,Stanford,Pac-12,0.7692307692307693
-2016,Purdue,Big Ten,Eastern Kentucky,OVC,0.2727272727272727
+2016,Northwestern,Big Ten,Western Michigan,Mid-American,0.9285714285714286
 2016,Mississippi State,SEC,South Alabama,Sun Belt,0.46153846153846156
-2016,Maryland,Big Ten,Howard,MEAC,0.18181818181818182
 2016,West Virginia,Big 12,Missouri,SEC,0.3333333333333333
 2016,Missouri,SEC,West Virginia,Big 12,0.7692307692307693
-2016,Northwestern,Big Ten,Western Michigan,Mid-American,0.9285714285714286
-2016,Michigan,Big Ten,Hawai'i,Mountain West,0.5
 2016,Oklahoma,Big 12,Houston,American Athletic,0.6923076923076923
 2016,Ohio State,Big Ten,Bowling Green,Mid-American,0.3333333333333333
+2016,Purdue,Big Ten,Eastern Kentucky,OVC,0.2727272727272727
+2016,Maryland,Big Ten,Howard,MEAC,0.18181818181818182
+2016,Michigan,Big Ten,Hawai'i,Mountain West,0.5
 2016,Virginia Tech,ACC,Liberty,Big South,0.5454545454545454
 2016,Pittsburgh,ACC,Villanova,CAA,0.6923076923076923
 2016,Rutgers,Big Ten,Washington,Pac-12,0.8571428571428571
-2016,Oklahoma State,Big 12,SE Louisiana,Southland,0.6363636363636364
-2016,Penn State,Big Ten,Kent State,Mid-American,0.25
-2016,Illinois,Big Ten,Murray State,OVC,0.36363636363636365
-2016,Texas A&M,SEC,UCLA,Pac-12,0.3333333333333333
-2016,Virginia,ACC,Richmond,CAA,0.7142857142857143
 2016,Wisconsin,Big Ten,LSU,SEC,0.6666666666666666
 2016,LSU,SEC,Wisconsin,Big Ten,0.7857142857142857
 2016,Iowa,Big Ten,Miami (OH),Mid-American,0.46153846153846156
+2016,Virginia,ACC,Richmond,CAA,0.7142857142857143
+2016,Oklahoma State,Big 12,SE Louisiana,Southland,0.6363636363636364
+2016,Illinois,Big Ten,Murray State,OVC,0.36363636363636365
+2016,Texas A&M,SEC,UCLA,Pac-12,0.3333333333333333
+2016,Penn State,Big Ten,Kent State,Mid-American,0.25
 2016,Arkansas,SEC,Louisiana Tech,Conference USA,0.6428571428571429
 2016,North Carolina,ACC,Georgia,SEC,0.6153846153846154
 2016,Georgia,SEC,North Carolina,ACC,0.6153846153846154
-2016,Duke,ACC,North Carolina Central,MEAC,0.75
 2016,Miami,ACC,Florida A&M,MEAC,0.36363636363636365
+2016,Duke,ACC,North Carolina Central,MEAC,0.75
 2016,Kansas,Big 12,Rhode Island,CAA,0.18181818181818182
-2016,Florida,SEC,Massachusetts,FBS Independents,0.16666666666666666
 2016,Kentucky,SEC,Southern Miss,Conference USA,0.5384615384615384
-2016,Texas Tech,Big 12,Stephen F. Austin,Southland,0.45454545454545453
-2016,TCU,Big 12,South Dakota State,MVFC,0.6923076923076923
-2016,Iowa State,Big 12,Northern Iowa,MVFC,0.45454545454545453
+2016,Florida,SEC,Massachusetts,FBS Independents,0.16666666666666666
 2016,Nebraska,Big Ten,Fresno State,Mountain West,0.08333333333333333
+2016,Texas Tech,Big 12,Stephen F. Austin,Southland,0.45454545454545453
 2016,Alabama,SEC,USC,Pac-12,0.7692307692307693
+2016,Iowa State,Big 12,Northern Iowa,MVFC,0.45454545454545453
+2016,TCU,Big 12,South Dakota State,MVFC,0.6923076923076923
 2016,Auburn,SEC,Clemson,ACC,0.9333333333333333
 2016,Clemson,ACC,Auburn,SEC,0.6153846153846154
 2016,Texas,Big 12,Notre Dame,FBS Independents,0.3333333333333333
 2016,Florida State,ACC,Ole Miss,SEC,0.4166666666666667
 2016,Ole Miss,SEC,Florida State,ACC,0.7692307692307693
 2016,Maryland,Big Ten,Florida International,Conference USA,0.3333333333333333
+2016,Boston College,ACC,Massachusetts,FBS Independents,0.16666666666666666
 2016,Oklahoma State,Big 12,Central Michigan,Mid-American,0.46153846153846156
-2016,Purdue,Big Ten,Cincinnati,American Athletic,0.3333333333333333
-2016,Michigan,Big Ten,UCF,American Athletic,0.46153846153846156
 2016,Nebraska,Big Ten,Wyoming,Mountain West,0.5714285714285714
+2016,Georgia,SEC,Nicholls,Southland,0.45454545454545453
+2016,Purdue,Big Ten,Cincinnati,American Athletic,0.3333333333333333
+2016,Rutgers,Big Ten,Howard,MEAC,0.18181818181818182
+2016,Michigan,Big Ten,UCF,American Athletic,0.46153846153846156
 2016,Pittsburgh,ACC,Penn State,Big Ten,0.7857142857142857
 2016,Penn State,Big Ten,Pittsburgh,ACC,0.6153846153846154
-2016,NC State,ACC,East Carolina,American Athletic,0.25
-2016,Boston College,ACC,Massachusetts,FBS Independents,0.16666666666666666
 2016,Minnesota,Big Ten,Indiana State,MVFC,0.36363636363636365
-2016,Georgia,SEC,Nicholls,Southland,0.45454545454545453
+2016,NC State,ACC,East Carolina,American Athletic,0.25
 2016,Texas A&M,SEC,Prairie View A&M,SWAC,0.6363636363636364
-2016,Rutgers,Big Ten,Howard,MEAC,0.18181818181818182
-2016,Florida State,ACC,Charleston Southern,Big South,0.6363636363636364
 2016,Clemson,ACC,Troy,Sun Belt,0.7692307692307693
+2016,Florida State,ACC,Charleston Southern,Big South,0.6363636363636364
 2016,West Virginia,Big 12,Youngstown State,MVFC,0.75
 2016,Kansas,Big 12,Ohio,Mid-American,0.5714285714285714
 2016,Georgia Tech,ACC,Mercer,Southern,0.5454545454545454
-2016,Northwestern,Big Ten,Illinois State,MVFC,0.5
 2016,Baylor,Big 12,SMU,American Athletic,0.4166666666666667
+2016,Northwestern,Big Ten,Illinois State,MVFC,0.5
 2016,Alabama,SEC,Western Kentucky,Conference USA,0.7857142857142857
-2016,Wisconsin,Big Ten,Akron,Mid-American,0.4166666666666667
 2016,Ohio State,Big Ten,Tulsa,American Athletic,0.7692307692307693
-2016,Vanderbilt,SEC,Middle Tennessee,Conference USA,0.6153846153846154
+2016,Wisconsin,Big Ten,Akron,Mid-American,0.4166666666666667
 2016,Indiana,Big Ten,Ball State,Mid-American,0.3333333333333333
 2016,Ole Miss,SEC,Wofford,Southern,0.7142857142857143
+2016,Vanderbilt,SEC,Middle Tennessee,Conference USA,0.6153846153846154
 2016,Miami,ACC,Florida Atlantic,Conference USA,0.25
-2016,Texas,Big 12,UTEP,Conference USA,0.3333333333333333
 2016,Oklahoma,Big 12,UL Monroe,Sun Belt,0.3333333333333333
 2016,TCU,Big 12,Arkansas,SEC,0.5384615384615384
 2016,Arkansas,SEC,TCU,Big 12,0.46153846153846156
-2016,LSU,SEC,Jacksonville State,OVC,0.8333333333333334
-2016,Auburn,SEC,Arkansas State,Sun Belt,0.6153846153846154
+2016,Texas,Big 12,UTEP,Conference USA,0.3333333333333333
 2016,Missouri,SEC,Eastern Michigan,Mid-American,0.5384615384615384
-2016,Iowa,Big Ten,Iowa State,Big 12,0.25
-2016,Iowa State,Big 12,Iowa,Big Ten,0.6153846153846154
 2016,Illinois,Big Ten,North Carolina,ACC,0.6153846153846154
 2016,North Carolina,ACC,Illinois,Big Ten,0.25
+2016,LSU,SEC,Jacksonville State,OVC,0.8333333333333334
+2016,Iowa,Big Ten,Iowa State,Big 12,0.25
+2016,Iowa State,Big 12,Iowa,Big Ten,0.6153846153846154
+2016,Auburn,SEC,Arkansas State,Sun Belt,0.6153846153846154
 2016,Tennessee,SEC,Virginia Tech,ACC,0.7142857142857143
 2016,Virginia Tech,ACC,Tennessee,SEC,0.6923076923076923
 2016,Texas Tech,Big 12,Arizona State,Pac-12,0.4166666666666667
 2016,Virginia,ACC,Oregon,Pac-12,0.3333333333333333
 2016,Baylor,Big 12,Rice,Conference USA,0.25
-2016,Rutgers,Big Ten,New Mexico,Mountain West,0.6923076923076923
+2016,Tennessee,SEC,Ohio,Mid-American,0.5714285714285714
 2016,Iowa,Big Ten,North Dakota State,MVFC,0.8571428571428571
 2016,Miami,ACC,App State,Sun Belt,0.7692307692307693
-2016,Penn State,Big Ten,Temple,American Athletic,0.7142857142857143
-2016,Tennessee,SEC,Ohio,Mid-American,0.5714285714285714
-2016,Clemson,ACC,South Carolina State,MEAC,0.45454545454545453
-2016,Kansas,Big 12,Memphis,American Athletic,0.6153846153846154
 2016,Wisconsin,Big Ten,Georgia State,Sun Belt,0.25
+2016,Kansas,Big 12,Memphis,American Athletic,0.6153846153846154
+2016,Clemson,ACC,South Carolina State,MEAC,0.45454545454545453
+2016,Penn State,Big Ten,Temple,American Athletic,0.7142857142857143
+2016,Rutgers,Big Ten,New Mexico,Mountain West,0.6923076923076923
 2016,Georgia Tech,ACC,Vanderbilt,SEC,0.46153846153846156
 2016,Vanderbilt,SEC,Georgia Tech,ACC,0.6923076923076923
 2016,Virginia,ACC,UConn,American Athletic,0.25
 2016,Kansas State,Big 12,Florida Atlantic,Conference USA,0.25
-2016,Michigan,Big Ten,Colorado,Pac-12,0.7142857142857143
 2016,North Carolina,ACC,James Madison,CAA,0.9333333333333333
-2016,Nebraska,Big Ten,Oregon,Pac-12,0.3333333333333333
+2016,Michigan,Big Ten,Colorado,Pac-12,0.7142857142857143
 2016,Oklahoma State,Big 12,Pittsburgh,ACC,0.6153846153846154
 2016,Pittsburgh,ACC,Oklahoma State,Big 12,0.7692307692307693
 2016,Syracuse,ACC,South Florida,American Athletic,0.8461538461538461
+2016,Nebraska,Big Ten,Oregon,Pac-12,0.3333333333333333
 2016,Illinois,Big Ten,Western Michigan,Mid-American,0.9285714285714286
-2016,South Carolina,SEC,East Carolina,American Athletic,0.25
 2016,Kentucky,SEC,New Mexico State,Sun Belt,0.25
+2016,South Carolina,SEC,East Carolina,American Athletic,0.25
 2016,NC State,ACC,Old Dominion,Conference USA,0.7692307692307693
 2016,Wake Forest,ACC,Delaware,CAA,0.36363636363636365
-2016,Texas Tech,Big 12,Louisiana Tech,Conference USA,0.6428571428571429
 2016,Maryland,Big Ten,UCF,American Athletic,0.46153846153846156
-2016,Michigan State,Big Ten,Notre Dame,FBS Independents,0.3333333333333333
+2016,Texas Tech,Big 12,Louisiana Tech,Conference USA,0.6428571428571429
+2016,Florida,SEC,North Texas,Conference USA,0.38461538461538464
+2016,Arkansas,SEC,Texas State,Sun Belt,0.16666666666666666
 2016,Oklahoma,Big 12,Ohio State,Big Ten,0.8461538461538461
 2016,Ohio State,Big Ten,Oklahoma,Big 12,0.8461538461538461
-2016,Arkansas,SEC,Texas State,Sun Belt,0.16666666666666666
-2016,Florida,SEC,North Texas,Conference USA,0.38461538461538464
+2016,Michigan State,Big Ten,Notre Dame,FBS Independents,0.3333333333333333
 2016,Northwestern,Big Ten,Duke,ACC,0.3333333333333333
 2016,Duke,ACC,Northwestern,Big Ten,0.5384615384615384
 2016,Texas,Big 12,California,Pac-12,0.4166666666666667
 2016,TCU,Big 12,SMU,American Athletic,0.4166666666666667
+2016,Minnesota,Big Ten,Colorado State,Mountain West,0.5384615384615384
+2016,Purdue,Big Ten,Nevada,Mountain West,0.4166666666666667
 2016,Iowa State,Big 12,San José State,Mountain West,0.3333333333333333
 2016,Alabama,SEC,Kent State,Mid-American,0.25
 2016,Florida State,ACC,South Florida,American Athletic,0.8461538461538461
-2016,Minnesota,Big Ten,Colorado State,Mountain West,0.5384615384615384
-2016,Purdue,Big Ten,Nevada,Mountain West,0.4166666666666667
 2016,Virginia Tech,ACC,East Carolina,American Athletic,0.25
 2016,Virginia,ACC,Central Michigan,Mid-American,0.46153846153846156
 2016,Syracuse,ACC,UConn,American Athletic,0.25
@@ -551,9 +551,9 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2016,South Carolina,SEC,Massachusetts,FBS Independents,0.16666666666666666
 2016,Missouri,SEC,Middle Tennessee,Conference USA,0.6153846153846154
 2016,Vanderbilt,SEC,Tennessee State,OVC,0.6363636363636364
-2016,Mississippi State,SEC,Samford,Southern,0.5833333333333334
-2016,Miami,ACC,Notre Dame,FBS Independents,0.3333333333333333
 2016,Wake Forest,ACC,Army,FBS Independents,0.6153846153846154
+2016,Miami,ACC,Notre Dame,FBS Independents,0.3333333333333333
+2016,Mississippi State,SEC,Samford,Southern,0.5833333333333334
 2016,Texas A&M,SEC,New Mexico State,Sun Belt,0.25
 2016,Ole Miss,SEC,Georgia Southern,Sun Belt,0.4166666666666667
 2016,Tennessee,SEC,Tennessee Tech,OVC,0.45454545454545453
@@ -583,11 +583,11 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2017,Rutgers,Big Ten,Washington,Pac-12,0.7692307692307693
 2017,Wisconsin,Big Ten,Utah State,Mountain West,0.46153846153846156
 2017,Boston College,ACC,Northern Illinois,Mid-American,0.6153846153846154
-2017,Michigan State,Big Ten,Bowling Green,Mid-American,0.16666666666666666
 2017,Missouri,SEC,Missouri State,MVFC,0.2727272727272727
-2017,Clemson,ACC,Kent State,Mid-American,0.16666666666666666
 2017,Iowa,Big Ten,Wyoming,Mountain West,0.6153846153846154
 2017,Penn State,Big Ten,Akron,Mid-American,0.5
+2017,Michigan State,Big Ten,Bowling Green,Mid-American,0.16666666666666666
+2017,Clemson,ACC,Kent State,Mid-American,0.16666666666666666
 2017,Texas,Big 12,Maryland,Big Ten,0.3333333333333333
 2017,Maryland,Big Ten,Texas,Big 12,0.5384615384615384
 2017,Illinois,Big Ten,Ball State,Mid-American,0.16666666666666666
@@ -596,125 +596,125 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2017,Pittsburgh,ACC,Youngstown State,MVFC,0.5454545454545454
 2017,South Carolina,SEC,NC State,ACC,0.6923076923076923
 2017,NC State,ACC,South Carolina,SEC,0.6923076923076923
+2017,Northwestern,Big Ten,Nevada,Mountain West,0.25
+2017,Oklahoma,Big 12,UTEP,Conference USA,0.0
 2017,Virginia,ACC,William & Mary,CAA,0.18181818181818182
 2017,Florida,SEC,Michigan,Big Ten,0.6153846153846154
 2017,Michigan,Big Ten,Florida,SEC,0.36363636363636365
-2017,Oklahoma,Big 12,UTEP,Conference USA,0.0
-2017,Northwestern,Big Ten,Nevada,Mountain West,0.25
-2017,Texas Tech,Big 12,Eastern Washington,Big Sky,0.6363636363636364
 2017,Kentucky,SEC,Southern Miss,Conference USA,0.6153846153846154
 2017,Mississippi State,SEC,Charleston Southern,Big South,0.5454545454545454
+2017,Texas Tech,Big 12,Eastern Washington,Big Sky,0.6363636363636364
 2017,Duke,ACC,North Carolina Central,MEAC,0.6363636363636364
 2017,Georgia,SEC,App State,Sun Belt,0.6923076923076923
 2017,Kansas,Big 12,Southeast Missouri State,OVC,0.2727272727272727
 2017,Baylor,Big 12,Liberty,Big South,0.5454545454545454
 2017,Kansas State,Big 12,Central Arkansas,Southland,0.8333333333333334
+2017,Ole Miss,SEC,South Alabama,Sun Belt,0.3333333333333333
 2017,Purdue,Big Ten,Louisville,ACC,0.6153846153846154
 2017,Louisville,ACC,Purdue,Big Ten,0.5384615384615384
-2017,Ole Miss,SEC,South Alabama,Sun Belt,0.3333333333333333
 2017,Auburn,SEC,Georgia Southern,Sun Belt,0.16666666666666666
-2017,Vanderbilt,SEC,Middle Tennessee,Conference USA,0.5384615384615384
-2017,Nebraska,Big Ten,Arkansas State,Sun Belt,0.5833333333333334
-2017,TCU,Big 12,Jackson State,SWAC,0.2727272727272727
-2017,Iowa State,Big 12,Northern Iowa,MVFC,0.6153846153846154
 2017,Alabama,SEC,Florida State,ACC,0.5384615384615384
 2017,Florida State,ACC,Alabama,SEC,0.9285714285714286
+2017,TCU,Big 12,Jackson State,SWAC,0.2727272727272727
+2017,Nebraska,Big Ten,Arkansas State,Sun Belt,0.5833333333333334
+2017,Vanderbilt,SEC,Middle Tennessee,Conference USA,0.5384615384615384
+2017,Iowa State,Big 12,Northern Iowa,MVFC,0.6153846153846154
 2017,LSU,SEC,BYU,FBS Independents,0.3076923076923077
 2017,Texas A&M,SEC,UCLA,Pac-12,0.46153846153846156
 2017,Virginia Tech,ACC,West Virginia,Big 12,0.5384615384615384
 2017,West Virginia,Big 12,Virginia Tech,ACC,0.6923076923076923
 2017,Georgia Tech,ACC,Tennessee,SEC,0.3333333333333333
 2017,Tennessee,SEC,Georgia Tech,ACC,0.45454545454545453
-2017,Purdue,Big Ten,Ohio,Mid-American,0.6923076923076923
 2017,Oklahoma State,Big 12,South Alabama,Sun Belt,0.3333333333333333
-2017,Michigan,Big Ten,Cincinnati,American Athletic,0.3333333333333333
-2017,Wisconsin,Big Ten,Florida Atlantic,Conference USA,0.7857142857142857
-2017,Ole Miss,SEC,UT Martin,OVC,0.5454545454545454
-2017,Kentucky,SEC,Eastern Kentucky,OVC,0.36363636363636365
+2017,Purdue,Big Ten,Ohio,Mid-American,0.6923076923076923
 2017,Kansas State,Big 12,Charlotte,Conference USA,0.08333333333333333
-2017,Maryland,Big Ten,Towson,CAA,0.45454545454545453
-2017,Iowa State,Big 12,Iowa,Big Ten,0.6153846153846154
-2017,Iowa,Big Ten,Iowa State,Big 12,0.6153846153846154
 2017,Duke,ACC,Northwestern,Big Ten,0.7692307692307693
 2017,Northwestern,Big Ten,Duke,ACC,0.5384615384615384
+2017,Maryland,Big Ten,Towson,CAA,0.45454545454545453
+2017,Michigan,Big Ten,Cincinnati,American Athletic,0.3333333333333333
+2017,Iowa State,Big 12,Iowa,Big Ten,0.6153846153846154
+2017,Iowa,Big Ten,Iowa State,Big 12,0.6153846153846154
+2017,Wisconsin,Big Ten,Florida Atlantic,Conference USA,0.7857142857142857
+2017,Ole Miss,SEC,UT Martin,OVC,0.5454545454545454
 2017,West Virginia,Big 12,East Carolina,American Athletic,0.25
+2017,Kentucky,SEC,Eastern Kentucky,OVC,0.36363636363636365
 2017,Georgia Tech,ACC,Jacksonville State,OVC,0.8333333333333334
-2017,Virginia Tech,ACC,Delaware,CAA,0.6363636363636364
-2017,Rutgers,Big Ten,Eastern Michigan,Mid-American,0.4166666666666667
-2017,Texas,Big 12,San José State,Mountain West,0.15384615384615385
-2017,Arkansas,SEC,TCU,Big 12,0.7857142857142857
-2017,TCU,Big 12,Arkansas,SEC,0.3333333333333333
 2017,Virginia,ACC,Indiana,Big Ten,0.4166666666666667
 2017,Indiana,Big Ten,Virginia,ACC,0.46153846153846156
+2017,Arkansas,SEC,TCU,Big 12,0.7857142857142857
+2017,TCU,Big 12,Arkansas,SEC,0.3333333333333333
+2017,Texas,Big 12,San José State,Mountain West,0.15384615384615385
+2017,Virginia Tech,ACC,Delaware,CAA,0.6363636363636364
+2017,Alabama,SEC,Fresno State,Mountain West,0.7142857142857143
+2017,Rutgers,Big Ten,Eastern Michigan,Mid-American,0.4166666666666667
 2017,Michigan State,Big Ten,Western Michigan,Mid-American,0.5
 2017,Syracuse,ACC,Middle Tennessee,Conference USA,0.5384615384615384
-2017,Alabama,SEC,Fresno State,Mountain West,0.7142857142857143
 2017,Penn State,Big Ten,Pittsburgh,ACC,0.4166666666666667
 2017,Pittsburgh,ACC,Penn State,Big Ten,0.8461538461538461
-2017,Kansas,Big 12,Central Michigan,Mid-American,0.6153846153846154
-2017,Tennessee,SEC,Indiana State,MVFC,0.0
 2017,Vanderbilt,SEC,Alabama A&M,SWAC,0.36363636363636365
+2017,Tennessee,SEC,Indiana State,MVFC,0.0
+2017,Kansas,Big 12,Central Michigan,Mid-American,0.6153846153846154
 2017,Nebraska,Big Ten,Oregon,Pac-12,0.5384615384615384
 2017,NC State,ACC,Marshall,Conference USA,0.6153846153846154
 2017,Texas A&M,SEC,Nicholls,Southland,0.6666666666666666
 2017,Clemson,ACC,Auburn,SEC,0.7142857142857143
 2017,Auburn,SEC,Clemson,ACC,0.8571428571428571
+2017,Georgia,SEC,Notre Dame,FBS Independents,0.7692307692307693
+2017,LSU,SEC,Chattanooga,Southern,0.2727272727272727
 2017,Ohio State,Big Ten,Oklahoma,Big 12,0.8571428571428571
 2017,Oklahoma,Big 12,Ohio State,Big Ten,0.8571428571428571
-2017,Georgia,SEC,Notre Dame,FBS Independents,0.7692307692307693
 2017,Mississippi State,SEC,Louisiana Tech,Conference USA,0.5384615384615384
-2017,LSU,SEC,Chattanooga,Southern,0.2727272727272727
-2017,Baylor,Big 12,UTSA,Conference USA,0.5454545454545454
 2017,Illinois,Big Ten,Western Kentucky,Conference USA,0.46153846153846156
+2017,Baylor,Big 12,UTSA,Conference USA,0.5454545454545454
 2017,Minnesota,Big Ten,Oregon State,Pac-12,0.08333333333333333
 2017,Illinois,Big Ten,South Florida,American Athletic,0.8333333333333334
+2017,Virginia,ACC,UConn,American Athletic,0.25
+2017,West Virginia,Big 12,Delaware State,MEAC,0.18181818181818182
+2017,Kansas,Big 12,Ohio,Mid-American,0.6923076923076923
+2017,Iowa State,Big 12,Akron,Mid-American,0.5
+2017,Texas A&M,SEC,Louisiana,Sun Belt,0.4166666666666667
+2017,Nebraska,Big Ten,Northern Illinois,Mid-American,0.6153846153846154
 2017,Michigan,Big Ten,Air Force,Mountain West,0.4166666666666667
 2017,Pittsburgh,ACC,Oklahoma State,Big 12,0.7692307692307693
 2017,Oklahoma State,Big 12,Pittsburgh,ACC,0.4166666666666667
-2017,West Virginia,Big 12,Delaware State,MEAC,0.18181818181818182
-2017,Virginia,ACC,UConn,American Athletic,0.25
-2017,Kansas,Big 12,Ohio,Mid-American,0.6923076923076923
-2017,Iowa State,Big 12,Akron,Mid-American,0.5
-2017,Nebraska,Big Ten,Northern Illinois,Mid-American,0.6153846153846154
-2017,Texas A&M,SEC,Louisiana,Sun Belt,0.4166666666666667
 2017,NC State,ACC,Furman,Southern,0.6153846153846154
 2017,Duke,ACC,Baylor,Big 12,0.08333333333333333
 2017,Baylor,Big 12,Duke,ACC,0.5384615384615384
 2017,Wake Forest,ACC,Utah State,Mountain West,0.46153846153846156
-2017,Wisconsin,Big Ten,BYU,FBS Independents,0.3076923076923077
-2017,TCU,Big 12,SMU,American Athletic,0.5384615384615384
 2017,Virginia Tech,ACC,East Carolina,American Athletic,0.25
-2017,Rutgers,Big Ten,Morgan State,MEAC,0.09090909090909091
 2017,Minnesota,Big Ten,Middle Tennessee,Conference USA,0.5384615384615384
-2017,Syracuse,ACC,Central Michigan,Mid-American,0.6153846153846154
-2017,Iowa,Big Ten,North Texas,Conference USA,0.6428571428571429
-2017,North Carolina,ACC,Old Dominion,Conference USA,0.4166666666666667
+2017,Rutgers,Big Ten,Morgan State,MEAC,0.09090909090909091
 2017,Boston College,ACC,Notre Dame,FBS Independents,0.7692307692307693
+2017,North Carolina,ACC,Old Dominion,Conference USA,0.4166666666666667
+2017,Iowa,Big Ten,North Texas,Conference USA,0.6428571428571429
+2017,Syracuse,ACC,Central Michigan,Mid-American,0.6153846153846154
+2017,TCU,Big 12,SMU,American Athletic,0.5384615384615384
+2017,Wisconsin,Big Ten,BYU,FBS Independents,0.3076923076923077
+2017,Auburn,SEC,Mercer,Southern,0.45454545454545453
 2017,Missouri,SEC,Purdue,Big Ten,0.5384615384615384
 2017,Purdue,Big Ten,Missouri,SEC,0.5384615384615384
-2017,Auburn,SEC,Mercer,Southern,0.45454545454545453
 2017,Ohio State,Big Ten,Army,FBS Independents,0.7692307692307693
 2017,Oklahoma,Big 12,Tulane,American Athletic,0.4166666666666667
 2017,Alabama,SEC,Colorado State,Mountain West,0.5384615384615384
 2017,Northwestern,Big Ten,Bowling Green,Mid-American,0.16666666666666666
+2017,Penn State,Big Ten,Georgia State,Sun Belt,0.5833333333333334
 2017,Georgia,SEC,Samford,Southern,0.6666666666666666
 2017,Vanderbilt,SEC,Kansas State,Big 12,0.6153846153846154
 2017,Kansas State,Big 12,Vanderbilt,SEC,0.4166666666666667
-2017,Penn State,Big Ten,Georgia State,Sun Belt,0.5833333333333334
 2017,Texas Tech,Big 12,Arizona State,Pac-12,0.5384615384615384
 2017,Texas,Big 12,USC,Pac-12,0.7857142857142857
 2017,Ole Miss,SEC,California,Pac-12,0.4166666666666667
 2017,Virginia,ACC,Boise State,Mountain West,0.7857142857142857
-2017,Tennessee,SEC,Massachusetts,FBS Independents,0.3333333333333333
-2017,Texas Tech,Big 12,Houston,American Athletic,0.5833333333333334
 2017,Ohio State,Big Ten,UNLV,Mountain West,0.4166666666666667
 2017,Louisville,ACC,Kent State,Mid-American,0.16666666666666666
+2017,Tennessee,SEC,Massachusetts,FBS Independents,0.3333333333333333
+2017,Texas Tech,Big 12,Houston,American Athletic,0.5833333333333334
 2017,Virginia Tech,ACC,Old Dominion,Conference USA,0.4166666666666667
 2017,Maryland,Big Ten,UCF,American Athletic,1.0
-2017,Wake Forest,ACC,App State,Sun Belt,0.6923076923076923
 2017,South Carolina,SEC,Louisiana Tech,Conference USA,0.5384615384615384
-2017,Indiana,Big Ten,Georgia Southern,Sun Belt,0.16666666666666666
+2017,Wake Forest,ACC,App State,Sun Belt,0.6923076923076923
 2017,Miami,ACC,Toledo,Mid-American,0.7857142857142857
+2017,Indiana,Big Ten,Georgia Southern,Sun Belt,0.16666666666666666
 2017,LSU,SEC,Syracuse,ACC,0.3333333333333333
 2017,Syracuse,ACC,LSU,SEC,0.6923076923076923
 2017,Michigan State,Big Ten,Notre Dame,FBS Independents,0.7692307692307693
@@ -724,14 +724,14 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2017,Louisville,ACC,Murray State,OVC,0.2727272727272727
 2017,Kentucky,SEC,Eastern Michigan,Mid-American,0.4166666666666667
 2017,LSU,SEC,Troy,Sun Belt,0.8461538461538461
-2017,Indiana,Big Ten,Charleston Southern,Big South,0.5454545454545454
 2017,North Carolina,ACC,Notre Dame,FBS Independents,0.7692307692307693
+2017,Indiana,Big Ten,Charleston Southern,Big South,0.5454545454545454
 2017,Mississippi State,SEC,BYU,FBS Independents,0.3076923076923077
 2017,Missouri,SEC,Idaho,Sun Belt,0.3333333333333333
 2017,NC State,ACC,Notre Dame,FBS Independents,0.7692307692307693
 2017,Missouri,SEC,UConn,American Athletic,0.25
-2017,Vanderbilt,SEC,Western Kentucky,Conference USA,0.46153846153846156
 2017,Mississippi State,SEC,Massachusetts,FBS Independents,0.3333333333333333
+2017,Vanderbilt,SEC,Western Kentucky,Conference USA,0.46153846153846156
 2017,Wake Forest,ACC,Notre Dame,FBS Independents,0.7692307692307693
 2017,Arkansas,SEC,Coastal Carolina,Sun Belt,0.25
 2017,Tennessee,SEC,Southern Miss,Conference USA,0.6153846153846154
@@ -739,9 +739,9 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2017,Duke,ACC,Army,FBS Independents,0.7692307692307693
 2017,Texas A&M,SEC,New Mexico,Mountain West,0.25
 2017,Miami,ACC,Notre Dame,FBS Independents,0.7692307692307693
-2017,Alabama,SEC,Mercer,Southern,0.45454545454545453
 2017,Auburn,SEC,UL Monroe,Sun Belt,0.3333333333333333
 2017,Florida State,ACC,Delaware State,MEAC,0.18181818181818182
+2017,Alabama,SEC,Mercer,Southern,0.45454545454545453
 2017,Clemson,ACC,The Citadel,Southern,0.45454545454545453
 2017,North Carolina,ACC,Western Carolina,Southern,0.5833333333333334
 2017,Florida,SEC,UAB,Conference USA,0.6153846153846154
@@ -757,60 +757,60 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2017,Clemson,ACC,South Carolina,SEC,0.6923076923076923
 2017,Florida State,ACC,UL Monroe,Sun Belt,0.3333333333333333
 2018,Minnesota,Big Ten,New Mexico State,FBS Independents,0.25
-2018,Oklahoma State,Big 12,Missouri State,MVFC,0.36363636363636365
 2018,Wake Forest,ACC,Tulane,American Athletic,0.5384615384615384
+2018,Oklahoma State,Big 12,Missouri State,MVFC,0.36363636363636365
 2018,Texas A&M,SEC,Northwestern State,Southland,0.45454545454545453
 2018,Syracuse,ACC,Western Michigan,Mid-American,0.5384615384615384
-2018,Michigan State,Big Ten,Utah State,Mountain West,0.8461538461538461
 2018,Duke,ACC,Army,FBS Independents,0.8461538461538461
+2018,Michigan State,Big Ten,Utah State,Mountain West,0.8461538461538461
 2018,Wisconsin,Big Ten,Western Kentucky,Conference USA,0.25
+2018,Maryland,Big Ten,Texas,Big 12,0.7142857142857143
+2018,Texas,Big 12,Maryland,Big Ten,0.4166666666666667
 2018,Illinois,Big Ten,Kent State,Mid-American,0.16666666666666666
-2018,South Carolina,SEC,Coastal Carolina,Sun Belt,0.4166666666666667
-2018,Rutgers,Big Ten,Texas State,Sun Belt,0.25
-2018,Ohio State,Big Ten,Oregon State,Pac-12,0.16666666666666666
 2018,Texas Tech,Big 12,Ole Miss,SEC,0.4166666666666667
 2018,Ole Miss,SEC,Texas Tech,Big 12,0.4166666666666667
 2018,TCU,Big 12,Southern,SWAC,0.6363636363636364
+2018,South Carolina,SEC,Coastal Carolina,Sun Belt,0.4166666666666667
 2018,Oklahoma,Big 12,Florida Atlantic,Conference USA,0.4166666666666667
-2018,Maryland,Big Ten,Texas,Big 12,0.7142857142857143
-2018,Texas,Big 12,Maryland,Big Ten,0.4166666666666667
+2018,Ohio State,Big Ten,Oregon State,Pac-12,0.16666666666666666
+2018,Rutgers,Big Ten,Texas State,Sun Belt,0.25
 2018,NC State,ACC,James Madison,CAA,0.6923076923076923
 2018,Clemson,ACC,Furman,Southern,0.6
 2018,Georgia Tech,ACC,Alcorn State,SWAC,0.6923076923076923
 2018,Boston College,ACC,Massachusetts,FBS Independents,0.3333333333333333
-2018,Georgia,SEC,Austin Peay,OVC,0.45454545454545453
-2018,Pittsburgh,ACC,UAlbany,CAA,0.2727272727272727
 2018,Penn State,Big Ten,App State,Sun Belt,0.8461538461538461
+2018,Kentucky,SEC,Central Michigan,Mid-American,0.08333333333333333
 2018,Tennessee,SEC,West Virginia,Big 12,0.6666666666666666
 2018,West Virginia,Big 12,Tennessee,SEC,0.4166666666666667
+2018,Georgia,SEC,Austin Peay,OVC,0.45454545454545453
 2018,Auburn,SEC,Washington,Pac-12,0.7142857142857143
-2018,Kentucky,SEC,Central Michigan,Mid-American,0.08333333333333333
+2018,Pittsburgh,ACC,UAlbany,CAA,0.2727272727272727
 2018,Iowa,Big Ten,Northern Illinois,Mid-American,0.5714285714285714
-2018,Missouri,SEC,UT Martin,OVC,0.18181818181818182
-2018,North Carolina,ACC,California,Pac-12,0.5384615384615384
 2018,Arkansas,SEC,Eastern Illinois,OVC,0.2727272727272727
+2018,North Carolina,ACC,California,Pac-12,0.5384615384615384
+2018,Missouri,SEC,UT Martin,OVC,0.18181818181818182
 2018,Virginia,ACC,Richmond,CAA,0.36363636363636365
-2018,Indiana,Big Ten,Florida International,Conference USA,0.6923076923076923
 2018,Kansas State,Big 12,South Dakota,MVFC,0.36363636363636365
 2018,Kansas,Big 12,Nicholls,Southland,0.6923076923076923
-2018,Michigan,Big Ten,Notre Dame,FBS Independents,0.9230769230769231
-2018,Vanderbilt,SEC,Middle Tennessee,Conference USA,0.5714285714285714
-2018,Florida,SEC,Charleston Southern,Big South,0.45454545454545453
+2018,Indiana,Big Ten,Florida International,Conference USA,0.6923076923076923
 2018,Mississippi State,SEC,Stephen F. Austin,Southland,0.2
-2018,Baylor,Big 12,Abilene Christian,Southland,0.5454545454545454
+2018,Vanderbilt,SEC,Middle Tennessee,Conference USA,0.5714285714285714
+2018,Michigan,Big Ten,Notre Dame,FBS Independents,0.9230769230769231
+2018,Florida,SEC,Charleston Southern,Big South,0.45454545454545453
 2018,Alabama,SEC,Louisville,ACC,0.16666666666666666
 2018,Louisville,ACC,Alabama,SEC,0.9333333333333333
+2018,Baylor,Big 12,Abilene Christian,Southland,0.5454545454545454
 2018,LSU,SEC,Miami,ACC,0.5384615384615384
 2018,Miami,ACC,LSU,SEC,0.7692307692307693
 2018,TCU,Big 12,SMU,American Athletic,0.4166666666666667
+2018,Vanderbilt,SEC,Nevada,Mountain West,0.6153846153846154
 2018,Northwestern,Big Ten,Duke,ACC,0.6153846153846154
 2018,Duke,ACC,Northwestern,Big Ten,0.6428571428571429
+2018,Michigan,Big Ten,Western Michigan,Mid-American,0.5384615384615384
+2018,Wisconsin,Big Ten,New Mexico,Mountain West,0.25
 2018,Purdue,Big Ten,Eastern Michigan,Mid-American,0.5384615384615384
 2018,Kansas State,Big 12,Mississippi State,SEC,0.6153846153846154
 2018,Mississippi State,SEC,Kansas State,Big 12,0.4166666666666667
-2018,Michigan,Big Ten,Western Michigan,Mid-American,0.5384615384615384
-2018,Wisconsin,Big Ten,New Mexico,Mountain West,0.25
-2018,Vanderbilt,SEC,Nevada,Mountain West,0.6153846153846154
 2018,Georgia Tech,ACC,South Florida,American Athletic,0.5384615384615384
 2018,Wake Forest,ACC,Towson,CAA,0.5833333333333334
 2018,NC State,ACC,Georgia State,Sun Belt,0.16666666666666666
@@ -818,93 +818,93 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2018,Boston College,ACC,Holy Cross,Patriot,0.45454545454545453
 2018,Virginia Tech,ACC,William & Mary,CAA,0.4
 2018,Kansas,Big 12,Central Michigan,Mid-American,0.08333333333333333
-2018,North Carolina,ACC,East Carolina,American Athletic,0.25
-2018,Syracuse,ACC,Wagner,NEC,0.36363636363636365
 2018,Alabama,SEC,Arkansas State,Sun Belt,0.6153846153846154
 2018,Nebraska,Big Ten,Colorado,Pac-12,0.4166666666666667
+2018,North Carolina,ACC,East Carolina,American Athletic,0.25
+2018,Syracuse,ACC,Wagner,NEC,0.36363636363636365
+2018,Tennessee,SEC,East Tennessee State,Southern,0.6666666666666666
 2018,Texas Tech,Big 12,Lamar,Southland,0.5833333333333334
 2018,Ole Miss,SEC,Southern Illinois,MVFC,0.18181818181818182
-2018,Tennessee,SEC,East Tennessee State,Southern,0.6666666666666666
 2018,Iowa,Big Ten,Iowa State,Big 12,0.6153846153846154
 2018,Iowa State,Big 12,Iowa,Big Ten,0.6923076923076923
-2018,West Virginia,Big 12,Youngstown State,MVFC,0.36363636363636365
 2018,Maryland,Big Ten,Bowling Green,Mid-American,0.25
 2018,Miami,ACC,Savannah State,MEAC,0.2
+2018,West Virginia,Big 12,Youngstown State,MVFC,0.36363636363636365
+2018,LSU,SEC,SE Louisiana,Southland,0.36363636363636365
+2018,Louisville,ACC,Indiana State,MVFC,0.6363636363636364
 2018,Baylor,Big 12,UTSA,Conference USA,0.25
+2018,Missouri,SEC,Wyoming,Mountain West,0.5
 2018,Texas A&M,SEC,Clemson,ACC,1.0
 2018,Clemson,ACC,Texas A&M,SEC,0.6923076923076923
-2018,Louisville,ACC,Indiana State,MVFC,0.6363636363636364
-2018,LSU,SEC,SE Louisiana,Southland,0.36363636363636365
-2018,Missouri,SEC,Wyoming,Mountain West,0.5
 2018,Florida State,ACC,Samford,Southern,0.5454545454545454
-2018,Indiana,Big Ten,Virginia,ACC,0.6153846153846154
-2018,Virginia,ACC,Indiana,Big Ten,0.4166666666666667
+2018,Illinois,Big Ten,Western Illinois,MVFC,0.45454545454545453
 2018,Auburn,SEC,Alabama State,SWAC,0.3
 2018,Minnesota,Big Ten,Fresno State,Mountain West,0.8571428571428571
 2018,Arkansas,SEC,Colorado State,Mountain West,0.25
-2018,Illinois,Big Ten,Western Illinois,MVFC,0.45454545454545453
+2018,Indiana,Big Ten,Virginia,ACC,0.6153846153846154
+2018,Virginia,ACC,Indiana,Big Ten,0.4166666666666667
+2018,Texas,Big 12,Tulsa,American Athletic,0.25
 2018,Oklahoma State,Big 12,South Alabama,Sun Belt,0.25
 2018,Pittsburgh,ACC,Penn State,Big Ten,0.6923076923076923
 2018,Penn State,Big Ten,Pittsburgh,ACC,0.5
-2018,Texas,Big 12,Tulsa,American Athletic,0.25
 2018,Michigan State,Big Ten,Arizona State,Pac-12,0.5384615384615384
-2018,Kentucky,SEC,Murray State,OVC,0.45454545454545453
-2018,Penn State,Big Ten,Kent State,Mid-American,0.16666666666666666
 2018,Indiana,Big Ten,Ball State,Mid-American,0.3333333333333333
+2018,Maryland,Big Ten,Temple,American Athletic,0.6153846153846154
 2018,Clemson,ACC,Georgia Southern,Sun Belt,0.7692307692307693
 2018,Tennessee,SEC,UTEP,Conference USA,0.08333333333333333
+2018,Georgia,SEC,Middle Tennessee,Conference USA,0.5714285714285714
+2018,Penn State,Big Ten,Kent State,Mid-American,0.16666666666666666
 2018,Miami,ACC,Toledo,Mid-American,0.5384615384615384
+2018,Nebraska,Big Ten,Troy,Sun Belt,0.7692307692307693
+2018,Kentucky,SEC,Murray State,OVC,0.45454545454545453
 2018,Kansas,Big 12,Rutgers,Big Ten,0.08333333333333333
 2018,Rutgers,Big Ten,Kansas,Big 12,0.25
-2018,Georgia,SEC,Middle Tennessee,Conference USA,0.5714285714285714
-2018,Maryland,Big Ten,Temple,American Athletic,0.6153846153846154
-2018,Nebraska,Big Ten,Troy,Sun Belt,0.7692307692307693
 2018,Vanderbilt,SEC,Notre Dame,FBS Independents,0.9230769230769231
-2018,Illinois,Big Ten,South Florida,American Athletic,0.5384615384615384
 2018,Wisconsin,Big Ten,BYU,FBS Independents,0.5384615384615384
-2018,Michigan,Big Ten,SMU,American Athletic,0.4166666666666667
-2018,Minnesota,Big Ten,Miami (OH),Mid-American,0.5
+2018,Illinois,Big Ten,South Florida,American Athletic,0.5384615384615384
 2018,Oklahoma State,Big 12,Boise State,Mountain West,0.7692307692307693
 2018,Baylor,Big 12,Duke,ACC,0.6153846153846154
 2018,Duke,ACC,Baylor,Big 12,0.5384615384615384
+2018,Michigan,Big Ten,SMU,American Athletic,0.4166666666666667
+2018,Minnesota,Big Ten,Miami (OH),Mid-American,0.5
 2018,Kansas State,Big 12,UTSA,Conference USA,0.25
 2018,Arkansas,SEC,North Texas,Conference USA,0.6923076923076923
 2018,Florida,SEC,Colorado State,Mountain West,0.25
 2018,Texas Tech,Big 12,Houston,American Athletic,0.6153846153846154
 2018,Virginia,ACC,Ohio,Mid-American,0.6923076923076923
 2018,Iowa,Big Ten,Northern Iowa,MVFC,0.5384615384615384
-2018,Louisville,ACC,Western Kentucky,Conference USA,0.25
 2018,Mississippi State,SEC,Louisiana,Sun Belt,0.5
+2018,Northwestern,Big Ten,Akron,Mid-American,0.3333333333333333
 2018,Texas A&M,SEC,UL Monroe,Sun Belt,0.5
 2018,Purdue,Big Ten,Missouri,SEC,0.6153846153846154
 2018,Missouri,SEC,Purdue,Big Ten,0.46153846153846156
-2018,Northwestern,Big Ten,Akron,Mid-American,0.3333333333333333
-2018,Texas,Big 12,USC,Pac-12,0.4166666666666667
+2018,Louisville,ACC,Western Kentucky,Conference USA,0.25
 2018,TCU,Big 12,Ohio State,Big Ten,0.9285714285714286
 2018,Ohio State,Big Ten,TCU,Big 12,0.5384615384615384
+2018,Texas,Big 12,USC,Pac-12,0.4166666666666667
 2018,Purdue,Big Ten,Boston College,ACC,0.5833333333333334
 2018,Boston College,ACC,Purdue,Big Ten,0.46153846153846156
 2018,Rutgers,Big Ten,Buffalo,Mid-American,0.7142857142857143
-2018,Iowa State,Big 12,Akron,Mid-American,0.3333333333333333
 2018,Ole Miss,SEC,Kent State,Mid-American,0.16666666666666666
 2018,Wake Forest,ACC,Notre Dame,FBS Independents,0.9230769230769231
-2018,Duke,ACC,North Carolina Central,MEAC,0.45454545454545453
-2018,Miami,ACC,Florida International,Conference USA,0.6923076923076923
+2018,Iowa State,Big 12,Akron,Mid-American,0.3333333333333333
 2018,Ohio State,Big Ten,Tulane,American Athletic,0.5384615384615384
-2018,Florida State,ACC,Northern Illinois,Mid-American,0.5714285714285714
+2018,Duke,ACC,North Carolina Central,MEAC,0.45454545454545453
 2018,Virginia Tech,ACC,Old Dominion,Conference USA,0.3333333333333333
+2018,Miami,ACC,Florida International,Conference USA,0.6923076923076923
+2018,Florida State,ACC,Northern Illinois,Mid-American,0.5714285714285714
 2018,Syracuse,ACC,UConn,American Athletic,0.08333333333333333
+2018,LSU,SEC,Louisiana Tech,Conference USA,0.6153846153846154
 2018,Oklahoma,Big 12,Army,FBS Independents,0.8461538461538461
 2018,NC State,ACC,Marshall,Conference USA,0.6923076923076923
-2018,LSU,SEC,Louisiana Tech,Conference USA,0.6153846153846154
-2018,Boston College,ACC,Temple,American Athletic,0.6153846153846154
-2018,Georgia Tech,ACC,Bowling Green,Mid-American,0.25
 2018,Alabama,SEC,Louisiana,Sun Belt,0.5
 2018,Michigan State,Big Ten,Central Michigan,Mid-American,0.08333333333333333
-2018,Wake Forest,ACC,Rice,Conference USA,0.15384615384615385
+2018,Georgia Tech,ACC,Bowling Green,Mid-American,0.25
+2018,Boston College,ACC,Temple,American Athletic,0.6153846153846154
 2018,Pittsburgh,ACC,UCF,American Athletic,0.9230769230769231
-2018,Vanderbilt,SEC,Tennessee State,OVC,0.4444444444444444
+2018,Wake Forest,ACC,Rice,Conference USA,0.15384615384615385
 2018,Auburn,SEC,Southern Miss,Conference USA,0.5454545454545454
+2018,Vanderbilt,SEC,Tennessee State,OVC,0.4444444444444444
 2018,Ole Miss,SEC,UL Monroe,Sun Belt,0.5
 2018,Virginia Tech,ACC,Notre Dame,FBS Independents,0.9230769230769231
 2018,Pittsburgh,ACC,Notre Dame,FBS Independents,0.9230769230769231
@@ -916,28 +916,28 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2018,Mississippi State,SEC,Louisiana Tech,Conference USA,0.6153846153846154
 2018,Virginia,ACC,Liberty,FBS Independents,0.5
 2018,Florida State,ACC,Notre Dame,FBS Independents,0.9230769230769231
+2018,Alabama,SEC,The Citadel,Southern,0.45454545454545453
 2018,Kentucky,SEC,Middle Tennessee,Conference USA,0.5714285714285714
 2018,Florida,SEC,Idaho,Big Sky,0.36363636363636365
-2018,Alabama,SEC,The Citadel,Southern,0.45454545454545453
 2018,Syracuse,ACC,Notre Dame,FBS Independents,0.9230769230769231
 2018,North Carolina,ACC,Western Carolina,Southern,0.2727272727272727
 2018,Georgia,SEC,Massachusetts,FBS Independents,0.3333333333333333
 2018,Auburn,SEC,Liberty,FBS Independents,0.5
 2018,Texas A&M,SEC,UAB,Conference USA,0.7857142857142857
-2018,LSU,SEC,Rice,Conference USA,0.15384615384615385
 2018,South Carolina,SEC,Chattanooga,Southern,0.5454545454545454
-2018,Georgia,SEC,Georgia Tech,ACC,0.5384615384615384
-2018,Georgia Tech,ACC,Georgia,SEC,0.7857142857142857
+2018,LSU,SEC,Rice,Conference USA,0.15384615384615385
 2018,Florida State,ACC,Florida,SEC,0.7692307692307693
 2018,Florida,SEC,Florida State,ACC,0.4166666666666667
-2018,Clemson,ACC,South Carolina,SEC,0.5384615384615384
-2018,South Carolina,SEC,Clemson,ACC,1.0
+2018,Georgia,SEC,Georgia Tech,ACC,0.5384615384615384
+2018,Georgia Tech,ACC,Georgia,SEC,0.7857142857142857
 2018,Louisville,ACC,Kentucky,SEC,0.7692307692307693
 2018,Kentucky,SEC,Louisville,ACC,0.16666666666666666
+2018,Clemson,ACC,South Carolina,SEC,0.5384615384615384
+2018,South Carolina,SEC,Clemson,ACC,1.0
 2018,Virginia Tech,ACC,Marshall,Conference USA,0.6923076923076923
+2018,Iowa State,Big 12,Drake,Pioneer,0.6363636363636364
 2018,NC State,ACC,East Carolina,American Athletic,0.25
 2018,South Carolina,SEC,Akron,Mid-American,0.3333333333333333
-2018,Iowa State,Big 12,Drake,Pioneer,0.6363636363636364
 2019,Florida,SEC,Miami,ACC,0.46153846153846156
 2019,Miami,ACC,Florida,SEC,0.8461538461538461
 2019,Texas A&M,SEC,Texas State,Sun Belt,0.25
@@ -948,28 +948,28 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2019,Wake Forest,ACC,Utah State,Mountain West,0.5384615384615384
 2019,Purdue,Big Ten,Nevada,Mountain West,0.5384615384615384
 2019,Oklahoma State,Big 12,Oregon State,Pac-12,0.4166666666666667
-2019,Florida State,ACC,Boise State,Mountain West,0.8571428571428571
-2019,Kentucky,SEC,Toledo,Mid-American,0.5
+2019,Mississippi State,SEC,Louisiana,Sun Belt,0.7857142857142857
+2019,Kansas,Big 12,Indiana State,MVFC,0.4166666666666667
+2019,Illinois,Big Ten,Akron,Mid-American,0.0
+2019,Indiana,Big Ten,Ball State,Mid-American,0.4166666666666667
+2019,Maryland,Big Ten,Howard,MEAC,0.16666666666666666
 2019,Nebraska,Big Ten,South Alabama,Sun Belt,0.16666666666666666
 2019,Iowa State,Big 12,Northern Iowa,MVFC,0.6666666666666666
-2019,Ole Miss,SEC,Memphis,American Athletic,0.8571428571428571
-2019,Indiana,Big Ten,Ball State,Mid-American,0.4166666666666667
-2019,Ohio State,Big Ten,Florida Atlantic,Conference USA,0.7857142857142857
 2019,NC State,ACC,East Carolina,American Athletic,0.3333333333333333
-2019,Mississippi State,SEC,Louisiana,Sun Belt,0.7857142857142857
-2019,Illinois,Big Ten,Akron,Mid-American,0.0
-2019,Kansas,Big 12,Indiana State,MVFC,0.4166666666666667
-2019,Maryland,Big Ten,Howard,MEAC,0.16666666666666666
+2019,Florida State,ACC,Boise State,Mountain West,0.8571428571428571
+2019,Ohio State,Big Ten,Florida Atlantic,Conference USA,0.7857142857142857
+2019,Ole Miss,SEC,Memphis,American Athletic,0.8571428571428571
+2019,Kentucky,SEC,Toledo,Mid-American,0.5
 2019,West Virginia,Big 12,James Madison,CAA,0.875
-2019,North Carolina,ACC,South Carolina,SEC,0.3333333333333333
-2019,South Carolina,SEC,North Carolina,ACC,0.5384615384615384
 2019,Penn State,Big Ten,Idaho,Big Sky,0.4166666666666667
+2019,Tennessee,SEC,Georgia State,Sun Belt,0.5384615384615384
 2019,Alabama,SEC,Duke,ACC,0.4166666666666667
 2019,Duke,ACC,Alabama,SEC,0.8461538461538461
-2019,Tennessee,SEC,Georgia State,Sun Belt,0.5384615384615384
-2019,Northwestern,Big Ten,Stanford,Pac-12,0.3333333333333333
-2019,Arkansas,SEC,Portland State,Big Sky,0.4166666666666667
+2019,North Carolina,ACC,South Carolina,SEC,0.3333333333333333
+2019,South Carolina,SEC,North Carolina,ACC,0.5384615384615384
 2019,Texas Tech,Big 12,Montana State,Big Sky,0.7333333333333333
+2019,Arkansas,SEC,Portland State,Big Sky,0.4166666666666667
+2019,Northwestern,Big Ten,Stanford,Pac-12,0.3333333333333333
 2019,Syracuse,ACC,Liberty,FBS Independents,0.6153846153846154
 2019,Kansas State,Big 12,Nicholls,Southland,0.6428571428571429
 2019,Baylor,Big 12,Stephen F. Austin,Southland,0.25
@@ -978,106 +978,106 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2019,Auburn,SEC,Oregon,Pac-12,0.8571428571428571
 2019,Missouri,SEC,Wyoming,Mountain West,0.6153846153846154
 2019,Iowa,Big Ten,Miami (OH),Mid-American,0.5714285714285714
-2019,TCU,Big 12,Arkansas-Pine Bluff,SWAC,0.5454545454545454
 2019,Texas,Big 12,Louisiana Tech,Conference USA,0.7692307692307693
+2019,TCU,Big 12,Arkansas-Pine Bluff,SWAC,0.5454545454545454
 2019,Oklahoma,Big 12,Houston,American Athletic,0.3333333333333333
 2019,Louisville,ACC,Notre Dame,FBS Independents,0.8461538461538461
-2019,Wake Forest,ACC,Rice,Conference USA,0.25
 2019,Virginia,ACC,William & Mary,CAA,0.4166666666666667
+2019,Wake Forest,ACC,Rice,Conference USA,0.25
 2019,Pittsburgh,ACC,Ohio,Mid-American,0.5384615384615384
-2019,Purdue,Big Ten,Vanderbilt,SEC,0.25
-2019,Vanderbilt,SEC,Purdue,Big Ten,0.3333333333333333
+2019,Michigan,Big Ten,Army,FBS Independents,0.38461538461538464
+2019,Virginia Tech,ACC,Old Dominion,Conference USA,0.08333333333333333
+2019,Kansas State,Big 12,Bowling Green,Mid-American,0.25
 2019,Missouri,SEC,West Virginia,Big 12,0.4166666666666667
 2019,West Virginia,Big 12,Missouri,SEC,0.5
-2019,Kansas State,Big 12,Bowling Green,Mid-American,0.25
-2019,Ohio State,Big Ten,Cincinnati,American Athletic,0.7857142857142857
-2019,Virginia Tech,ACC,Old Dominion,Conference USA,0.08333333333333333
-2019,Michigan,Big Ten,Army,FBS Independents,0.38461538461538464
+2019,Purdue,Big Ten,Vanderbilt,SEC,0.25
+2019,Vanderbilt,SEC,Purdue,Big Ten,0.3333333333333333
 2019,Maryland,Big Ten,Syracuse,ACC,0.4166666666666667
 2019,Syracuse,ACC,Maryland,Big Ten,0.25
+2019,Ohio State,Big Ten,Cincinnati,American Athletic,0.7857142857142857
 2019,South Carolina,SEC,Charleston Southern,Big South,0.5
 2019,NC State,ACC,Western Carolina,Southern,0.25
 2019,Georgia Tech,ACC,South Florida,American Athletic,0.3333333333333333
 2019,Clemson,ACC,Texas A&M,SEC,0.6153846153846154
 2019,Texas A&M,SEC,Clemson,ACC,0.9333333333333333
-2019,Boston College,ACC,Richmond,CAA,0.4166666666666667
-2019,Indiana,Big Ten,Eastern Illinois,OVC,0.08333333333333333
 2019,Nebraska,Big Ten,Colorado,Pac-12,0.4166666666666667
+2019,Wisconsin,Big Ten,Central Michigan,Mid-American,0.5714285714285714
 2019,Illinois,Big Ten,UConn,American Athletic,0.16666666666666666
 2019,Mississippi State,SEC,Southern Miss,Conference USA,0.5384615384615384
-2019,Wisconsin,Big Ten,Central Michigan,Mid-American,0.5714285714285714
-2019,Baylor,Big 12,UTSA,Conference USA,0.3333333333333333
+2019,Indiana,Big Ten,Eastern Illinois,OVC,0.08333333333333333
+2019,Boston College,ACC,Richmond,CAA,0.4166666666666667
 2019,Georgia,SEC,Murray State,OVC,0.3333333333333333
+2019,Baylor,Big 12,UTSA,Conference USA,0.3333333333333333
 2019,Alabama,SEC,New Mexico State,FBS Independents,0.16666666666666666
 2019,Florida State,ACC,UL Monroe,Sun Belt,0.4166666666666667
 2019,Duke,ACC,North Carolina A&T,MEAC,0.75
+2019,Oklahoma,Big 12,South Dakota,MVFC,0.4166666666666667
 2019,Oklahoma State,Big 12,McNeese,Southland,0.5833333333333334
 2019,Tennessee,SEC,BYU,FBS Independents,0.5384615384615384
-2019,Kansas,Big 12,Coastal Carolina,Sun Belt,0.4166666666666667
 2019,Louisville,ACC,Eastern Kentucky,OVC,0.5833333333333334
-2019,Oklahoma,Big 12,South Dakota,MVFC,0.4166666666666667
+2019,Kansas,Big 12,Coastal Carolina,Sun Belt,0.4166666666666667
+2019,Michigan State,Big Ten,Western Michigan,Mid-American,0.5384615384615384
+2019,Auburn,SEC,Tulane,American Athletic,0.5384615384615384
 2019,Texas,Big 12,LSU,SEC,1.0
 2019,LSU,SEC,Texas,Big 12,0.6153846153846154
-2019,Florida,SEC,UT Martin,OVC,0.5833333333333334
-2019,Michigan State,Big Ten,Western Michigan,Mid-American,0.5384615384615384
 2019,Penn State,Big Ten,Buffalo,Mid-American,0.6153846153846154
+2019,Florida,SEC,UT Martin,OVC,0.5833333333333334
 2019,Kentucky,SEC,Eastern Michigan,Mid-American,0.46153846153846156
-2019,Auburn,SEC,Tulane,American Athletic,0.5384615384615384
 2019,Texas Tech,Big 12,UTEP,Conference USA,0.08333333333333333
 2019,Minnesota,Big Ten,Fresno State,Mountain West,0.3333333333333333
 2019,Wake Forest,ACC,North Carolina,ACC,0.5384615384615384
 2019,North Carolina,ACC,Wake Forest,ACC,0.6153846153846154
 2019,Boston College,ACC,Kansas,Big 12,0.25
 2019,Kansas,Big 12,Boston College,ACC,0.46153846153846156
-2019,Penn State,Big Ten,Pittsburgh,ACC,0.6153846153846154
-2019,Pittsburgh,ACC,Penn State,Big Ten,0.8461538461538461
-2019,Virginia Tech,ACC,Furman,Southern,0.6153846153846154
 2019,Mississippi State,SEC,Kansas State,Big 12,0.6153846153846154
 2019,Kansas State,Big 12,Mississippi State,SEC,0.46153846153846156
 2019,Georgia,SEC,Arkansas State,Sun Belt,0.6153846153846154
+2019,Virginia Tech,ACC,Furman,Southern,0.6153846153846154
+2019,Penn State,Big Ten,Pittsburgh,ACC,0.6153846153846154
+2019,Pittsburgh,ACC,Penn State,Big Ten,0.8461538461538461
+2019,West Virginia,Big 12,NC State,ACC,0.3333333333333333
+2019,NC State,ACC,West Virginia,Big 12,0.4166666666666667
 2019,Tennessee,SEC,Chattanooga,Southern,0.5
 2019,Illinois,Big Ten,Eastern Michigan,Mid-American,0.46153846153846156
 2019,Maryland,Big Ten,Temple,American Athletic,0.6153846153846154
-2019,West Virginia,Big 12,NC State,ACC,0.3333333333333333
-2019,NC State,ACC,West Virginia,Big 12,0.4166666666666667
 2019,Georgia Tech,ACC,The Citadel,Southern,0.5
 2019,Minnesota,Big Ten,Georgia Southern,Sun Belt,0.5384615384615384
-2019,Northwestern,Big Ten,UNLV,Mountain West,0.3333333333333333
 2019,Oklahoma State,Big 12,Tulsa,American Athletic,0.3333333333333333
-2019,Michigan State,Big Ten,Arizona State,Pac-12,0.6153846153846154
+2019,Northwestern,Big Ten,UNLV,Mountain West,0.3333333333333333
 2019,Miami,ACC,Bethune-Cookman,MEAC,0.6363636363636364
+2019,Ole Miss,SEC,SE Louisiana,Southland,0.6153846153846154
+2019,Michigan State,Big Ten,Arizona State,Pac-12,0.6153846153846154
 2019,Iowa State,Big 12,Iowa,Big Ten,0.7692307692307693
 2019,Iowa,Big Ten,Iowa State,Big 12,0.5384615384615384
-2019,Arkansas,SEC,Colorado State,Mountain West,0.3333333333333333
-2019,Ole Miss,SEC,SE Louisiana,Southland,0.6153846153846154
 2019,Louisville,ACC,Western Kentucky,Conference USA,0.6923076923076923
-2019,Texas A&M,SEC,Lamar,Southland,0.3333333333333333
-2019,Duke,ACC,Middle Tennessee,Conference USA,0.3333333333333333
+2019,Arkansas,SEC,Colorado State,Mountain West,0.3333333333333333
 2019,Auburn,SEC,Kent State,Mid-American,0.5384615384615384
+2019,Duke,ACC,Middle Tennessee,Conference USA,0.3333333333333333
+2019,Texas A&M,SEC,Lamar,Southland,0.3333333333333333
 2019,Missouri,SEC,Southeast Missouri State,OVC,0.6923076923076923
-2019,LSU,SEC,Northwestern State,Southland,0.25
 2019,Purdue,Big Ten,TCU,Big 12,0.4166666666666667
 2019,TCU,Big 12,Purdue,Big Ten,0.3333333333333333
-2019,Nebraska,Big Ten,Northern Illinois,Mid-American,0.4166666666666667
+2019,LSU,SEC,Northwestern State,Southland,0.25
 2019,Texas,Big 12,Rice,Conference USA,0.25
 2019,Oklahoma,Big 12,UCLA,Pac-12,0.3333333333333333
+2019,Nebraska,Big Ten,Northern Illinois,Mid-American,0.4166666666666667
 2019,Texas Tech,Big 12,Arizona,Pac-12,0.3333333333333333
+2019,Iowa State,Big 12,UL Monroe,Sun Belt,0.4166666666666667
 2019,Alabama,SEC,Southern Miss,Conference USA,0.5384615384615384
 2019,Ole Miss,SEC,California,Pac-12,0.6153846153846154
-2019,Indiana,Big Ten,UConn,American Athletic,0.16666666666666666
+2019,Wake Forest,ACC,Elon,CAA,0.45454545454545453
 2019,Rutgers,Big Ten,Boston College,ACC,0.46153846153846156
 2019,Boston College,ACC,Rutgers,Big Ten,0.16666666666666666
-2019,Iowa State,Big 12,UL Monroe,Sun Belt,0.4166666666666667
 2019,Syracuse,ACC,Western Michigan,Mid-American,0.5384615384615384
-2019,Wake Forest,ACC,Elon,CAA,0.45454545454545453
+2019,Indiana,Big Ten,UConn,American Athletic,0.16666666666666666
 2019,Pittsburgh,ACC,UCF,American Athletic,0.7692307692307693
+2019,TCU,Big 12,SMU,American Athletic,0.7692307692307693
 2019,North Carolina,ACC,App State,Sun Belt,0.9285714285714286
 2019,Ohio State,Big Ten,Miami (OH),Mid-American,0.5714285714285714
-2019,TCU,Big 12,SMU,American Athletic,0.7692307692307693
 2019,Miami,ACC,Central Michigan,Mid-American,0.5714285714285714
-2019,Virginia,ACC,Old Dominion,Conference USA,0.08333333333333333
 2019,NC State,ACC,Ball State,Mid-American,0.4166666666666667
 2019,Baylor,Big 12,Rice,Conference USA,0.25
+2019,Virginia,ACC,Old Dominion,Conference USA,0.08333333333333333
 2019,Arkansas,SEC,San José State,Mountain West,0.4166666666666667
 2019,Clemson,ACC,Charlotte,Conference USA,0.5384615384615384
 2019,Georgia,SEC,Notre Dame,FBS Independents,0.8461538461538461
@@ -1106,31 +1106,31 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2019,Florida State,ACC,Alabama State,SWAC,0.45454545454545453
 2019,Northwestern,Big Ten,Massachusetts,FBS Independents,0.08333333333333333
 2019,Auburn,SEC,Samford,Southern,0.4166666666666667
-2019,Alabama,SEC,Western Carolina,Southern,0.25
 2019,Virginia,ACC,Liberty,FBS Independents,0.6153846153846154
+2019,Alabama,SEC,Western Carolina,Southern,0.25
 2019,Boston College,ACC,Notre Dame,FBS Independents,0.8461538461538461
-2019,Kentucky,SEC,UT Martin,OVC,0.5833333333333334
-2019,Vanderbilt,SEC,East Tennessee State,Southern,0.25
 2019,North Carolina,ACC,Mercer,Southern,0.3333333333333333
+2019,Vanderbilt,SEC,East Tennessee State,Southern,0.25
+2019,Kentucky,SEC,UT Martin,OVC,0.5833333333333334
 2019,Miami,ACC,Florida International,Conference USA,0.46153846153846156
 2019,Mississippi State,SEC,Abilene Christian,Southland,0.4166666666666667
-2019,Georgia Tech,ACC,Georgia,SEC,0.8571428571428571
-2019,Georgia,SEC,Georgia Tech,ACC,0.25
 2019,Kentucky,SEC,Louisville,ACC,0.6153846153846154
 2019,Louisville,ACC,Kentucky,SEC,0.6153846153846154
+2019,Georgia Tech,ACC,Georgia,SEC,0.8571428571428571
+2019,Georgia,SEC,Georgia Tech,ACC,0.25
 2019,South Carolina,SEC,Clemson,ACC,0.9333333333333333
 2019,Clemson,ACC,South Carolina,SEC,0.3333333333333333
 2019,Florida,SEC,Florida State,ACC,0.46153846153846156
 2019,Florida State,ACC,Florida,SEC,0.8461538461538461
 2020,Miami,ACC,UAB,Conference USA,0.6666666666666666
-2020,Kansas State,Big 12,Arkansas State,Sun Belt,0.36363636363636365
 2020,Iowa State,Big 12,Louisiana,Sun Belt,0.9090909090909091
 2020,West Virginia,Big 12,Eastern Kentucky,OVC,0.3333333333333333
+2020,Kansas State,Big 12,Arkansas State,Sun Belt,0.36363636363636365
 2020,Pittsburgh,ACC,Austin Peay,OVC,0.4444444444444444
 2020,Oklahoma,Big 12,Missouri State,MVFC,0.5
+2020,Texas Tech,Big 12,Houston Christian,Southland,0.25
 2020,Texas,Big 12,UTEP,Conference USA,0.375
 2020,Louisville,ACC,Western Kentucky,Conference USA,0.4166666666666667
-2020,Texas Tech,Big 12,Houston Christian,Southland,0.25
 2020,Kansas,Big 12,Coastal Carolina,Sun Belt,0.9166666666666666
 2020,Oklahoma State,Big 12,Tulsa,American Athletic,0.6666666666666666
 2020,Notre Dame,ACC,South Florida,American Athletic,0.1111111111111111
@@ -1148,41 +1148,41 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2020,TCU,Big 12,Louisiana Tech,Conference USA,0.5
 2021,NC State,ACC,South Florida,American Athletic,0.16666666666666666
 2021,Tennessee,SEC,Bowling Green,Mid-American,0.3333333333333333
-2021,Duke,ACC,Charlotte,Conference USA,0.4166666666666667
 2021,Wake Forest,ACC,Old Dominion,Conference USA,0.46153846153846156
+2021,Duke,ACC,Charlotte,Conference USA,0.4166666666666667
 2021,Kansas,Big 12,South Dakota,MVFC,0.5833333333333334
-2021,Boston College,ACC,Colgate,Patriot,0.45454545454545453
-2021,Kansas State,Big 12,Stanford,Pac-12,0.25
-2021,Kentucky,SEC,UL Monroe,Sun Belt,0.3333333333333333
-2021,Michigan,Big Ten,Western Michigan,Mid-American,0.6153846153846154
-2021,Rutgers,Big Ten,Temple,American Athletic,0.25
-2021,Oklahoma,Big 12,Tulane,American Athletic,0.16666666666666666
 2021,Nebraska,Big Ten,Fordham,Patriot,0.5454545454545454
+2021,Oklahoma,Big 12,Tulane,American Athletic,0.16666666666666666
+2021,Rutgers,Big Ten,Temple,American Athletic,0.25
+2021,Kentucky,SEC,UL Monroe,Sun Belt,0.3333333333333333
+2021,Kansas State,Big 12,Stanford,Pac-12,0.25
+2021,Michigan,Big Ten,Western Michigan,Mid-American,0.6153846153846154
+2021,Boston College,ACC,Colgate,Patriot,0.45454545454545453
 2021,Arkansas,SEC,Rice,Conference USA,0.3333333333333333
 2021,Miami,ACC,Alabama,SEC,0.8666666666666667
 2021,Alabama,SEC,Miami,ACC,0.5833333333333334
 2021,Maryland,Big Ten,West Virginia,Big 12,0.46153846153846156
 2021,West Virginia,Big 12,Maryland,Big Ten,0.5384615384615384
+2021,Pittsburgh,ACC,Massachusetts,FBS Independents,0.08333333333333333
 2021,Missouri,SEC,Central Michigan,Mid-American,0.6923076923076923
 2021,Mississippi State,SEC,Louisiana Tech,Conference USA,0.25
-2021,Pittsburgh,ACC,Massachusetts,FBS Independents,0.08333333333333333
 2021,Texas,Big 12,Louisiana,Sun Belt,0.9285714285714286
 2021,Iowa State,Big 12,Northern Iowa,MVFC,0.5
-2021,Purdue,Big Ten,Oregon State,Pac-12,0.5384615384615384
 2021,Baylor,Big 12,Texas State,Sun Belt,0.3333333333333333
+2021,Purdue,Big Ten,Oregon State,Pac-12,0.5384615384615384
 2021,Auburn,SEC,Akron,Mid-American,0.16666666666666666
 2021,Texas Tech,Big 12,Houston,American Athletic,0.8571428571428571
+2021,South Carolina,SEC,Eastern Illinois,OVC,0.09090909090909091
 2021,Syracuse,ACC,Ohio,Mid-American,0.25
 2021,Oklahoma State,Big 12,Missouri State,MVFC,0.6666666666666666
-2021,South Carolina,SEC,Eastern Illinois,OVC,0.09090909090909091
-2021,Virginia,ACC,William & Mary,CAA,0.5454545454545454
-2021,Illinois,Big Ten,UTSA,Conference USA,0.8571428571428571
-2021,Georgia Tech,ACC,Northern Illinois,Mid-American,0.6428571428571429
 2021,Clemson,ACC,Georgia,SEC,0.9333333333333333
 2021,Georgia,SEC,Clemson,ACC,0.7692307692307693
 2021,Florida,SEC,Florida Atlantic,Conference USA,0.4166666666666667
-2021,Texas A&M,SEC,Kent State,Mid-American,0.5
+2021,Virginia,ACC,William & Mary,CAA,0.5454545454545454
+2021,Georgia Tech,ACC,Northern Illinois,Mid-American,0.6428571428571429
+2021,Illinois,Big Ten,UTSA,Conference USA,0.8571428571428571
 2021,Vanderbilt,SEC,East Tennessee State,Southern,0.8461538461538461
+2021,Texas A&M,SEC,Kent State,Mid-American,0.5
 2021,TCU,Big 12,Duquesne,NEC,0.7
 2021,LSU,SEC,UCLA,Pac-12,0.6666666666666666
 2021,Ole Miss,SEC,Louisville,ACC,0.46153846153846156
@@ -1191,106 +1191,106 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2021,Duke,ACC,North Carolina A&T,Big South,0.45454545454545453
 2021,Virginia,ACC,Illinois,Big Ten,0.4166666666666667
 2021,Illinois,Big Ten,Virginia,ACC,0.5
+2021,Wake Forest,ACC,Norfolk State,MEAC,0.5454545454545454
+2021,Georgia Tech,ACC,Kennesaw State,Big South,0.8461538461538461
 2021,Michigan State,Big Ten,Youngstown State,MVFC,0.3
 2021,Oklahoma State,Big 12,Tulsa,American Athletic,0.5384615384615384
-2021,Georgia Tech,ACC,Kennesaw State,Big South,0.8461538461538461
-2021,Minnesota,Big Ten,Miami (OH),Mid-American,0.5384615384615384
 2021,Ohio State,Big Ten,Oregon,Pac-12,0.7142857142857143
-2021,Wake Forest,ACC,Norfolk State,MEAC,0.5454545454545454
+2021,Tennessee,SEC,Pittsburgh,ACC,0.7857142857142857
+2021,Pittsburgh,ACC,Tennessee,SEC,0.5384615384615384
 2021,Auburn,SEC,Alabama State,SWAC,0.45454545454545453
 2021,Northwestern,Big Ten,Indiana State,MVFC,0.45454545454545453
 2021,South Carolina,SEC,East Carolina,American Athletic,0.5833333333333334
-2021,Tennessee,SEC,Pittsburgh,ACC,0.7857142857142857
-2021,Pittsburgh,ACC,Tennessee,SEC,0.5384615384615384
+2021,Minnesota,Big Ten,Miami (OH),Mid-American,0.5384615384615384
 2021,Florida,SEC,South Florida,American Athletic,0.16666666666666666
 2021,Syracuse,ACC,Rutgers,Big Ten,0.38461538461538464
 2021,Rutgers,Big Ten,Syracuse,ACC,0.4166666666666667
 2021,Virginia Tech,ACC,Middle Tennessee,Conference USA,0.5384615384615384
 2021,Purdue,Big Ten,UConn,FBS Independents,0.08333333333333333
 2021,Penn State,Big Ten,Ball State,Mid-American,0.46153846153846156
-2021,TCU,Big 12,California,Pac-12,0.4166666666666667
-2021,Boston College,ACC,Massachusetts,FBS Independents,0.08333333333333333
 2021,Nebraska,Big Ten,Buffalo,Mid-American,0.3333333333333333
-2021,Texas A&M,SEC,Colorado,Pac-12,0.3333333333333333
+2021,TCU,Big 12,California,Pac-12,0.4166666666666667
 2021,Georgia,SEC,UAB,Conference USA,0.6923076923076923
+2021,Boston College,ACC,Massachusetts,FBS Independents,0.08333333333333333
+2021,Texas A&M,SEC,Colorado,Pac-12,0.3333333333333333
 2021,Alabama,SEC,Mercer,Southern,0.7
 2021,Iowa State,Big 12,Iowa,Big Ten,0.7142857142857143
 2021,Iowa,Big Ten,Iowa State,Big 12,0.5384615384615384
 2021,West Virginia,Big 12,Long Island University,NEC,0.2
 2021,Clemson,ACC,South Carolina State,MEAC,0.5833333333333334
-2021,Mississippi State,SEC,NC State,ACC,0.75
-2021,NC State,ACC,Mississippi State,SEC,0.5384615384615384
+2021,Kansas State,Big 12,Southern Illinois,MVFC,0.6153846153846154
+2021,Louisville,ACC,Eastern Kentucky,AWC,0.6363636363636364
+2021,Texas Tech,Big 12,Stephen F. Austin,Western Athletic,0.6666666666666666
+2021,Oklahoma,Big 12,Western Carolina,Southern,0.36363636363636365
+2021,Baylor,Big 12,Texas Southern,SWAC,0.2
 2021,Arkansas,SEC,Texas,Big 12,0.4166666666666667
 2021,Texas,Big 12,Arkansas,SEC,0.6923076923076923
-2021,Texas Tech,Big 12,Stephen F. Austin,Western Athletic,0.6666666666666666
-2021,Louisville,ACC,Eastern Kentucky,AWC,0.6363636363636364
-2021,Baylor,Big 12,Texas Southern,SWAC,0.2
 2021,Wisconsin,Big Ten,Eastern Michigan,Mid-American,0.5384615384615384
-2021,Oklahoma,Big 12,Western Carolina,Southern,0.36363636363636365
-2021,Kansas State,Big 12,Southern Illinois,MVFC,0.6153846153846154
+2021,Mississippi State,SEC,NC State,ACC,0.75
+2021,NC State,ACC,Mississippi State,SEC,0.5384615384615384
 2021,Miami,ACC,App State,Sun Belt,0.7142857142857143
+2021,North Carolina,ACC,Georgia State,Sun Belt,0.6153846153846154
 2021,Ole Miss,SEC,Austin Peay,OVC,0.5454545454545454
 2021,Indiana,Big Ten,Idaho,Big Sky,0.36363636363636365
-2021,North Carolina,ACC,Georgia State,Sun Belt,0.6153846153846154
 2021,Maryland,Big Ten,Howard,MEAC,0.2727272727272727
-2021,LSU,SEC,McNeese,Southland,0.36363636363636365
 2021,Florida State,ACC,Jacksonville State,AWC,0.45454545454545453
+2021,LSU,SEC,McNeese,Southland,0.36363636363636365
 2021,Michigan,Big Ten,Washington,Pac-12,0.3333333333333333
 2021,Vanderbilt,SEC,Colorado State,Mountain West,0.25
 2021,Louisville,ACC,UCF,American Athletic,0.6923076923076923
+2021,Tennessee,SEC,Tennessee Tech,OVC,0.2727272727272727
 2021,Kentucky,SEC,Chattanooga,Southern,0.5454545454545454
+2021,Michigan,Big Ten,Northern Illinois,Mid-American,0.6428571428571429
+2021,Missouri,SEC,Southeast Missouri State,OVC,0.36363636363636365
 2021,Miami,ACC,Michigan State,Big Ten,0.8461538461538461
 2021,Michigan State,Big Ten,Miami,ACC,0.5833333333333334
-2021,West Virginia,Big 12,Virginia Tech,ACC,0.46153846153846156
-2021,Virginia Tech,ACC,West Virginia,Big 12,0.46153846153846156
-2021,Boston College,ACC,Temple,American Athletic,0.25
+2021,Syracuse,ACC,UAlbany,CAA,0.18181818181818182
 2021,Oklahoma,Big 12,Nebraska,Big Ten,0.25
 2021,Nebraska,Big Ten,Oklahoma,Big 12,0.8461538461538461
-2021,Michigan,Big Ten,Northern Illinois,Mid-American,0.6428571428571429
-2021,Tennessee,SEC,Tennessee Tech,OVC,0.2727272727272727
-2021,Indiana,Big Ten,Cincinnati,American Athletic,0.9285714285714286
+2021,Boston College,ACC,Temple,American Athletic,0.25
 2021,Texas A&M,SEC,New Mexico,Mountain West,0.25
+2021,Indiana,Big Ten,Cincinnati,American Athletic,0.9285714285714286
 2021,Pittsburgh,ACC,Western Michigan,Mid-American,0.6153846153846154
-2021,Syracuse,ACC,UAlbany,CAA,0.18181818181818182
-2021,Missouri,SEC,Southeast Missouri State,OVC,0.36363636363636365
+2021,West Virginia,Big 12,Virginia Tech,ACC,0.46153846153846156
+2021,Virginia Tech,ACC,West Virginia,Big 12,0.46153846153846156
 2021,Minnesota,Big Ten,Colorado,Pac-12,0.3333333333333333
 2021,Kansas State,Big 12,Nevada,Mountain West,0.6153846153846154
 2021,Purdue,Big Ten,Notre Dame,FBS Independents,0.8461538461538461
+2021,Rutgers,Big Ten,Delaware,CAA,0.45454545454545453
 2021,Ohio State,Big Ten,Tulsa,American Athletic,0.5384615384615384
 2021,Iowa,Big Ten,Kent State,Mid-American,0.5
-2021,Rutgers,Big Ten,Delaware,CAA,0.45454545454545453
 2021,Mississippi State,SEC,Memphis,American Athletic,0.5
-2021,Arkansas,SEC,Georgia Southern,Sun Belt,0.25
 2021,Duke,ACC,Northwestern,Big Ten,0.25
 2021,Northwestern,Big Ten,Duke,ACC,0.25
+2021,Arkansas,SEC,Georgia Southern,Sun Belt,0.25
 2021,Texas Tech,Big 12,Florida International,Conference USA,0.08333333333333333
+2021,LSU,SEC,Central Michigan,Mid-American,0.6923076923076923
 2021,Penn State,Big Ten,Auburn,SEC,0.46153846153846156
 2021,Auburn,SEC,Penn State,Big Ten,0.5384615384615384
 2021,NC State,ACC,Furman,Southern,0.5454545454545454
-2021,LSU,SEC,Central Michigan,Mid-American,0.6923076923076923
-2021,Vanderbilt,SEC,Stanford,Pac-12,0.25
-2021,Ole Miss,SEC,Tulane,American Athletic,0.16666666666666666
 2021,Texas,Big 12,Rice,Conference USA,0.3333333333333333
+2021,Ole Miss,SEC,Tulane,American Athletic,0.16666666666666666
+2021,Vanderbilt,SEC,Stanford,Pac-12,0.25
 2021,Oklahoma State,Big 12,Boise State,Mountain West,0.5833333333333334
 2021,Iowa State,Big 12,UNLV,Mountain West,0.16666666666666666
 2021,Syracuse,ACC,Liberty,FBS Independents,0.6153846153846154
-2021,Virginia Tech,ACC,Richmond,CAA,0.5454545454545454
 2021,Penn State,Big Ten,Villanova,CAA,0.7692307692307693
-2021,Pittsburgh,ACC,New Hampshire,CAA,0.2727272727272727
 2021,Minnesota,Big Ten,Bowling Green,Mid-American,0.3333333333333333
 2021,TCU,Big 12,SMU,American Athletic,0.6666666666666666
+2021,Northwestern,Big Ten,Ohio,Mid-American,0.25
+2021,Pittsburgh,ACC,New Hampshire,CAA,0.2727272727272727
+2021,Virginia Tech,ACC,Richmond,CAA,0.5454545454545454
+2021,Wisconsin,Big Ten,Notre Dame,FBS Independents,0.8461538461538461
 2021,Boston College,ACC,Missouri,SEC,0.46153846153846156
 2021,Missouri,SEC,Boston College,ACC,0.5
-2021,Wisconsin,Big Ten,Notre Dame,FBS Independents,0.8461538461538461
-2021,Northwestern,Big Ten,Ohio,Mid-American,0.25
 2021,Miami,ACC,Central Connecticut,NEC,0.36363636363636365
-2021,Iowa,Big Ten,Colorado State,Mountain West,0.25
 2021,Maryland,Big Ten,Kent State,Mid-American,0.5
+2021,Iowa,Big Ten,Colorado State,Mountain West,0.25
+2021,Auburn,SEC,Georgia State,Sun Belt,0.6153846153846154
 2021,Duke,ACC,Kansas,Big 12,0.16666666666666666
 2021,Kansas,Big 12,Duke,ACC,0.25
-2021,Auburn,SEC,Georgia State,Sun Belt,0.6153846153846154
-2021,Alabama,SEC,Southern Miss,Conference USA,0.25
 2021,Ohio State,Big Ten,Akron,Mid-American,0.16666666666666666
+2021,Alabama,SEC,Southern Miss,Conference USA,0.25
 2021,Indiana,Big Ten,Western Kentucky,Conference USA,0.6428571428571429
 2021,Illinois,Big Ten,Charlotte,Conference USA,0.4166666666666667
 2021,South Carolina,SEC,Troy,Sun Belt,0.4166666666666667
@@ -1306,12 +1306,12 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2021,Virginia,ACC,BYU,FBS Independents,0.7692307692307693
 2021,Ole Miss,SEC,Liberty,FBS Independents,0.6153846153846154
 2021,Florida,SEC,Samford,Southern,0.36363636363636365
-2021,Clemson,ACC,UConn,FBS Independents,0.08333333333333333
 2021,Alabama,SEC,New Mexico State,FBS Independents,0.16666666666666666
-2021,Mississippi State,SEC,Tennessee State,OVC,0.45454545454545453
+2021,Clemson,ACC,UConn,FBS Independents,0.08333333333333333
+2021,Texas A&M,SEC,Prairie View A&M,SWAC,0.5833333333333334
 2021,Georgia,SEC,Charleston Southern,Big South,0.4
 2021,North Carolina,ACC,Wofford,Southern,0.09090909090909091
-2021,Texas A&M,SEC,Prairie View A&M,SWAC,0.5833333333333334
+2021,Mississippi State,SEC,Tennessee State,OVC,0.45454545454545453
 2021,Kentucky,SEC,New Mexico State,FBS Independents,0.16666666666666666
 2021,Tennessee,SEC,South Alabama,Sun Belt,0.4166666666666667
 2021,LSU,SEC,UL Monroe,Sun Belt,0.3333333333333333
@@ -1327,9 +1327,9 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2022,Florida State,ACC,Duquesne,NEC,0.36363636363636365
 2022,North Carolina,ACC,Florida A&M,SWAC,0.8181818181818182
 2022,Vanderbilt,SEC,Hawai'i,Mountain West,0.23076923076923078
-2022,Oklahoma State,Big 12,Central Michigan,Mid-American,0.3333333333333333
 2022,Pittsburgh,ACC,West Virginia,Big 12,0.4166666666666667
 2022,West Virginia,Big 12,Pittsburgh,ACC,0.6923076923076923
+2022,Oklahoma State,Big 12,Central Michigan,Mid-American,0.3333333333333333
 2022,Tennessee,SEC,Ball State,Mid-American,0.4166666666666667
 2022,Wake Forest,ACC,VMI,Southern,0.09090909090909091
 2022,Missouri,SEC,Louisiana Tech,Conference USA,0.25
@@ -1339,119 +1339,119 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2022,Duke,ACC,Temple,American Athletic,0.25
 2022,Kansas,Big 12,Tennessee Tech,OVC,0.36363636363636365
 2022,TCU,Big 12,Colorado,Pac-12,0.08333333333333333
-2022,North Carolina,ACC,App State,Sun Belt,0.5
 2022,Texas A&M,SEC,Sam Houston,Western Athletic,0.5555555555555556
 2022,Iowa,Big Ten,South Dakota State,MVFC,0.9333333333333333
-2022,Michigan,Big Ten,Colorado State,Mountain West,0.25
 2022,NC State,ACC,East Carolina,American Athletic,0.6153846153846154
+2022,North Carolina,ACC,App State,Sun Belt,0.5
+2022,Michigan,Big Ten,Colorado State,Mountain West,0.25
 2022,Maryland,Big Ten,Buffalo,Mid-American,0.5384615384615384
 2022,Boston College,ACC,Rutgers,Big Ten,0.3333333333333333
 2022,Rutgers,Big Ten,Boston College,ACC,0.25
 2022,Virginia,ACC,Richmond,CAA,0.6923076923076923
 2022,Iowa State,Big 12,Southeast Missouri State,OVC,0.75
-2022,Miami,ACC,Bethune-Cookman,SWAC,0.18181818181818182
-2022,Arkansas,SEC,Cincinnati,American Athletic,0.6923076923076923
-2022,Georgia,SEC,Oregon,Pac-12,0.7692307692307693
-2022,Oklahoma,Big 12,UTEP,Conference USA,0.4166666666666667
 2022,Nebraska,Big Ten,North Dakota,MVFC,0.5833333333333334
+2022,Arkansas,SEC,Cincinnati,American Athletic,0.6923076923076923
+2022,Miami,ACC,Bethune-Cookman,SWAC,0.18181818181818182
+2022,Oklahoma,Big 12,UTEP,Conference USA,0.4166666666666667
+2022,Georgia,SEC,Oregon,Pac-12,0.7692307692307693
 2022,Ole Miss,SEC,Troy,Sun Belt,0.8571428571428571
-2022,Auburn,SEC,Mercer,Southern,0.6363636363636364
 2022,Kentucky,SEC,Miami (OH),Mid-American,0.46153846153846156
+2022,Baylor,Big 12,UAlbany,CAA,0.2727272727272727
+2022,Florida,SEC,Utah,Pac-12,0.7142857142857143
 2022,Wisconsin,Big Ten,Illinois State,MVFC,0.5454545454545454
 2022,Kansas State,Big 12,South Dakota,MVFC,0.2727272727272727
-2022,Baylor,Big 12,UAlbany,CAA,0.2727272727272727
+2022,Auburn,SEC,Mercer,Southern,0.6363636363636364
 2022,Vanderbilt,SEC,Elon,CAA,0.6666666666666666
-2022,Florida,SEC,Utah,Pac-12,0.7142857142857143
-2022,South Carolina,SEC,Georgia State,Sun Belt,0.3333333333333333
-2022,Mississippi State,SEC,Memphis,American Athletic,0.5384615384615384
-2022,Alabama,SEC,Utah State,Mountain West,0.46153846153846156
 2022,Ohio State,Big Ten,Notre Dame,FBS Independents,0.6923076923076923
-2022,Texas Tech,Big 12,Murray State,OVC,0.18181818181818182
+2022,Mississippi State,SEC,Memphis,American Athletic,0.5384615384615384
+2022,South Carolina,SEC,Georgia State,Sun Belt,0.3333333333333333
+2022,Alabama,SEC,Utah State,Mountain West,0.46153846153846156
 2022,Texas,Big 12,UL Monroe,Sun Belt,0.3333333333333333
+2022,Texas Tech,Big 12,Murray State,OVC,0.18181818181818182
 2022,Florida State,ACC,LSU,SEC,0.7142857142857143
 2022,LSU,SEC,Florida State,ACC,0.7692307692307693
 2022,Louisville,ACC,UCF,American Athletic,0.6428571428571429
-2022,Minnesota,Big Ten,Western Illinois,MVFC,0.0
 2022,North Carolina,ACC,Georgia State,Sun Belt,0.3333333333333333
-2022,Northwestern,Big Ten,Duke,ACC,0.6923076923076923
-2022,Duke,ACC,Northwestern,Big Ten,0.08333333333333333
-2022,Miami,ACC,Southern Miss,Sun Belt,0.5384615384615384
-2022,Texas,Big 12,Alabama,SEC,0.8461538461538461
-2022,Alabama,SEC,Texas,Big 12,0.6153846153846154
-2022,Ohio State,Big Ten,Arkansas State,Sun Belt,0.25
-2022,Penn State,Big Ten,Ohio,Mid-American,0.7142857142857143
 2022,Kansas State,Big 12,Missouri,SEC,0.46153846153846156
 2022,Missouri,SEC,Kansas State,Big 12,0.7142857142857143
+2022,Minnesota,Big Ten,Western Illinois,MVFC,0.0
+2022,Northwestern,Big Ten,Duke,ACC,0.6923076923076923
+2022,Duke,ACC,Northwestern,Big Ten,0.08333333333333333
+2022,Ohio State,Big Ten,Arkansas State,Sun Belt,0.25
+2022,Penn State,Big Ten,Ohio,Mid-American,0.7142857142857143
+2022,Texas,Big 12,Alabama,SEC,0.8461538461538461
+2022,Alabama,SEC,Texas,Big 12,0.6153846153846154
 2022,Vanderbilt,SEC,Wake Forest,ACC,0.6153846153846154
 2022,Wake Forest,ACC,Vanderbilt,SEC,0.4166666666666667
+2022,Miami,ACC,Southern Miss,Sun Belt,0.5384615384615384
 2022,NC State,ACC,Charleston Southern,Big South,0.2
-2022,Clemson,ACC,Furman,Southern,0.7692307692307693
+2022,Texas A&M,SEC,App State,Sun Belt,0.5
+2022,Maryland,Big Ten,Charlotte,Conference USA,0.25
 2022,Pittsburgh,ACC,Tennessee,SEC,0.8461538461538461
 2022,Tennessee,SEC,Pittsburgh,ACC,0.6923076923076923
 2022,Wisconsin,Big Ten,Washington State,Pac-12,0.5384615384615384
-2022,Texas A&M,SEC,App State,Sun Belt,0.5
-2022,Maryland,Big Ten,Charlotte,Conference USA,0.25
+2022,Clemson,ACC,Furman,Southern,0.7692307692307693
+2022,Michigan State,Big Ten,Akron,Mid-American,0.16666666666666666
+2022,Purdue,Big Ten,Indiana State,MVFC,0.18181818181818182
+2022,Rutgers,Big Ten,Wagner,NEC,0.09090909090909091
+2022,Georgia,SEC,Samford,Southern,0.8461538461538461
+2022,Texas Tech,Big 12,Houston,American Athletic,0.6153846153846154
 2022,Iowa,Big Ten,Iowa State,Big 12,0.3333333333333333
 2022,Iowa State,Big 12,Iowa,Big Ten,0.6153846153846154
 2022,Illinois,Big Ten,Virginia,ACC,0.3
 2022,Virginia,ACC,Illinois,Big Ten,0.6153846153846154
-2022,Texas Tech,Big 12,Houston,American Athletic,0.6153846153846154
-2022,Michigan State,Big Ten,Akron,Mid-American,0.16666666666666666
-2022,Georgia,SEC,Samford,Southern,0.8461538461538461
-2022,Rutgers,Big Ten,Wagner,NEC,0.09090909090909091
-2022,Purdue,Big Ten,Indiana State,MVFC,0.18181818181818182
 2022,Oklahoma,Big 12,Kent State,Mid-American,0.4166666666666667
-2022,Ole Miss,SEC,Central Arkansas,Atlantic Sun,0.45454545454545453
-2022,Syracuse,ACC,UConn,FBS Independents,0.46153846153846156
 2022,Georgia Tech,ACC,Western Carolina,Southern,0.5454545454545454
+2022,Syracuse,ACC,UConn,FBS Independents,0.46153846153846156
+2022,Ole Miss,SEC,Central Arkansas,Atlantic Sun,0.45454545454545453
 2022,Auburn,SEC,San José State,Mountain West,0.5833333333333334
-2022,LSU,SEC,Southern,SWAC,0.5833333333333334
 2022,Nebraska,Big Ten,Georgia Southern,Sun Belt,0.46153846153846156
+2022,LSU,SEC,Southern,SWAC,0.5833333333333334
 2022,Oklahoma State,Big 12,Arizona State,Pac-12,0.25
+2022,Indiana,Big Ten,Idaho,Big Sky,0.5833333333333334
 2022,Michigan,Big Ten,Hawai'i,Mountain West,0.23076923076923078
 2022,TCU,Big 12,Tarleton State,Western Athletic,0.5454545454545454
-2022,Indiana,Big Ten,Idaho,Big Sky,0.5833333333333334
 2022,Baylor,Big 12,BYU,FBS Independents,0.6153846153846154
 2022,Mississippi State,SEC,Arizona,Pac-12,0.4166666666666667
 2022,Virginia Tech,ACC,Wofford,Southern,0.2727272727272727
+2022,Missouri,SEC,Abilene Christian,Western Athletic,0.6363636363636364
 2022,Nebraska,Big Ten,Oklahoma,Big 12,0.46153846153846156
 2022,Oklahoma,Big 12,Nebraska,Big Ten,0.3333333333333333
 2022,Baylor,Big 12,Texas State,Sun Belt,0.3333333333333333
 2022,Michigan,Big Ten,UConn,FBS Independents,0.46153846153846156
 2022,Northwestern,Big Ten,Southern Illinois,MVFC,0.45454545454545453
 2022,Indiana,Big Ten,Western Kentucky,Conference USA,0.6428571428571429
-2022,Missouri,SEC,Abilene Christian,Western Athletic,0.6363636363636364
 2022,Kentucky,SEC,Youngstown State,MVFC,0.6363636363636364
 2022,Syracuse,ACC,Purdue,Big Ten,0.5714285714285714
 2022,Purdue,Big Ten,Syracuse,ACC,0.5384615384615384
 2022,West Virginia,Big 12,Towson,CAA,0.5454545454545454
 2022,Rutgers,Big Ten,Temple,American Athletic,0.25
-2022,Virginia,ACC,Old Dominion,Sun Belt,0.25
 2022,Iowa State,Big 12,Ohio,Mid-American,0.7142857142857143
+2022,Virginia,ACC,Old Dominion,Sun Belt,0.25
 2022,Kansas State,Big 12,Tulane,American Athletic,0.8571428571428571
-2022,Vanderbilt,SEC,Northern Illinois,Mid-American,0.25
 2022,Auburn,SEC,Penn State,Big Ten,0.8461538461538461
 2022,Penn State,Big Ten,Auburn,SEC,0.4166666666666667
+2022,Minnesota,Big Ten,Colorado,Pac-12,0.08333333333333333
+2022,Vanderbilt,SEC,Northern Illinois,Mid-American,0.25
 2022,Wisconsin,Big Ten,New Mexico State,FBS Independents,0.5384615384615384
 2022,Georgia Tech,ACC,Ole Miss,SEC,0.6153846153846154
 2022,Ole Miss,SEC,Georgia Tech,ACC,0.4166666666666667
-2022,Minnesota,Big Ten,Colorado,Pac-12,0.08333333333333333
 2022,Kansas,Big 12,Houston,American Athletic,0.6153846153846154
 2022,Alabama,SEC,UL Monroe,Sun Belt,0.3333333333333333
 2022,Wake Forest,ACC,Liberty,FBS Independents,0.6153846153846154
 2022,Duke,ACC,North Carolina A&T,Big South,0.6363636363636364
 2022,NC State,ACC,Texas Tech,Big 12,0.6153846153846154
 2022,Texas Tech,Big 12,NC State,ACC,0.6153846153846154
-2022,Ohio State,Big Ten,Toledo,Mid-American,0.6428571428571429
 2022,Tennessee,SEC,Akron,Mid-American,0.16666666666666666
-2022,Oklahoma State,Big 12,Arkansas-Pine Bluff,SWAC,0.2727272727272727
+2022,Ohio State,Big Ten,Toledo,Mid-American,0.6428571428571429
 2022,Arkansas,SEC,Missouri State,MVFC,0.45454545454545453
-2022,Pittsburgh,ACC,Western Michigan,Mid-American,0.4166666666666667
+2022,Oklahoma State,Big 12,Arkansas-Pine Bluff,SWAC,0.2727272727272727
 2022,Iowa,Big Ten,Nevada,Mountain West,0.16666666666666666
-2022,Florida,SEC,South Florida,American Athletic,0.08333333333333333
 2022,Maryland,Big Ten,SMU,American Athletic,0.5384615384615384
-2022,Boston College,ACC,Maine,CAA,0.18181818181818182
 2022,Michigan State,Big Ten,Washington,Pac-12,0.8461538461538461
+2022,Boston College,ACC,Maine,CAA,0.18181818181818182
+2022,Pittsburgh,ACC,Western Michigan,Mid-American,0.4166666666666667
+2022,Florida,SEC,South Florida,American Athletic,0.08333333333333333
 2022,Clemson,ACC,Louisiana Tech,Conference USA,0.25
 2022,Texas,Big 12,UTSA,Conference USA,0.7857142857142857
 2022,Texas A&M,SEC,Miami,ACC,0.4166666666666667
@@ -1459,40 +1459,40 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2022,Virginia Tech,ACC,West Virginia,Big 12,0.4166666666666667
 2022,West Virginia,Big 12,Virginia Tech,ACC,0.2727272727272727
 2022,Illinois,Big Ten,Chattanooga,Southern,0.6363636363636364
-2022,Mississippi State,SEC,Bowling Green,Mid-American,0.46153846153846156
-2022,Georgia,SEC,Kent State,Mid-American,0.4166666666666667
-2022,Penn State,Big Ten,Central Michigan,Mid-American,0.3333333333333333
-2022,Louisville,ACC,South Florida,American Athletic,0.08333333333333333
-2022,Pittsburgh,ACC,Rhode Island,CAA,0.6363636363636364
 2022,TCU,Big 12,SMU,American Athletic,0.5384615384615384
+2022,Mississippi State,SEC,Bowling Green,Mid-American,0.46153846153846156
+2022,Louisville,ACC,South Florida,American Athletic,0.08333333333333333
+2022,Penn State,Big Ten,Central Michigan,Mid-American,0.3333333333333333
 2022,Kansas,Big 12,Duke,ACC,0.6923076923076923
 2022,Duke,ACC,Kansas,Big 12,0.46153846153846156
+2022,Georgia,SEC,Kent State,Mid-American,0.4166666666666667
+2022,Pittsburgh,ACC,Rhode Island,CAA,0.6363636363636364
+2022,Miami,ACC,Middle Tennessee,Conference USA,0.6153846153846154
 2022,North Carolina,ACC,Notre Dame,FBS Independents,0.6923076923076923
 2022,Indiana,Big Ten,Cincinnati,American Athletic,0.6923076923076923
-2022,Miami,ACC,Middle Tennessee,Conference USA,0.6153846153846154
 2022,Georgia Tech,ACC,UCF,American Athletic,0.6428571428571429
 2022,Ole Miss,SEC,Tulsa,American Athletic,0.4166666666666667
 2022,Kentucky,SEC,Northern Illinois,Mid-American,0.25
-2022,Purdue,Big Ten,Florida Atlantic,Conference USA,0.4166666666666667
-2022,South Carolina,SEC,Charlotte,Conference USA,0.25
 2022,NC State,ACC,UConn,FBS Independents,0.46153846153846156
+2022,South Carolina,SEC,Charlotte,Conference USA,0.25
 2022,Northwestern,Big Ten,Miami (OH),Mid-American,0.46153846153846156
 2022,LSU,SEC,New Mexico,Mountain West,0.16666666666666666
+2022,Purdue,Big Ten,Florida Atlantic,Conference USA,0.4166666666666667
 2022,South Carolina,SEC,South Carolina State,MEAC,0.2727272727272727
 2022,Syracuse,ACC,Wagner,NEC,0.09090909090909091
 2022,Florida,SEC,Eastern Washington,Big Sky,0.2727272727272727
 2022,Wake Forest,ACC,Army,FBS Independents,0.5
 2022,Arkansas,SEC,BYU,FBS Independents,0.6153846153846154
 2022,Tennessee,SEC,UT Martin,OVC,0.6363636363636364
-2022,Syracuse,ACC,Notre Dame,FBS Independents,0.6923076923076923
 2022,Boston College,ACC,UConn,FBS Independents,0.46153846153846156
+2022,Syracuse,ACC,Notre Dame,FBS Independents,0.6923076923076923
 2022,Arkansas,SEC,Liberty,FBS Independents,0.6153846153846154
-2022,Louisville,ACC,James Madison,Sun Belt,0.7272727272727273
 2022,Clemson,ACC,Notre Dame,FBS Independents,0.6923076923076923
+2022,Louisville,ACC,James Madison,Sun Belt,0.7272727272727273
+2022,Virginia Tech,ACC,Liberty,FBS Independents,0.6153846153846154
+2022,Florida State,ACC,Louisiana,Sun Belt,0.46153846153846156
 2022,Mississippi State,SEC,East Tennessee State,Southern,0.2727272727272727
 2022,Alabama,SEC,Austin Peay,Atlantic Sun,0.6363636363636364
-2022,Florida State,ACC,Louisiana,Sun Belt,0.46153846153846156
-2022,Virginia Tech,ACC,Liberty,FBS Independents,0.6153846153846154
 2022,Texas A&M,SEC,Massachusetts,FBS Independents,0.08333333333333333
 2022,Boston College,ACC,Notre Dame,FBS Independents,0.6923076923076923
 2022,Auburn,SEC,Western Kentucky,Conference USA,0.6428571428571429
@@ -1507,48 +1507,48 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2022,Kentucky,SEC,Louisville,ACC,0.6153846153846154
 2022,Louisville,ACC,Kentucky,SEC,0.5384615384615384
 2023,Vanderbilt,SEC,Hawai'i,Mountain West,0.38461538461538464
-2023,UCF,Big 12,Kent State,Mid-American,0.08333333333333333
 2023,Wake Forest,ACC,Elon,Coastal Athletic,0.5454545454545454
+2023,UCF,Big 12,Kent State,Mid-American,0.08333333333333333
 2023,NC State,ACC,UConn,FBS Independents,0.25
 2023,Missouri,SEC,South Dakota,MVFC,0.7692307692307693
 2023,Florida,SEC,Utah,Pac-12,0.6153846153846154
-2023,Michigan State,Big Ten,Central Michigan,Mid-American,0.4166666666666667
 2023,Miami,ACC,Miami (OH),Mid-American,0.7857142857142857
+2023,Michigan State,Big Ten,Central Michigan,Mid-American,0.4166666666666667
 2023,Kansas,Big 12,Missouri State,MVFC,0.36363636363636365
+2023,Kentucky,SEC,Ball State,Mid-American,0.3333333333333333
+2023,Oklahoma,Big 12,Arkansas State,Sun Belt,0.46153846153846156
+2023,Boston College,ACC,Northern Illinois,Mid-American,0.5384615384615384
 2023,TCU,Big 12,Colorado,Pac-12,0.3333333333333333
 2023,Michigan,Big Ten,East Carolina,American Athletic,0.16666666666666666
-2023,Iowa,Big Ten,Utah State,Mountain West,0.46153846153846156
 2023,Tennessee,SEC,Virginia,ACC,0.25
 2023,Virginia,ACC,Tennessee,SEC,0.6923076923076923
-2023,Kentucky,SEC,Ball State,Mid-American,0.3333333333333333
+2023,Iowa,Big Ten,Utah State,Mountain West,0.46153846153846156
 2023,Purdue,Big Ten,Fresno State,Mountain West,0.6923076923076923
-2023,Boston College,ACC,Northern Illinois,Mid-American,0.5384615384615384
-2023,Oklahoma,Big 12,Arkansas State,Sun Belt,0.46153846153846156
-2023,Iowa State,Big 12,Northern Iowa,MVFC,0.5454545454545454
 2023,Ole Miss,SEC,Mercer,Southern,0.6923076923076923
-2023,Cincinnati,Big 12,Eastern Kentucky,UAC,0.45454545454545453
-2023,Pittsburgh,ACC,Wofford,Southern,0.18181818181818182
-2023,Maryland,Big Ten,Towson,Coastal Athletic,0.45454545454545453
-2023,Texas,Big 12,Rice,American Athletic,0.46153846153846156
+2023,Iowa State,Big 12,Northern Iowa,MVFC,0.5454545454545454
 2023,Wisconsin,Big Ten,Buffalo,Mid-American,0.25
 2023,Auburn,SEC,Massachusetts,FBS Independents,0.25
-2023,Arkansas,SEC,Western Carolina,Southern,0.6363636363636364
+2023,Maryland,Big Ten,Towson,Coastal Athletic,0.45454545454545453
+2023,Cincinnati,Big 12,Eastern Kentucky,UAC,0.45454545454545453
+2023,Texas,Big 12,Rice,American Athletic,0.46153846153846156
+2023,Pittsburgh,ACC,Wofford,Southern,0.18181818181818182
 2023,Mississippi State,SEC,SE Louisiana,Southland,0.2727272727272727
 2023,Syracuse,ACC,Colgate,Patriot,0.5454545454545454
+2023,Arkansas,SEC,Western Carolina,Southern,0.6363636363636364
 2023,Georgia,SEC,UT Martin,Big South-OVC,0.7272727272727273
-2023,Kansas State,Big 12,Southeast Missouri State,Big South-OVC,0.36363636363636365
+2023,Houston,Big 12,UTSA,American Athletic,0.6923076923076923
 2023,Vanderbilt,SEC,Alabama A&M,SWAC,0.45454545454545453
-2023,Oklahoma State,Big 12,Central Arkansas,UAC,0.6363636363636364
 2023,Texas A&M,SEC,New Mexico,Mountain West,0.3333333333333333
 2023,Baylor,Big 12,Texas State,Sun Belt,0.6153846153846154
-2023,Houston,Big 12,UTSA,American Athletic,0.6923076923076923
+2023,Kansas State,Big 12,Southeast Missouri State,Big South-OVC,0.36363636363636365
+2023,Oklahoma State,Big 12,Central Arkansas,UAC,0.6363636363636364
 2023,Alabama,SEC,Middle Tennessee,Conference USA,0.3333333333333333
 2023,Texas Tech,Big 12,Wyoming,Mountain West,0.6923076923076923
 2023,Penn State,Big Ten,West Virginia,Big 12,0.6923076923076923
 2023,West Virginia,Big 12,Penn State,Big Ten,0.7692307692307693
+2023,Illinois,Big Ten,Toledo,Mid-American,0.7857142857142857
 2023,North Carolina,ACC,South Carolina,SEC,0.4166666666666667
 2023,South Carolina,SEC,North Carolina,ACC,0.6153846153846154
-2023,Illinois,Big Ten,Toledo,Mid-American,0.7857142857142857
 2023,Virginia Tech,ACC,Old Dominion,Sun Belt,0.46153846153846156
 2023,BYU,Big 12,Sam Houston,Conference USA,0.25
 2023,Florida State,ACC,LSU,SEC,0.7692307692307693
@@ -1559,8 +1559,6 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2023,Illinois,Big Ten,Kansas,Big 12,0.6923076923076923
 2023,Wake Forest,ACC,Vanderbilt,SEC,0.16666666666666666
 2023,Vanderbilt,SEC,Wake Forest,ACC,0.3333333333333333
-2023,Kansas State,Big 12,Troy,Sun Belt,0.7857142857142857
-2023,Nebraska,Big Ten,Colorado,Pac-12,0.3333333333333333
 2023,Georgia,SEC,Ball State,Mid-American,0.3333333333333333
 2023,Ohio State,Big Ten,Youngstown State,MVFC,0.6153846153846154
 2023,Penn State,Big Ten,Delaware,CAA,0.6923076923076923
@@ -1570,41 +1568,43 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2023,NC State,ACC,Notre Dame,FBS Independents,0.7692307692307693
 2023,Boston College,ACC,Holy Cross,Patriot,0.6363636363636364
 2023,Virginia,ACC,James Madison,Sun Belt,0.8461538461538461
+2023,Nebraska,Big Ten,Colorado,Pac-12,0.3333333333333333
+2023,Kansas State,Big 12,Troy,Sun Belt,0.7857142857142857
 2023,Georgia Tech,ACC,South Carolina State,MEAC,0.45454545454545453
 2023,Clemson,ACC,Charleston Southern,Big South-OVC,0.36363636363636365
 2023,Kentucky,SEC,Eastern Kentucky,UAC,0.45454545454545453
 2023,BYU,Big 12,Southern Utah,UAC,0.5454545454545454
-2023,Syracuse,ACC,Western Michigan,Mid-American,0.3333333333333333
-2023,Michigan State,Big Ten,Richmond,Coastal Athletic,0.6923076923076923
 2023,Northwestern,Big Ten,UTEP,Conference USA,0.25
+2023,Michigan State,Big Ten,Richmond,Coastal Athletic,0.6923076923076923
 2023,Iowa State,Big 12,Iowa,Big Ten,0.7142857142857143
 2023,Iowa,Big Ten,Iowa State,Big 12,0.5384615384615384
 2023,Miami,ACC,Texas A&M,SEC,0.5384615384615384
 2023,Texas A&M,SEC,Miami,ACC,0.5384615384615384
 2023,Michigan,Big Ten,UNLV,Mountain West,0.6428571428571429
 2023,Ole Miss,SEC,Tulane,American Athletic,0.7857142857142857
+2023,Syracuse,ACC,Western Michigan,Mid-American,0.3333333333333333
 2023,Arkansas,SEC,Kent State,Mid-American,0.08333333333333333
 2023,Tennessee,SEC,Austin Peay,UAC,0.75
 2023,North Carolina,ACC,App State,Sun Belt,0.6428571428571429
-2023,Oklahoma,Big 12,SMU,American Athletic,0.7857142857142857
-2023,Duke,ACC,Lafayette,Patriot,0.75
 2023,West Virginia,Big 12,Duquesne,NEC,0.5833333333333334
+2023,Duke,ACC,Lafayette,Patriot,0.75
+2023,Oklahoma,Big 12,SMU,American Athletic,0.7857142857142857
 2023,Pittsburgh,ACC,Cincinnati,Big 12,0.25
 2023,Cincinnati,Big 12,Pittsburgh,ACC,0.25
-2023,UCF,Big 12,Boise State,Mountain West,0.5714285714285714
+2023,Missouri,SEC,Middle Tennessee,Conference USA,0.3333333333333333
 2023,Houston,Big 12,Rice,American Athletic,0.46153846153846156
-2023,Texas Tech,Big 12,Oregon,Pac-12,0.8571428571428571
 2023,Alabama,SEC,Texas,Big 12,0.8571428571428571
 2023,Texas,Big 12,Alabama,SEC,0.8571428571428571
-2023,Missouri,SEC,Middle Tennessee,Conference USA,0.3333333333333333
-2023,Wisconsin,Big Ten,Washington State,Pac-12,0.4166666666666667
-2023,South Carolina,SEC,Furman,Southern,0.7692307692307693
-2023,LSU,SEC,Grambling,SWAC,0.45454545454545453
-2023,Florida,SEC,McNeese,Southland,0.09090909090909091
-2023,Mississippi State,SEC,Arizona,Pac-12,0.7692307692307693
-2023,Rutgers,Big Ten,Temple,American Athletic,0.25
-2023,Maryland,Big Ten,Charlotte,American Athletic,0.25
+2023,Texas Tech,Big 12,Oregon,Pac-12,0.8571428571428571
+2023,UCF,Big 12,Boise State,Mountain West,0.5714285714285714
 2023,Minnesota,Big Ten,Eastern Michigan,Mid-American,0.46153846153846156
+2023,Maryland,Big Ten,Charlotte,American Athletic,0.25
+2023,Mississippi State,SEC,Arizona,Pac-12,0.7692307692307693
+2023,LSU,SEC,Grambling,SWAC,0.45454545454545453
+2023,Rutgers,Big Ten,Temple,American Athletic,0.25
+2023,South Carolina,SEC,Furman,Southern,0.7692307692307693
+2023,Wisconsin,Big Ten,Washington State,Pac-12,0.4166666666666667
+2023,Florida,SEC,McNeese,Southland,0.09090909090909091
 2023,TCU,Big 12,Nicholls,Southland,0.5833333333333334
 2023,Florida State,ACC,Southern Miss,Sun Belt,0.25
 2023,Oklahoma State,Big 12,Arizona State,Pac-12,0.25
@@ -1612,61 +1612,61 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2023,Miami,ACC,Bethune-Cookman,SWAC,0.2727272727272727
 2023,Maryland,Big Ten,Virginia,ACC,0.25
 2023,Virginia,ACC,Maryland,Big Ten,0.6153846153846154
-2023,Missouri,SEC,Kansas State,Big 12,0.6923076923076923
-2023,Kansas State,Big 12,Missouri,SEC,0.8461538461538461
-2023,Wisconsin,Big Ten,Georgia Southern,Sun Belt,0.46153846153846156
-2023,Baylor,Big 12,Long Island University,NEC,0.36363636363636365
-2023,Iowa State,Big 12,Ohio,Mid-American,0.7692307692307693
 2023,Indiana,Big Ten,Louisville,ACC,0.7142857142857143
 2023,Louisville,ACC,Indiana,Big Ten,0.25
+2023,Baylor,Big 12,Long Island University,NEC,0.36363636363636365
+2023,Missouri,SEC,Kansas State,Big 12,0.6923076923076923
+2023,Kansas State,Big 12,Missouri,SEC,0.8461538461538461
 2023,Wake Forest,ACC,Old Dominion,Sun Belt,0.46153846153846156
+2023,Wisconsin,Big Ten,Georgia Southern,Sun Belt,0.46153846153846156
+2023,Iowa State,Big 12,Ohio,Mid-American,0.7692307692307693
 2023,NC State,ACC,VMI,Southern,0.45454545454545453
+2023,Rutgers,Big Ten,Virginia Tech,ACC,0.5384615384615384
+2023,Virginia Tech,ACC,Rutgers,Big Ten,0.5384615384615384
 2023,Oklahoma,Big 12,Tulsa,American Athletic,0.3333333333333333
 2023,North Carolina,ACC,Minnesota,Big Ten,0.46153846153846156
 2023,Minnesota,Big Ten,North Carolina,ACC,0.6153846153846154
-2023,Rutgers,Big Ten,Virginia Tech,ACC,0.5384615384615384
-2023,Virginia Tech,ACC,Rutgers,Big Ten,0.5384615384615384
-2023,Duke,ACC,Northwestern,Big Ten,0.6153846153846154
-2023,Northwestern,Big Ten,Duke,ACC,0.6153846153846154
 2023,Alabama,SEC,South Florida,American Athletic,0.5384615384615384
 2023,Iowa,Big Ten,Western Michigan,Mid-American,0.3333333333333333
-2023,Ohio State,Big Ten,Western Kentucky,Conference USA,0.6153846153846154
+2023,Duke,ACC,Northwestern,Big Ten,0.6153846153846154
+2023,Northwestern,Big Ten,Duke,ACC,0.6153846153846154
 2023,Texas A&M,SEC,UL Monroe,Sun Belt,0.16666666666666666
+2023,Ohio State,Big Ten,Western Kentucky,Conference USA,0.6153846153846154
 2023,Michigan State,Big Ten,Washington,Pac-12,0.9333333333333333
 2023,UCF,Big 12,Villanova,Coastal Athletic,0.7692307692307693
-2023,Auburn,SEC,Samford,Southern,0.5454545454545454
 2023,Cincinnati,Big 12,Miami (OH),Mid-American,0.7857142857142857
-2023,Nebraska,Big Ten,Northern Illinois,Mid-American,0.5384615384615384
+2023,Vanderbilt,SEC,UNLV,Mountain West,0.6428571428571429
+2023,Auburn,SEC,Samford,Southern,0.5454545454545454
 2023,Oklahoma State,Big 12,South Alabama,Sun Belt,0.5384615384615384
 2023,Texas Tech,Big 12,Tarleton State,UAC,0.7272727272727273
-2023,Vanderbilt,SEC,UNLV,Mountain West,0.6428571428571429
-2023,Purdue,Big Ten,Syracuse,ACC,0.46153846153846156
-2023,Syracuse,ACC,Purdue,Big Ten,0.3333333333333333
-2023,West Virginia,Big 12,Pittsburgh,ACC,0.25
-2023,Pittsburgh,ACC,West Virginia,Big 12,0.6923076923076923
-2023,Arkansas,SEC,BYU,Big 12,0.4166666666666667
-2023,BYU,Big 12,Arkansas,SEC,0.3333333333333333
+2023,Nebraska,Big Ten,Northern Illinois,Mid-American,0.5384615384615384
 2023,Ole Miss,SEC,Georgia Tech,ACC,0.5384615384615384
 2023,Georgia Tech,ACC,Ole Miss,SEC,0.8461538461538461
+2023,Arkansas,SEC,BYU,Big 12,0.4166666666666667
+2023,BYU,Big 12,Arkansas,SEC,0.3333333333333333
+2023,West Virginia,Big 12,Pittsburgh,ACC,0.25
+2023,Pittsburgh,ACC,West Virginia,Big 12,0.6923076923076923
 2023,Kentucky,SEC,Akron,Mid-American,0.16666666666666666
+2023,Purdue,Big Ten,Syracuse,ACC,0.46153846153846156
+2023,Syracuse,ACC,Purdue,Big Ten,0.3333333333333333
 2023,Michigan,Big Ten,Bowling Green,Mid-American,0.5384615384615384
 2023,Clemson,ACC,Florida Atlantic,American Athletic,0.3333333333333333
 2023,Texas,Big 12,Wyoming,Mountain West,0.6923076923076923
 2023,Kansas,Big 12,Nevada,Mountain West,0.16666666666666666
-2023,Virginia Tech,ACC,Marshall,Sun Belt,0.46153846153846156
 2023,TCU,Big 12,SMU,American Athletic,0.7857142857142857
 2023,Syracuse,ACC,Army,FBS Independents,0.5
-2023,Nebraska,Big Ten,Louisiana Tech,Conference USA,0.25
+2023,Virginia Tech,ACC,Marshall,Sun Belt,0.46153846153846156
 2023,Duke,ACC,UConn,FBS Independents,0.25
-2023,Miami,ACC,Temple,American Athletic,0.25
 2023,Illinois,Big Ten,Florida Atlantic,American Athletic,0.3333333333333333
+2023,Nebraska,Big Ten,Louisiana Tech,Conference USA,0.25
+2023,Miami,ACC,Temple,American Athletic,0.25
 2023,Tennessee,SEC,UTSA,American Athletic,0.6923076923076923
 2023,Florida,SEC,Charlotte,American Athletic,0.25
 2023,Houston,Big 12,Sam Houston,Conference USA,0.25
-2023,Indiana,Big Ten,Akron,Mid-American,0.16666666666666666
+2023,Ohio State,Big Ten,Notre Dame,FBS Independents,0.7692307692307693
 2023,Missouri,SEC,Memphis,American Athletic,0.7692307692307693
 2023,Georgia,SEC,UAB,American Athletic,0.3333333333333333
-2023,Ohio State,Big Ten,Notre Dame,FBS Independents,0.7692307692307693
+2023,Indiana,Big Ten,Akron,Mid-American,0.16666666666666666
 2023,Minnesota,Big Ten,Louisiana,Sun Belt,0.46153846153846156
 2023,Rutgers,Big Ten,Wagner,NEC,0.36363636363636365
 2023,Georgia Tech,ACC,Bowling Green,Mid-American,0.5384615384615384
@@ -1681,10 +1681,10 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2023,LSU,SEC,Army,FBS Independents,0.5
 2023,Boston College,ACC,UConn,FBS Independents,0.25
 2023,Pittsburgh,ACC,Notre Dame,FBS Independents,0.7692307692307693
-2023,Clemson,ACC,Notre Dame,FBS Independents,0.7692307692307693
-2023,North Carolina,ACC,Campbell,Coastal Athletic,0.45454545454545453
-2023,South Carolina,SEC,Jacksonville State,Conference USA,0.6923076923076923
 2023,Tennessee,SEC,UConn,FBS Independents,0.25
+2023,Clemson,ACC,Notre Dame,FBS Independents,0.7692307692307693
+2023,South Carolina,SEC,Jacksonville State,Conference USA,0.6923076923076923
+2023,North Carolina,ACC,Campbell,Coastal Athletic,0.45454545454545453
 2023,Ole Miss,SEC,UL Monroe,Sun Belt,0.16666666666666666
 2023,Mississippi State,SEC,Southern Miss,Sun Belt,0.25
 2023,Texas A&M,SEC,Abilene Christian,UAC,0.45454545454545453
@@ -1698,70 +1698,70 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2023,Kentucky,SEC,Louisville,ACC,0.7142857142857143
 2023,Florida,SEC,Florida State,ACC,0.9285714285714286
 2023,Florida State,ACC,Florida,SEC,0.4166666666666667
-2023,Georgia Tech,ACC,Georgia,SEC,0.9285714285714286
-2023,Georgia,SEC,Georgia Tech,ACC,0.5384615384615384
 2023,South Carolina,SEC,Clemson,ACC,0.6923076923076923
 2023,Clemson,ACC,South Carolina,SEC,0.4166666666666667
+2023,Georgia Tech,ACC,Georgia,SEC,0.9285714285714286
+2023,Georgia,SEC,Georgia Tech,ACC,0.5384615384615384
 2024,SMU,ACC,Nevada,Mountain West,0.23076923076923078
 2024,Rutgers,Big Ten,Howard,MEAC,0.3333333333333333
 2024,UCF,Big 12,New Hampshire,Coastal Athletic,0.6153846153846154
 2024,NC State,ACC,Western Carolina,Southern,0.5833333333333334
 2024,Wake Forest,ACC,North Carolina A&T,Coastal Athletic,0.08333333333333333
 2024,Arkansas,SEC,Arkansas-Pine Bluff,SWAC,0.25
-2024,Kansas,Big 12,Lindenwood,Big South-OVC,0.4166666666666667
 2024,Missouri,SEC,Murray State,MVFC,0.08333333333333333
+2024,Kansas,Big 12,Lindenwood,Big South-OVC,0.4166666666666667
 2024,Colorado,Big 12,North Dakota State,MVFC,0.875
 2024,Minnesota,Big Ten,North Carolina,ACC,0.46153846153846156
 2024,North Carolina,ACC,Minnesota,Big Ten,0.6153846153846154
-2024,Utah,Big 12,Southern Utah,UAC,0.5833333333333334
 2024,Illinois,Big Ten,Eastern Illinois,Big South-OVC,0.25
-2024,Michigan State,Big Ten,Florida Atlantic,American Athletic,0.25
+2024,Utah,Big 12,Southern Utah,UAC,0.5833333333333334
 2024,Oklahoma,SEC,Temple,American Athletic,0.25
+2024,Michigan State,Big Ten,Florida Atlantic,American Athletic,0.25
 2024,Duke,ACC,Elon,Coastal Athletic,0.5
 2024,Wisconsin,Big Ten,Western Michigan,Mid-American,0.46153846153846156
 2024,Stanford,ACC,TCU,Big 12,0.6923076923076923
 2024,TCU,Big 12,Stanford,ACC,0.25
+2024,Louisville,ACC,Austin Peay,UAC,0.3333333333333333
 2024,Vanderbilt,SEC,Virginia Tech,ACC,0.46153846153846156
 2024,Virginia Tech,ACC,Vanderbilt,SEC,0.5384615384615384
-2024,Louisville,ACC,Austin Peay,UAC,0.3333333333333333
+2024,Maryland,Big Ten,UConn,FBS Independents,0.6923076923076923
 2024,Pittsburgh,ACC,Kent State,Mid-American,0.0
 2024,Iowa,Big Ten,Illinois State,MVFC,0.7142857142857143
-2024,Maryland,Big Ten,UConn,FBS Independents,0.6923076923076923
-2024,Georgia,SEC,Clemson,ACC,0.7142857142857143
-2024,Clemson,ACC,Georgia,SEC,0.7857142857142857
 2024,West Virginia,Big 12,Penn State,Big Ten,0.8125
 2024,Penn State,Big Ten,West Virginia,Big 12,0.46153846153846156
+2024,Georgia,SEC,Clemson,ACC,0.7142857142857143
+2024,Clemson,ACC,Georgia,SEC,0.7857142857142857
 2024,Purdue,Big Ten,Indiana State,MVFC,0.3333333333333333
 2024,Tennessee,SEC,Chattanooga,Southern,0.5833333333333334
 2024,Oklahoma State,Big 12,South Dakota State,MVFC,0.8
 2024,Cincinnati,Big 12,Towson,Coastal Athletic,0.5833333333333334
-2024,Northwestern,Big Ten,Miami (OH),Mid-American,0.6428571428571429
-2024,Florida,SEC,Miami,ACC,0.7692307692307693
-2024,Miami,ACC,Florida,SEC,0.6153846153846154
-2024,Indiana,Big Ten,Florida International,Conference USA,0.3333333333333333
+2024,Nebraska,Big Ten,UTEP,Conference USA,0.25
 2024,Texas,SEC,Colorado State,Mountain West,0.6153846153846154
 2024,Syracuse,ACC,Ohio,Mid-American,0.7857142857142857
 2024,Iowa State,Big 12,North Dakota,MVFC,0.4166666666666667
 2024,Ohio State,Big Ten,Akron,Mid-American,0.3333333333333333
-2024,Nebraska,Big Ten,UTEP,Conference USA,0.25
+2024,Florida,SEC,Miami,ACC,0.7692307692307693
+2024,Miami,ACC,Florida,SEC,0.6153846153846154
+2024,Indiana,Big Ten,Florida International,Conference USA,0.3333333333333333
+2024,Northwestern,Big Ten,Miami (OH),Mid-American,0.6428571428571429
 2024,South Carolina,SEC,Old Dominion,Sun Belt,0.4166666666666667
 2024,California,ACC,UC Davis,Big Sky,0.7857142857142857
 2024,Mississippi State,SEC,Eastern Kentucky,UAC,0.6153846153846154
 2024,Virginia,ACC,Richmond,Coastal Athletic,0.7692307692307693
-2024,Kansas State,Big 12,UT Martin,Big South-OVC,0.6428571428571429
 2024,Alabama,SEC,Western Kentucky,Conference USA,0.5714285714285714
-2024,Baylor,Big 12,Tarleton State,UAC,0.7142857142857143
+2024,Kansas State,Big 12,UT Martin,Big South-OVC,0.6428571428571429
 2024,Houston,Big 12,UNLV,Mountain West,0.7857142857142857
 2024,Ole Miss,SEC,Furman,Southern,0.25
-2024,Oregon,Big Ten,Idaho,Big Sky,0.7142857142857143
+2024,Baylor,Big 12,Tarleton State,UAC,0.7142857142857143
 2024,Michigan,Big Ten,Fresno State,Mountain West,0.46153846153846156
-2024,UCLA,Big Ten,Hawai'i,Mountain West,0.4166666666666667
-2024,Auburn,SEC,Alabama A&M,SWAC,0.5
 2024,Texas A&M,SEC,Notre Dame,FBS Independents,0.875
+2024,Auburn,SEC,Alabama A&M,SWAC,0.5
+2024,UCLA,Big Ten,Hawai'i,Mountain West,0.4166666666666667
 2024,Texas Tech,Big 12,Abilene Christian,UAC,0.6428571428571429
+2024,Oregon,Big Ten,Idaho,Big Sky,0.7142857142857143
 2024,Kentucky,SEC,Southern Miss,Sun Belt,0.08333333333333333
-2024,Georgia Tech,ACC,Georgia State,Sun Belt,0.25
 2024,SMU,ACC,Houston Christian,Southland,0.4166666666666667
+2024,Georgia Tech,ACC,Georgia State,Sun Belt,0.25
 2024,BYU,Big 12,Southern Illinois,MVFC,0.3333333333333333
 2024,Arizona State,Big 12,Wyoming,Mountain West,0.25
 2024,Arizona,Big 12,New Mexico,Mountain West,0.4166666666666667
@@ -1774,53 +1774,53 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2024,Northwestern,Big Ten,Duke,ACC,0.6923076923076923
 2024,Duke,ACC,Northwestern,Big Ten,0.3333333333333333
 2024,Minnesota,Big Ten,Rhode Island,Coastal Athletic,0.7857142857142857
-2024,Rutgers,Big Ten,Akron,Mid-American,0.3333333333333333
-2024,Penn State,Big Ten,Bowling Green,Mid-American,0.5384615384615384
 2024,Michigan,Big Ten,Texas,SEC,0.8125
 2024,Texas,SEC,Michigan,Big Ten,0.6153846153846154
 2024,Oklahoma State,Big 12,Arkansas,SEC,0.5384615384615384
 2024,Arkansas,SEC,Oklahoma State,Big 12,0.25
+2024,Kansas State,Big 12,Tulane,American Athletic,0.6428571428571429
+2024,Rutgers,Big Ten,Akron,Mid-American,0.3333333333333333
+2024,Penn State,Big Ten,Bowling Green,Mid-American,0.5384615384615384
 2024,Cincinnati,Big 12,Pittsburgh,ACC,0.5384615384615384
 2024,Pittsburgh,ACC,Cincinnati,Big 12,0.4166666666666667
-2024,Kansas State,Big 12,Tulane,American Athletic,0.6428571428571429
 2024,Texas A&M,SEC,McNeese,Southland,0.5
 2024,Georgia,SEC,Tennessee Tech,Big South-OVC,0.5833333333333334
-2024,Washington,Big Ten,Eastern Michigan,Mid-American,0.4166666666666667
 2024,Iowa,Big Ten,Iowa State,Big 12,0.7857142857142857
 2024,Iowa State,Big 12,Iowa,Big Ten,0.6153846153846154
+2024,Wisconsin,Big Ten,South Dakota,MVFC,0.7333333333333333
+2024,Washington,Big Ten,Eastern Michigan,Mid-American,0.4166666666666667
+2024,Louisville,ACC,Jacksonville State,Conference USA,0.6428571428571429
 2024,Auburn,SEC,California,ACC,0.46153846153846156
 2024,California,ACC,Auburn,SEC,0.4166666666666667
 2024,North Carolina,ACC,Charlotte,American Athletic,0.4166666666666667
-2024,Louisville,ACC,Jacksonville State,Conference USA,0.6428571428571429
-2024,Wisconsin,Big Ten,South Dakota,MVFC,0.7333333333333333
-2024,Boston College,ACC,Duquesne,NEC,0.7272727272727273
 2024,Utah,Big 12,Baylor,Big 12,0.6153846153846154
 2024,Baylor,Big 12,Utah,Big 12,0.4166666666666667
+2024,Boston College,ACC,Duquesne,NEC,0.7272727272727273
 2024,Ole Miss,SEC,Middle Tennessee,Conference USA,0.25
 2024,Virginia Tech,ACC,Marshall,Sun Belt,0.7692307692307693
-2024,West Virginia,Big 12,UAlbany,Coastal Athletic,0.3333333333333333
 2024,Miami,ACC,Florida A&M,SWAC,0.5833333333333334
+2024,West Virginia,Big 12,UAlbany,Coastal Athletic,0.3333333333333333
 2024,UCF,Big 12,Sam Houston,Conference USA,0.7692307692307693
 2024,Alabama,SEC,South Florida,American Athletic,0.5384615384615384
-2024,Stanford,ACC,Cal Poly,Big Sky,0.2727272727272727
 2024,Florida,SEC,Samford,Southern,0.3333333333333333
+2024,Stanford,ACC,Cal Poly,Big Sky,0.2727272727272727
+2024,Missouri,SEC,Buffalo,Mid-American,0.6923076923076923
 2024,Illinois,Big Ten,Kansas,Big 12,0.4166666666666667
 2024,Kansas,Big 12,Illinois,Big Ten,0.7692307692307693
-2024,Missouri,SEC,Buffalo,Mid-American,0.6923076923076923
 2024,LSU,SEC,Nicholls,Southland,0.3333333333333333
 2024,Vanderbilt,SEC,Alcorn State,SWAC,0.5
-2024,NC State,ACC,Tennessee,SEC,0.7692307692307693
-2024,Tennessee,SEC,NC State,ACC,0.46153846153846156
+2024,Ohio State,Big Ten,Western Michigan,Mid-American,0.46153846153846156
 2024,Nebraska,Big Ten,Colorado,Big 12,0.6923076923076923
 2024,Colorado,Big 12,Nebraska,Big Ten,0.5384615384615384
-2024,Ohio State,Big Ten,Western Michigan,Mid-American,0.46153846153846156
+2024,NC State,ACC,Tennessee,SEC,0.7692307692307693
+2024,Tennessee,SEC,NC State,ACC,0.46153846153846156
 2024,Oklahoma,SEC,Houston,Big 12,0.3333333333333333
 2024,Houston,Big 12,Oklahoma,SEC,0.46153846153846156
-2024,TCU,Big 12,Long Island University,NEC,0.3333333333333333
 2024,Clemson,ACC,App State,Sun Belt,0.45454545454545453
-2024,Oregon,Big Ten,Boise State,Mountain West,0.8571428571428571
+2024,TCU,Big 12,Long Island University,NEC,0.3333333333333333
 2024,Arizona,Big 12,Northern Arizona,Big Sky,0.6153846153846154
 2024,Texas Tech,Big 12,Washington State,Pac-12,0.6153846153846154
+2024,Oregon,Big Ten,Boise State,Mountain West,0.8571428571428571
 2024,Arizona State,Big 12,Mississippi State,SEC,0.16666666666666666
 2024,Mississippi State,SEC,Arizona State,Big 12,0.7857142857142857
 2024,USC,Big Ten,Utah State,Mountain West,0.3333333333333333
@@ -1828,62 +1828,62 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2024,Kansas,Big 12,UNLV,Mountain West,0.7857142857142857
 2024,Kansas State,Big 12,Arizona,Big 12,0.3333333333333333
 2024,Arizona,Big 12,Kansas State,Big 12,0.6923076923076923
-2024,Michigan,Big Ten,Arkansas State,Sun Belt,0.6153846153846154
 2024,Oklahoma State,Big 12,Tulsa,American Athletic,0.25
 2024,Texas Tech,Big 12,North Texas,American Athletic,0.46153846153846156
+2024,Illinois,Big Ten,Central Michigan,Mid-American,0.3333333333333333
+2024,Michigan,Big Ten,Arkansas State,Sun Belt,0.6153846153846154
+2024,NC State,ACC,Louisiana Tech,Conference USA,0.38461538461538464
+2024,Cincinnati,Big 12,Miami (OH),Mid-American,0.6428571428571429
 2024,Wisconsin,Big Ten,Alabama,SEC,0.6923076923076923
 2024,Alabama,SEC,Wisconsin,Big Ten,0.4166666666666667
-2024,NC State,ACC,Louisiana Tech,Conference USA,0.38461538461538464
 2024,Florida State,ACC,Memphis,American Athletic,0.8461538461538461
-2024,Cincinnati,Big 12,Miami (OH),Mid-American,0.6428571428571429
-2024,Illinois,Big Ten,Central Michigan,Mid-American,0.3333333333333333
 2024,Missouri,SEC,Boston College,ACC,0.5384615384615384
 2024,Boston College,ACC,Missouri,SEC,0.7692307692307693
+2024,Oregon,Big Ten,Oregon State,Pac-12,0.4166666666666667
+2024,Purdue,Big Ten,Notre Dame,FBS Independents,0.875
+2024,Michigan State,Big Ten,Prairie View A&M,SWAC,0.4166666666666667
+2024,Minnesota,Big Ten,Nevada,Mountain West,0.23076923076923078
+2024,Washington,Big Ten,Washington State,Pac-12,0.6153846153846154
+2024,Oklahoma,SEC,Tulane,American Athletic,0.6428571428571429
+2024,Georgia Tech,ACC,VMI,Southern,0.08333333333333333
+2024,Miami,ACC,Ball State,Mid-American,0.25
 2024,Pittsburgh,ACC,West Virginia,Big 12,0.46153846153846156
 2024,West Virginia,Big 12,Pittsburgh,ACC,0.5384615384615384
-2024,Michigan State,Big Ten,Prairie View A&M,SWAC,0.4166666666666667
-2024,Oklahoma,SEC,Tulane,American Athletic,0.6428571428571429
-2024,Purdue,Big Ten,Notre Dame,FBS Independents,0.875
-2024,Washington,Big Ten,Washington State,Pac-12,0.6153846153846154
-2024,Miami,ACC,Ball State,Mid-American,0.25
-2024,Minnesota,Big Ten,Nevada,Mountain West,0.23076923076923078
-2024,Oregon,Big Ten,Oregon State,Pac-12,0.4166666666666667
-2024,Georgia Tech,ACC,VMI,Southern,0.08333333333333333
 2024,Iowa,Big Ten,Troy,Sun Belt,0.3333333333333333
 2024,Arkansas,SEC,UAB,American Athletic,0.25
 2024,Utah,Big 12,Utah State,Mountain West,0.3333333333333333
-2024,Virginia Tech,ACC,Old Dominion,Sun Belt,0.4166666666666667
 2024,North Carolina,ACC,North Carolina Central,MEAC,0.7272727272727273
 2024,Duke,ACC,UConn,FBS Independents,0.6923076923076923
+2024,Virginia Tech,ACC,Old Dominion,Sun Belt,0.4166666666666667
 2024,Wake Forest,ACC,Ole Miss,SEC,0.7692307692307693
 2024,Ole Miss,SEC,Wake Forest,ACC,0.3333333333333333
 2024,Texas,SEC,UTSA,American Athletic,0.5384615384615384
 2024,Vanderbilt,SEC,Georgia State,Sun Belt,0.25
-2024,Baylor,Big 12,Air Force,Mountain West,0.4166666666666667
 2024,Auburn,SEC,New Mexico,Mountain West,0.4166666666666667
-2024,Colorado,Big 12,Colorado State,Mountain West,0.6153846153846154
-2024,Northwestern,Big Ten,Eastern Illinois,Big South-OVC,0.25
-2024,Nebraska,Big Ten,Northern Iowa,MVFC,0.25
+2024,Baylor,Big 12,Air Force,Mountain West,0.4166666666666667
 2024,Mississippi State,SEC,Toledo,Mid-American,0.6153846153846154
+2024,Nebraska,Big Ten,Northern Iowa,MVFC,0.25
+2024,Northwestern,Big Ten,Eastern Illinois,Big South-OVC,0.25
+2024,Colorado,Big 12,Colorado State,Mountain West,0.6153846153846154
 2024,Tennessee,SEC,Kent State,Mid-American,0.0
 2024,Houston,Big 12,Rice,American Athletic,0.3333333333333333
 2024,Virginia,ACC,Maryland,Big Ten,0.3333333333333333
 2024,Maryland,Big Ten,Virginia,ACC,0.4166666666666667
 2024,BYU,Big 12,Wyoming,Mountain West,0.25
 2024,California,ACC,San Diego State,Mountain West,0.25
-2024,Ohio State,Big Ten,Marshall,Sun Belt,0.7692307692307693
 2024,Indiana,Big Ten,Charlotte,American Athletic,0.4166666666666667
-2024,North Carolina,ACC,James Madison,Sun Belt,0.6923076923076923
 2024,Maryland,Big Ten,Villanova,Coastal Athletic,0.7142857142857143
+2024,North Carolina,ACC,James Madison,Sun Belt,0.6923076923076923
+2024,Ohio State,Big Ten,Marshall,Sun Belt,0.7692307692307693
 2024,Kentucky,SEC,Ohio,Mid-American,0.7857142857142857
-2024,Virginia,ACC,Coastal Carolina,Sun Belt,0.46153846153846156
 2024,Iowa State,Big 12,Arkansas State,Sun Belt,0.6153846153846154
+2024,Virginia,ACC,Coastal Carolina,Sun Belt,0.46153846153846156
+2024,Penn State,Big Ten,Kent State,Mid-American,0.0
+2024,Pittsburgh,ACC,Youngstown State,MVFC,0.3333333333333333
 2024,LSU,SEC,UCLA,Big Ten,0.4166666666666667
 2024,UCLA,Big Ten,LSU,SEC,0.6923076923076923
 2024,Virginia Tech,ACC,Rutgers,Big Ten,0.5384615384615384
 2024,Rutgers,Big Ten,Virginia Tech,ACC,0.46153846153846156
-2024,Penn State,Big Ten,Kent State,Mid-American,0.0
-2024,Pittsburgh,ACC,Youngstown State,MVFC,0.3333333333333333
 2024,Duke,ACC,Middle Tennessee,Conference USA,0.25
 2024,SMU,ACC,TCU,Big 12,0.6923076923076923
 2024,TCU,Big 12,SMU,ACC,0.7857142857142857
@@ -1895,9 +1895,9 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2024,Boston College,ACC,Michigan State,Big Ten,0.4166666666666667
 2024,Michigan State,Big Ten,Boston College,ACC,0.5384615384615384
 2024,Purdue,Big Ten,Oregon State,Pac-12,0.4166666666666667
-2024,NC State,ACC,Northern Illinois,Mid-American,0.6153846153846154
-2024,Syracuse,ACC,Holy Cross,Patriot,0.5
 2024,Boston College,ACC,Western Kentucky,Conference USA,0.5714285714285714
+2024,Syracuse,ACC,Holy Cross,Patriot,0.5
+2024,NC State,ACC,Northern Illinois,Mid-American,0.6153846153846154
 2024,Louisville,ACC,Notre Dame,FBS Independents,0.875
 2024,Wake Forest,ACC,Louisiana,Sun Belt,0.7142857142857143
 2024,LSU,SEC,South Alabama,Sun Belt,0.5384615384615384
@@ -1923,8 +1923,8 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2024,Tennessee,SEC,UTEP,Conference USA,0.25
 2024,Florida State,ACC,Charleston Southern,Big South-OVC,0.08333333333333333
 2024,Clemson,ACC,The Citadel,Southern,0.4166666666666667
-2024,Arkansas,SEC,Louisiana Tech,Conference USA,0.38461538461538464
 2024,South Carolina,SEC,Wofford,Southern,0.4166666666666667
+2024,Arkansas,SEC,Louisiana Tech,Conference USA,0.38461538461538464
 2024,Stanford,ACC,San José State,Mountain West,0.5384615384615384
 2024,Georgia,SEC,Georgia Tech,ACC,0.5384615384615384
 2024,Georgia Tech,ACC,Georgia,SEC,0.7857142857142857
@@ -1939,63 +1939,63 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2025,Kansas,Big 12,Fresno State,Mountain West,0.6923076923076923
 2025,Stanford,ACC,Hawai'i,Mountain West,0.6923076923076923
 2025,Rutgers,Big Ten,Ohio,Mid-American,0.6923076923076923
-2025,NC State,ACC,East Carolina,American Athletic,0.6923076923076923
 2025,UCF,Big 12,Jacksonville State,Conference USA,0.6428571428571429
+2025,NC State,ACC,East Carolina,American Athletic,0.6923076923076923
+2025,Duke,ACC,Elon,Coastal Athletic,0.5
 2025,Oklahoma State,Big 12,UT Martin,OVC-Big South,0.5
 2025,Missouri,SEC,Central Arkansas,UAC,0.25
-2025,Duke,ACC,Elon,Coastal Athletic,0.5
 2025,Minnesota,Big Ten,Buffalo,Mid-American,0.4166666666666667
 2025,Houston,Big 12,Stephen F. Austin,Southland,0.7857142857142857
 2025,Wisconsin,Big Ten,Miami (OH),Mid-American,0.5
 2025,Cincinnati,Big 12,Nebraska,Big Ten,0.5384615384615384
 2025,Nebraska,Big Ten,Cincinnati,Big 12,0.5384615384615384
-2025,Wake Forest,ACC,Kennesaw State,Conference USA,0.7142857142857143
 2025,Michigan State,Big Ten,Western Michigan,Mid-American,0.7142857142857143
+2025,Wake Forest,ACC,Kennesaw State,Conference USA,0.7142857142857143
 2025,Kansas,Big 12,Wagner,NEC,0.4166666666666667
 2025,Illinois,Big Ten,Western Illinois,OVC-Big South,0.3333333333333333
 2025,Colorado,Big 12,Georgia Tech,ACC,0.6923076923076923
 2025,Georgia Tech,ACC,Colorado,Big 12,0.25
 2025,Baylor,Big 12,Auburn,SEC,0.4166666666666667
 2025,Auburn,SEC,Baylor,Big 12,0.4166666666666667
-2025,Mississippi State,SEC,Southern Miss,Sun Belt,0.5384615384615384
 2025,Tennessee,SEC,Syracuse,ACC,0.25
 2025,Syracuse,ACC,Tennessee,SEC,0.6153846153846154
-2025,Purdue,Big Ten,Ball State,Mid-American,0.3333333333333333
 2025,Pittsburgh,ACC,Duquesne,NEC,0.5833333333333334
+2025,Northwestern,Big Ten,Tulane,American Athletic,0.7857142857142857
+2025,Maryland,Big Ten,Florida Atlantic,American Athletic,0.3333333333333333
+2025,Mississippi State,SEC,Southern Miss,Sun Belt,0.5384615384615384
+2025,Purdue,Big Ten,Ball State,Mid-American,0.3333333333333333
 2025,Ohio State,Big Ten,Texas,SEC,0.7692307692307693
 2025,Texas,SEC,Ohio State,Big Ten,0.8571428571428571
-2025,Maryland,Big Ten,Florida Atlantic,American Athletic,0.3333333333333333
-2025,Northwestern,Big Ten,Tulane,American Athletic,0.7857142857142857
 2025,Kentucky,SEC,Toledo,Mid-American,0.6153846153846154
 2025,Boston College,ACC,Fordham,Patriot,0.08333333333333333
 2025,West Virginia,Big 12,Robert Morris,NEC,0.25
 2025,Indiana,Big Ten,Old Dominion,Sun Belt,0.7692307692307693
 2025,Louisville,ACC,Eastern Kentucky,UAC,0.4166666666666667
 2025,Penn State,Big Ten,Nevada,Mountain West,0.25
-2025,Iowa State,Big 12,South Dakota,MVFC,0.6666666666666666
-2025,Georgia,SEC,Marshall,Sun Belt,0.4166666666666667
 2025,Florida State,ACC,Alabama,SEC,0.7333333333333333
 2025,Alabama,SEC,Florida State,ACC,0.4166666666666667
+2025,Georgia,SEC,Marshall,Sun Belt,0.4166666666666667
+2025,Iowa State,Big 12,South Dakota,MVFC,0.6666666666666666
 2025,Oregon,Big Ten,Montana State,Big Sky,0.875
 2025,Arkansas,SEC,Alabama A&M,SWAC,0.3333333333333333
+2025,Iowa,Big Ten,UAlbany,Coastal Athletic,0.16666666666666666
 2025,Oklahoma,SEC,Illinois State,MVFC,0.7058823529411765
 2025,Virginia,ACC,Coastal Carolina,Sun Belt,0.46153846153846156
-2025,Iowa,Big Ten,UAlbany,Coastal Athletic,0.16666666666666666
-2025,Kansas State,Big 12,North Dakota,MVFC,0.5714285714285714
-2025,Texas A&M,SEC,UTSA,American Athletic,0.5384615384615384
-2025,Vanderbilt,SEC,Charleston Southern,OVC-Big South,0.4166666666666667
 2025,Florida,SEC,Long Island University,NEC,0.5
-2025,Michigan,Big Ten,New Mexico,Mountain West,0.6923076923076923
-2025,Texas Tech,Big 12,Arkansas-Pine Bluff,SWAC,0.2727272727272727
+2025,Vanderbilt,SEC,Charleston Southern,OVC-Big South,0.4166666666666667
+2025,Texas A&M,SEC,UTSA,American Athletic,0.5384615384615384
+2025,Kansas State,Big 12,North Dakota,MVFC,0.5714285714285714
 2025,Clemson,ACC,LSU,SEC,0.5384615384615384
 2025,LSU,SEC,Clemson,ACC,0.5384615384615384
 2025,USC,Big Ten,Missouri State,Conference USA,0.5384615384615384
+2025,Michigan,Big Ten,New Mexico,Mountain West,0.6923076923076923
+2025,Texas Tech,Big 12,Arkansas-Pine Bluff,SWAC,0.2727272727272727
 2025,Ole Miss,SEC,Georgia State,Sun Belt,0.08333333333333333
 2025,BYU,Big 12,Portland State,Big Sky,0.08333333333333333
 2025,SMU,ACC,East Texas A&M,Southland,0.25
 2025,Arizona State,Big 12,Northern Arizona,Big Sky,0.5833333333333334
-2025,California,ACC,Oregon State,Pac-12,0.16666666666666666
 2025,Arizona,Big 12,Hawai'i,Mountain West,0.6923076923076923
+2025,California,ACC,Oregon State,Pac-12,0.16666666666666666
 2025,UCLA,Big Ten,Utah,Big 12,0.8461538461538461
 2025,Utah,Big 12,UCLA,Big Ten,0.25
 2025,Washington,Big Ten,Colorado State,Mountain West,0.16666666666666666
@@ -2007,35 +2007,35 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2025,Louisville,ACC,James Madison,Sun Belt,0.8571428571428571
 2025,Maryland,Big Ten,Northern Illinois,Mid-American,0.25
 2025,Northwestern,Big Ten,Western Illinois,OVC-Big South,0.3333333333333333
+2025,SMU,ACC,Baylor,Big 12,0.4166666666666667
+2025,Baylor,Big 12,SMU,ACC,0.6923076923076923
+2025,Minnesota,Big Ten,Northwestern State,Southland,0.08333333333333333
+2025,Pittsburgh,ACC,Central Michigan,Mid-American,0.5384615384615384
+2025,Penn State,Big Ten,Florida International,Conference USA,0.5384615384615384
 2025,Texas,SEC,San José State,Mountain West,0.25
+2025,Florida State,ACC,East Texas A&M,Southland,0.25
+2025,Duke,ACC,Illinois,Big Ten,0.6923076923076923
+2025,Illinois,Big Ten,Duke,ACC,0.6428571428571429
+2025,Indiana,Big Ten,Kennesaw State,Conference USA,0.7142857142857143
 2025,NC State,ACC,Virginia,ACC,0.7857142857142857
 2025,Virginia,ACC,NC State,ACC,0.6153846153846154
 2025,Texas Tech,Big 12,Kent State,Mid-American,0.4166666666666667
 2025,Iowa State,Big 12,Iowa,Big Ten,0.6923076923076923
 2025,Iowa,Big Ten,Iowa State,Big 12,0.6666666666666666
-2025,Indiana,Big Ten,Kennesaw State,Conference USA,0.7142857142857143
-2025,Duke,ACC,Illinois,Big Ten,0.6923076923076923
-2025,Illinois,Big Ten,Duke,ACC,0.6428571428571429
-2025,Florida State,ACC,East Texas A&M,Southland,0.25
-2025,Minnesota,Big Ten,Northwestern State,Southland,0.08333333333333333
-2025,Pittsburgh,ACC,Central Michigan,Mid-American,0.5384615384615384
 2025,Syracuse,ACC,UConn,FBS Independents,0.6923076923076923
-2025,Penn State,Big Ten,Florida International,Conference USA,0.5384615384615384
-2025,SMU,ACC,Baylor,Big 12,0.4166666666666667
-2025,Baylor,Big 12,SMU,ACC,0.6923076923076923
 2025,Texas A&M,SEC,Utah State,Mountain West,0.46153846153846156
 2025,Wake Forest,ACC,Western Carolina,Southern,0.5833333333333334
+2025,Oregon,Big Ten,Oklahoma State,Big 12,0.08333333333333333
+2025,Oklahoma State,Big 12,Oregon,Big Ten,0.8666666666666667
+2025,Cincinnati,Big 12,Bowling Green,Mid-American,0.3333333333333333
+2025,Rutgers,Big Ten,Miami (OH),Mid-American,0.5
 2025,Missouri,SEC,Kansas,Big 12,0.4166666666666667
 2025,Kansas,Big 12,Missouri,SEC,0.6153846153846154
 2025,Ohio State,Big Ten,Grambling,SWAC,0.5833333333333334
-2025,Georgia Tech,ACC,Gardner-Webb,OVC-Big South,0.5833333333333334
 2025,Georgia,SEC,Austin Peay,UAC,0.5833333333333334
-2025,Rutgers,Big Ten,Miami (OH),Mid-American,0.5
-2025,Oregon,Big Ten,Oklahoma State,Big 12,0.08333333333333333
-2025,Oklahoma State,Big 12,Oregon,Big Ten,0.8666666666666667
+2025,Georgia Tech,ACC,Gardner-Webb,OVC-Big South,0.5833333333333334
 2025,Tennessee,SEC,East Tennessee State,Southern,0.5833333333333334
 2025,Colorado,Big 12,Delaware,Conference USA,0.5384615384615384
-2025,Cincinnati,Big 12,Bowling Green,Mid-American,0.3333333333333333
 2025,Clemson,ACC,Troy,Sun Belt,0.5714285714285714
 2025,West Virginia,Big 12,Ohio,Mid-American,0.6923076923076923
 2025,Wisconsin,Big Ten,Middle Tennessee,Conference USA,0.25
@@ -2043,25 +2043,25 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2025,Arkansas,SEC,Arkansas State,Sun Belt,0.5384615384615384
 2025,Utah,Big 12,Cal Poly,Big Sky,0.3333333333333333
 2025,California,ACC,Texas Southern,SWAC,0.5454545454545454
-2025,North Carolina,ACC,Charlotte,American Athletic,0.08333333333333333
 2025,UCF,Big 12,North Carolina A&T,Coastal Athletic,0.16666666666666666
-2025,Kansas State,Big 12,Army,American Athletic,0.5384615384615384
-2025,Miami,ACC,Bethune-Cookman,SWAC,0.5
 2025,Houston,Big 12,Rice,American Athletic,0.38461538461538464
+2025,Miami,ACC,Bethune-Cookman,SWAC,0.5
+2025,North Carolina,ACC,Charlotte,American Athletic,0.08333333333333333
+2025,Kansas State,Big 12,Army,American Athletic,0.5384615384615384
 2025,South Carolina,SEC,South Carolina State,MEAC,0.7692307692307693
-2025,Oklahoma,SEC,Michigan,Big Ten,0.6923076923076923
-2025,Michigan,Big Ten,Oklahoma,SEC,0.7692307692307693
-2025,Nebraska,Big Ten,Akron,Mid-American,0.4166666666666667
-2025,USC,Big Ten,Georgia Southern,Sun Belt,0.5384615384615384
-2025,Virginia Tech,ACC,Vanderbilt,SEC,0.7692307692307693
-2025,Vanderbilt,SEC,Virginia Tech,ACC,0.25
-2025,Auburn,SEC,Ball State,Mid-American,0.3333333333333333
-2025,LSU,SEC,Louisiana Tech,Conference USA,0.6153846153846154
 2025,Michigan State,Big Ten,Boston College,ACC,0.16666666666666666
 2025,Boston College,ACC,Michigan State,Big Ten,0.3333333333333333
+2025,USC,Big Ten,Georgia Southern,Sun Belt,0.5384615384615384
+2025,LSU,SEC,Louisiana Tech,Conference USA,0.6153846153846154
 2025,Purdue,Big Ten,Southern Illinois,MVFC,0.5833333333333334
+2025,Auburn,SEC,Ball State,Mid-American,0.3333333333333333
+2025,Virginia Tech,ACC,Vanderbilt,SEC,0.7692307692307693
+2025,Vanderbilt,SEC,Virginia Tech,ACC,0.25
 2025,Mississippi State,SEC,Arizona State,Big 12,0.6153846153846154
 2025,Arizona State,Big 12,Mississippi State,SEC,0.38461538461538464
+2025,Nebraska,Big Ten,Akron,Mid-American,0.4166666666666667
+2025,Oklahoma,SEC,Michigan,Big Ten,0.6923076923076923
+2025,Michigan,Big Ten,Oklahoma,SEC,0.7692307692307693
 2025,Alabama,SEC,UL Monroe,Sun Belt,0.25
 2025,UCLA,Big Ten,UNLV,Mountain West,0.7142857142857143
 2025,Arizona,Big 12,Weber State,Big Sky,0.3333333333333333
@@ -2078,20 +2078,20 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2025,Wisconsin,Big Ten,Alabama,SEC,0.7333333333333333
 2025,Oklahoma,SEC,Temple,American Athletic,0.4166666666666667
 2025,Nebraska,Big Ten,Houston Christian,Southland,0.16666666666666666
-2025,Maryland,Big Ten,Towson,Coastal Athletic,0.5
 2025,Baylor,Big 12,Samford,Southern,0.08333333333333333
 2025,Virginia,ACC,William & Mary,Coastal Athletic,0.5833333333333334
+2025,Maryland,Big Ten,Towson,Coastal Athletic,0.5
 2025,Auburn,SEC,South Alabama,Sun Belt,0.3333333333333333
 2025,Missouri,SEC,Louisiana,Sun Belt,0.46153846153846156
-2025,Rutgers,Big Ten,Norfolk State,MEAC,0.08333333333333333
+2025,SMU,ACC,Missouri State,Conference USA,0.5384615384615384
 2025,Penn State,Big Ten,Villanova,Coastal Athletic,0.8
-2025,Michigan State,Big Ten,Youngstown State,MVFC,0.6153846153846154
 2025,North Carolina,ACC,Richmond,Patriot,0.5833333333333334
+2025,Cincinnati,Big 12,Northwestern State,Southland,0.08333333333333333
+2025,Rutgers,Big Ten,Norfolk State,MEAC,0.08333333333333333
+2025,Texas Tech,Big 12,Oregon State,Pac-12,0.16666666666666666
 2025,West Virginia,Big 12,Pittsburgh,ACC,0.6153846153846154
 2025,Pittsburgh,ACC,West Virginia,Big 12,0.3333333333333333
-2025,SMU,ACC,Missouri State,Conference USA,0.5384615384615384
-2025,Cincinnati,Big 12,Northwestern State,Southland,0.08333333333333333
-2025,Texas Tech,Big 12,Oregon State,Pac-12,0.16666666666666666
+2025,Michigan State,Big Ten,Youngstown State,MVFC,0.6153846153846154
 2025,Iowa State,Big 12,Arkansas State,Sun Belt,0.5384615384615384
 2025,Texas,SEC,UTEP,Conference USA,0.16666666666666666
 2025,Miami,ACC,South Florida,American Athletic,0.6923076923076923
@@ -2102,32 +2102,32 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2025,Iowa,Big Ten,Massachusetts,Mid-American,0.0
 2025,Texas A&M,SEC,Notre Dame,FBS Independents,0.8333333333333334
 2025,Kentucky,SEC,Eastern Michigan,Mid-American,0.3333333333333333
-2025,TCU,Big 12,Abilene Christian,UAC,0.6428571428571429
 2025,Duke,ACC,Tulane,American Athletic,0.7857142857142857
 2025,Utah,Big 12,Wyoming,Mountain West,0.3333333333333333
+2025,TCU,Big 12,Abilene Christian,UAC,0.6428571428571429
 2025,Arizona State,Big 12,Texas State,Sun Belt,0.5384615384615384
 2025,California,ACC,Minnesota,Big Ten,0.6153846153846154
 2025,Minnesota,Big Ten,California,ACC,0.5384615384615384
 2025,Oklahoma State,Big 12,Tulsa,American Athletic,0.3333333333333333
+2025,Louisville,ACC,Bowling Green,Mid-American,0.3333333333333333
 2025,TCU,Big 12,SMU,ACC,0.6923076923076923
 2025,SMU,ACC,TCU,Big 12,0.6923076923076923
-2025,Louisville,ACC,Bowling Green,Mid-American,0.3333333333333333
-2025,Virginia Tech,ACC,Wofford,Southern,0.5
 2025,Arkansas,SEC,Memphis,American Athletic,0.6153846153846154
+2025,Virginia Tech,ACC,Wofford,Southern,0.5
 2025,Tennessee,SEC,UAB,American Athletic,0.3333333333333333
 2025,Oregon,Big Ten,Oregon State,Pac-12,0.16666666666666666
 2025,Purdue,Big Ten,Notre Dame,FBS Independents,0.8333333333333334
-2025,Ole Miss,SEC,Tulane,American Athletic,0.7857142857142857
 2025,Florida State,ACC,Kent State,Mid-American,0.4166666666666667
+2025,Ole Miss,SEC,Tulane,American Athletic,0.7857142857142857
 2025,UCF,Big 12,North Carolina,ACC,0.3333333333333333
 2025,North Carolina,ACC,UCF,Big 12,0.4166666666666667
 2025,Mississippi State,SEC,Northern Illinois,Mid-American,0.25
 2025,Georgia Tech,ACC,Temple,American Athletic,0.4166666666666667
 2025,Vanderbilt,SEC,Georgia State,Sun Belt,0.08333333333333333
-2025,BYU,Big 12,East Carolina,American Athletic,0.6923076923076923
+2025,Washington,Big Ten,Washington State,Pac-12,0.5384615384615384
 2025,Miami,ACC,Florida,SEC,0.3333333333333333
 2025,Florida,SEC,Miami,ACC,0.8125
-2025,Washington,Big Ten,Washington State,Pac-12,0.5384615384615384
+2025,BYU,Big 12,East Carolina,American Athletic,0.6923076923076923
 2025,LSU,SEC,SE Louisiana,Southland,0.6923076923076923
 2025,Texas,SEC,Sam Houston,Conference USA,0.16666666666666666
 2025,Colorado,Big 12,Wyoming,Mountain West,0.3333333333333333
@@ -2163,10 +2163,10 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2025,LSU,SEC,Western Kentucky,Conference USA,0.6923076923076923
 2025,Georgia Tech,ACC,Georgia,SEC,0.8571428571428571
 2025,Georgia,SEC,Georgia Tech,ACC,0.6923076923076923
-2025,South Carolina,SEC,Clemson,ACC,0.5384615384615384
-2025,Clemson,ACC,South Carolina,SEC,0.3333333333333333
 2025,Louisville,ACC,Kentucky,SEC,0.4166666666666667
 2025,Kentucky,SEC,Louisville,ACC,0.6923076923076923
+2025,South Carolina,SEC,Clemson,ACC,0.5384615384615384
+2025,Clemson,ACC,South Carolina,SEC,0.3333333333333333
 2025,Florida,SEC,Florida State,ACC,0.4166666666666667
 2025,Florida State,ACC,Florida,SEC,0.3333333333333333
 2025,Stanford,ACC,Notre Dame,FBS Independents,0.8333333333333334
@@ -2174,7 +2174,7 @@ season,team,team_conference,opponent,opponent_conference,opponent_win_pct
 2025,BYU,Big 12,Texas Tech,Big 12,0.8571428571428571
 2025,Alabama,SEC,Georgia,SEC,0.8571428571428571
 2025,Georgia,SEC,Alabama,SEC,0.7333333333333333
-2025,Ohio State,Big Ten,Indiana,Big Ten,1.0
-2025,Indiana,Big Ten,Ohio State,Big Ten,0.8571428571428571
 2025,Virginia,ACC,Duke,ACC,0.6428571428571429
 2025,Duke,ACC,Virginia,ACC,0.7857142857142857
+2025,Ohio State,Big Ten,Indiana,Big Ten,1.0
+2025,Indiana,Big Ten,Ohio State,Big Ten,0.8571428571428571
