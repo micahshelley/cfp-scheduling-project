@@ -29,4 +29,4 @@ Schedule and results data pulled from [collegefootballdata.com](https://collegef
 
 ## Live Site
 
-[Link will go here once the site is published]
+https://micahshelley.github.io/cfp-scheduling-project/
