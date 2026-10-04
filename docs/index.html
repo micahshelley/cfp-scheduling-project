@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Micah Shelley - Data Science Portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
@@ -62,6 +63,17 @@
     ul, ol { padding-left: 22px; }
     li { margin-bottom: 8px; }
     .refs li { font-size: 0.95em; }
+    .project-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 20px 0; }
+    .project-card {
+      display: block; background: white; border: 1px solid #e5e5e5; border-top: 4px solid #0a1f44;
+      border-radius: 8px; padding: 18px 20px; text-decoration: none; color: #1a1a1a;
+      transition: border-color 0.15s, transform 0.15s;
+    }
+    .project-card:hover { border-top-color: #c9a44c; transform: translateY(-2px); color: #1a1a1a; }
+    .project-card .tag { font-size: 0.8em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; color: #8a6418; }
+    .project-card .title { font-family: 'Oswald', sans-serif; font-weight: 600; font-size: 1.15em; color: #0a1f44; margin: 6px 0; line-height: 1.3; }
+    .project-card .desc { font-size: 0.93em; color: #555; }
+    nav { flex-wrap: wrap; }
     footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 0.85em; color: #777; text-align: center; }
     section { scroll-margin-top: 20px; }
   </style>
@@ -71,14 +83,16 @@
   <header>
     <img class="logo" src="cfp-logo.png" alt="College Football Playoff logo">
     <h1>Micah Shelley: Data Science Portfolio</h1>
-    <div class="meta">DTSC 2301 · Portfolio Project 1</div>
+    <div class="meta">DTSC 2301 · Data Science Portfolio</div>
   </header>
 
   <nav>
     <a href="#about">About</a>
     <a href="#resume">Resume</a>
     <a href="#linkedin">LinkedIn</a>
+    <a href="#projects">Projects</a>
     <a href="#project">Project 1</a>
+    <a href="nfl-two-point.html">Project 2</a>
   </nav>
 
   <section id="about">
@@ -99,6 +113,22 @@
   <section id="linkedin">
     <h2>LinkedIn</h2>
     <p><a class="btn" href="https://www.linkedin.com/in/micah-shelley-5b111630b/" target="_blank">View my LinkedIn Profile</a></p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project-grid">
+      <a class="project-card" href="#project">
+        <div class="tag">Project 1 · Statistical analysis</div>
+        <div class="title">Has the 12-Team Playoff Changed Non-Conference Scheduling?</div>
+        <div class="desc">College football schedules, 2014–2025, compared across the four-team and twelve-team playoff eras.</div>
+      </a>
+      <a class="project-card" href="nfl-two-point.html">
+        <div class="tag">Project 2 · Machine learning</div>
+        <div class="title">Down 8 After a Late Touchdown: Go for 2 or Kick?</div>
+        <div class="desc">A win probability model trained on 400,000+ NFL plays tests a classic late-game decision.</div>
+      </a>
+    </div>
   </section>
 
   <hr style="margin: 50px 0; border: none; border-top: 1px solid #ddd;">
