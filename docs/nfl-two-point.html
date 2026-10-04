@@ -96,6 +96,8 @@
       h1 { font-size: 1.5em; }
       .toc ol { columns: 1; }
     }
+      .code-example { background: #101d35; color: #eef2fb; padding: 20px; border-radius: 8px; overflow-x: auto; font-size: 0.85rem; line-height: 1.6; text-align: left; }
+    .code-example code { background: transparent; color: inherit; padding: 0; white-space: pre; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
   </style>
 </head>
 <body>
@@ -447,8 +449,32 @@
     <p>
       The notebook downloads the data automatically, runs every step top to bottom, and saves every chart on this page. The 108 decision situations with model predictions are saved in <code>data/nfl_down8_tries_2016_2025.csv</code>. Tools: Python, pandas, NumPy, scikit-learn (Pedregosa et al., 2011), SciPy and Matplotlib.
     </p>
+
+    <h3 id="code-snippets">Code excerpts from the analysis notebook</h3>
+    <p>These excerpts show the situation filter, logistic regression pipeline, and expected-win-probability calculation. They use variables and helper functions defined in the full notebook linked above.</p>
+    <h4>Select late-game tries while trailing by eight</h4>
+    <pre class="code-example"><code>tries = df[((df.extra_point_attempt == 1) | (df.two_point_attempt == 1))
+           &amp; (df.qtr == 4) &amp; (df.game_seconds_remaining &lt; 600)
+           &amp; (df.score_differential == -8) &amp; (df.result != 0)].copy()</code></pre>
+    <h4>Build and fit the logistic regression pipeline</h4>
+    <pre class="code-example"><code>num_cols = [c for c in FEATURES if c != &quot;down&quot;]
+def make_logit():
+    return Pipeline([
+        (&quot;prep&quot;, ColumnTransformer([(&quot;num&quot;, StandardScaler(), num_cols),
+                                    (&quot;down&quot;, OneHotEncoder(handle_unknown=&quot;ignore&quot;), [&quot;down&quot;])])),
+        (&quot;clf&quot;, LogisticRegression(max_iter=2000, C=1.0)),
+    ])
+logit = make_logit().fit(X_tr, y_tr)</code></pre>
+    <h4>Compare going for two with kicking the PAT</h4>
+    <pre class="code-example"><code>def expected_wp(model, state, p2=p_2pt, pk=p_pat):
+    wp6, wp7, wp8 = (trailing_wp(model, lead, **state) for lead in (6, 7, 8))
+    go2 = p2 * wp6 + (1 - p2) * wp8
+    kick = pk * wp7 + (1 - pk) * wp8
+    breakeven = pk * (wp7 - wp8) / (wp6 - wp8)
+    return go2, kick, breakeven, wp6, wp7, wp8</code></pre>
+
     <div class="callout warn">
-      <p><strong>AI usage disclosure:</strong> I used Claude (Anthropic; model ID claude-opus-5-5, via the Claude desktop app, October 2026) on this project. Claude helped me plan the project structure, wrote and ran the Python analysis code in the notebook (data loading, feature engineering, model training, evaluation and charts), suggested the bootstrap stability check and the raw-data cross-check, helped me find and verify sources, and drafted the text and design of this page. I reviewed the code and results, checked that the numbers on this page match the notebook output, and edited the write-up. The research question was my own.</p>
+      <p><strong>AI usage disclosure:</strong> I used Claude (Anthropic) to help troubleshoot difficulties with my code when recieved error messages I didn't understand. I also used Claude to help with step by step instructions on how to upload my findings to my GitHub website. I did not use AI to generate any of the analysis, visualizations, or written content in this portfolio.</p>
     </div>
 
     <h3>References</h3>
